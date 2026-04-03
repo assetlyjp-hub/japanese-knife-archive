@@ -1,0 +1,51 @@
+---
+// steels/index.astro - 鋼材データベースページ
+// 各鋼材のレーダーチャートとスペックを一覧表示
+
+import Base from '../../layouts/Base.astro';
+import SteelRadar from '../../components/SteelRadar.astro';
+import steelsData from '../../data/steels.json';
+---
+
+<Base
+  title="Japanese Knife Steel Guide"
+  description="Complete guide to Japanese knife steels — VG-10, Aogami Super, SG2/R2, Shirogami, and more. Compare edge retention, corrosion resistance, and sharpening ease."
+>
+  <!-- ページヘッダー -->
+  <div class="page-header">
+    <h1 class="page-header__title">Steel Database</h1>
+    <p class="page-header__description">
+      The science behind the edge — explore every steel used in Japanese knives
+    </p>
+  </div>
+
+  <div class="container">
+    <!-- 鋼材一覧 -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {steelsData.map((steel) => (
+        <a href={`/steels/${steel.id}/`} class="steel-card">
+          <!-- 鋼材名とタイプ -->
+          <h3 class="steel-card__name">{steel.name}</h3>
+          <p class="steel-card__type">{steel.type} · {steel.hardness} HRC</p>
+
+          <!-- レーダーチャート -->
+          <SteelRadar
+            edgeRetention={steel.edgeRetention}
+            corrosionResistance={steel.corrosionResistance}
+            easeOfSharpening={steel.easeOfSharpening}
+            toughness={steel.toughness}
+            hardness={steel.hardness}
+          />
+
+          <!-- スタッツバッジ -->
+          <div class="steel-card__stats">
+            <span class="steel-card__stat">Edge: {steel.edgeRetention}/5</span>
+            <span class="steel-card__stat">Rust: {steel.corrosionResistance}/5</span>
+            <span class="steel-card__stat">Sharpen: {steel.easeOfSharpening}/5</span>
+            <span class="steel-card__stat">Tough: {steel.toughness}/5</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

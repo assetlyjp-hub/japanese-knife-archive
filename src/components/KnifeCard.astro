@@ -1,0 +1,55 @@
+---
+// KnifeCard.astro - 包丁カードコンポーネント
+// グリッド表示用の包丁1本分のカード
+
+// 包丁データの型定義
+interface Props {
+  id: string;
+  name: string;
+  brand: string;
+  brandJa: string;
+  type: string;
+  typeJa: string;
+  steel: string;
+  steelType: string;
+  bladeLength: number;
+  priceUSD: number;
+  image: string;
+  handle: string;
+}
+
+const { id, name, brand, brandJa, type, typeJa, steel, steelType, bladeLength, priceUSD, image, handle } = Astro.props;
+
+// 包丁タイプの表示名を大文字に（英語）
+const typeLabel = type.charAt(0).toUpperCase() + type.slice(1);
+---
+
+<!-- 包丁カード: クリックで詳細ページへ遷移 -->
+<a href={`/knives/${id}/`} class="knife-card"
+   data-type={type}
+   data-steel={steel}
+   data-steel-type={steelType}
+   data-price={priceUSD}
+   data-handle={handle}>
+
+  <!-- 包丁画像（プレースホルダーSVG） -->
+  <img src={image} alt={name} class="knife-card__image" loading="lazy" />
+
+  <div class="knife-card__body">
+    <!-- タイプラベル -->
+    <p class="knife-card__type">{typeLabel} · {bladeLength}mm</p>
+
+    <!-- 包丁名 -->
+    <h3 class="knife-card__name">{name}</h3>
+
+    <!-- ブランド名 -->
+    <p class="knife-card__brand">{brandJa} ({brand})</p>
+
+    <!-- メタ情報: 鋼材・ハンドル・価格 -->
+    <div class="knife-card__meta">
+      <span class="knife-card__tag">{steel.toUpperCase().replace('-', ' ').replace('sg2 r2', 'SG2/R2')}</span>
+      <span class="knife-card__tag">{handle === 'wa' ? 'Wa Handle' : 'Yo Handle'}</span>
+      <span class="knife-card__price">${priceUSD}</span>
+    </div>
+  </div>
+</a>

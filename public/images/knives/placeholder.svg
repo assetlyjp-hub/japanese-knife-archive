@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- 包丁プレースホルダー: ダーク背景に金色ラインの柳刃 -->
+  <rect width="400" height="300" fill="#1A1A1A"/>
+  <!-- 柳刃のシルエット -->
+  <path d="M60 180 Q80 120 320 140 L340 150 L330 160 Q90 160 70 190 Z"
+        fill="none" stroke="#C5A572" stroke-width="1.5" opacity="0.6"/>
+  <!-- 柄 -->
+  <rect x="330" y="138" width="50" height="18" rx="3" fill="none"
+        stroke="#C5A572" stroke-width="1.5" opacity="0.6"/>
+  <!-- 口金 -->
+  <rect x="326" y="136" width="8" height="22" rx="1" fill="none"
+        stroke="#C5A572" stroke-width="1.5" opacity="0.4"/>
+  <!-- テキスト -->
+  <text x="200" y="240" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="12" fill="#666" letter-spacing="0.1em">JAPANESE KNIFE ARCHIVE</text>
+</svg>

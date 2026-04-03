@@ -1,0 +1,87 @@
+---
+// brands/[id].astro - ブランド詳細ページ
+// ブランドの詳細情報とそのブランドの包丁一覧を表示
+
+import Base from '../../layouts/Base.astro';
+import KnifeCard from '../../components/KnifeCard.astro';
+
+import brandsData from '../../data/brands.json';
+import knivesData from '../../data/knives.json';
+
+// 静的パス生成
+export function getStaticPaths() {
+  return brandsData.map((brand) => ({
+    params: { id: brand.id },
+  }));
+}
+
+const { id } = Astro.params;
+const brand = brandsData.find(b => b.id === id);
+if (!brand) return Astro.redirect('/404');
+
+// そのブランドの包丁を取得
+const brandKnives = knivesData.filter(k => k.brand === id);
+---
+
+<Base
+  title={`${brand.name} (${brand.nameJa})`}
+  description={brand.description.slice(0, 160)}
+>
+  <!-- ブランドヘッダー -->
+  <div class="page-header">
+    <h1 class="page-header__title">{brand.name}</h1>
+    <p style="font-family: var(--font-ja); font-size: 1.1rem; color: var(--color-text-sub); margin-bottom: 0.5rem;">{brand.nameJa}</p>
+    <p class="page-header__description">Est. {brand.founded} · {brand.origin} ({brand.originJa})</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- ブランド説明 -->
+    <div style="padding: var(--space-lg) 0;">
+      <p style="margin-bottom: var(--space-md); line-height: 1.9;">{brand.description}</p>
+      <div class="spec-grid" style="border-bottom: none;">
+        <div class="spec-item">
+          <span class="spec-item__label">Origin</span>
+          <span class="spec-item__value">{brand.origin} ({brand.originJa})</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Founded</span>
+          <span class="spec-item__value">{brand.founded}</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Specialty</span>
+          <span class="spec-item__value">{brand.specialty}</span>
+        </div>
+      </div>
+      {brand.website && (
+        <p style="margin-top: var(--space-md);">
+          <a href={brand.website} class="btn btn--sm" target="_blank" rel="noopener noreferrer">Visit Official Website</a>
+        </p>
+      )}
+    </div>
+
+    <!-- そのブランドの包丁一覧 -->
+    {brandKnives.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Knives by {brand.name}</h2>
+        <div class="knife-grid">
+          {brandKnives.map((knife) => (
+            <KnifeCard
+              id={knife.id}
+              name={knife.name}
+              brand={knife.brand}
+              brandJa={knife.brandJa}
+              type={knife.type}
+              typeJa={knife.typeJa}
+              steel={knife.steel}
+              steelType={knife.steelType}
+              bladeLength={knife.bladeLength}
+              priceUSD={knife.priceUSD}
+              image={knife.image}
+              handle={knife.handle}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

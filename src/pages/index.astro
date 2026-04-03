@@ -1,0 +1,50 @@
+---
+// index.astro - トップページ
+// ヒーロー + フィルター付き包丁グリッドを表示
+
+import Base from '../layouts/Base.astro';
+import FilterBar from '../components/FilterBar.astro';
+import KnifeCard from '../components/KnifeCard.astro';
+
+// 包丁データの読み込み
+import knivesData from '../data/knives.json';
+---
+
+<Base title="Japanese Knife Archive">
+  <!-- ヒーローセクション -->
+  <section class="hero">
+    <h1 class="hero__title">Japanese Knife <span>Archive</span></h1>
+    <p class="hero__subtitle">The definitive database of Japanese kitchen knives</p>
+  </section>
+
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- フィルターバー -->
+    <FilterBar />
+
+    <!-- 包丁グリッド -->
+    <div class="knife-grid" id="knife-grid">
+      {knivesData.map((knife) => (
+        <KnifeCard
+          id={knife.id}
+          name={knife.name}
+          brand={knife.brand}
+          brandJa={knife.brandJa}
+          type={knife.type}
+          typeJa={knife.typeJa}
+          steel={knife.steel}
+          steelType={knife.steelType}
+          bladeLength={knife.bladeLength}
+          priceUSD={knife.priceUSD}
+          image={knife.image}
+          handle={knife.handle}
+        />
+      ))}
+    </div>
+
+    <!-- 結果なし表示（フィルターで全非表示の時） -->
+    <p id="no-results" style="display:none; text-align:center; color:var(--color-text-muted); padding: 2rem 0;">
+      No knives match your filters. Try adjusting your criteria.
+    </p>
+  </div>
+</Base>

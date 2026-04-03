@@ -1,0 +1,63 @@
+---
+// ja/index.astro - 日本語版トップページ
+// 英語版と同じ構造で、テキストのみ日本語に
+
+import Base from '../../layouts/Base.astro';
+import KnifeCard from '../../components/KnifeCard.astro';
+import knivesData from '../../data/knives.json';
+
+// 日本語版用のレイアウトプロパティを上書き
+---
+
+<Base
+  title="Japanese Knife Archive"
+  description="日本包丁の完全データベース。牛刀、三徳、菜切、出刃、柳刃など、日本の名匠が鍛えた包丁の全てがここに。"
+  jaPath="/ja/"
+>
+  <!-- lang属性を日本語に上書き -->
+  <Fragment slot="default">
+  </Fragment>
+
+  <!-- ヒーローセクション -->
+  <section class="hero">
+    <h1 class="hero__title">Japanese Knife <span>Archive</span></h1>
+    <p class="hero__subtitle" style="font-family: var(--font-ja);">
+      日本包丁の全てを、ここに。
+    </p>
+  </section>
+
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- 簡易説明 -->
+    <div style="text-align: center; padding: var(--space-md) 0 var(--space-lg); border-bottom: 1px solid var(--color-border); margin-bottom: var(--space-lg);">
+      <p style="font-family: var(--font-ja); max-width: 600px; margin: 0 auto;">
+        日本が世界に誇る包丁文化のデータベース。堺、関、越前、燕三条など、
+        各産地の名匠が鍛えた包丁を網羅的に紹介します。
+      </p>
+    </div>
+
+    <!-- 包丁グリッド -->
+    <div class="knife-grid">
+      {knivesData.map((knife) => (
+        <a href={`/knives/${knife.id}/`} class="knife-card">
+          <img src={knife.image} alt={knife.nameJa} class="knife-card__image" loading="lazy" />
+          <div class="knife-card__body">
+            <p class="knife-card__type">{knife.typeJa} · {knife.bladeLength}mm</p>
+            <h3 class="knife-card__name" style="font-family: var(--font-ja);">{knife.nameJa}</h3>
+            <p class="knife-card__brand">{knife.brandJa}</p>
+            <div class="knife-card__meta">
+              <span class="knife-card__tag">{knife.originJa}</span>
+              <span class="knife-card__tag">{knife.handle === 'wa' ? '和包丁' : '洋包丁'}</span>
+              <span class="knife-card__price">¥{knife.priceJPY.toLocaleString()}</span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <!-- 英語版への誘導 -->
+    <div style="text-align: center; padding: var(--space-xl) 0;">
+      <a href="/" class="btn">View Full English Site</a>
+    </div>
+  </div>
+</Base>

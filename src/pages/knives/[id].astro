@@ -1,0 +1,184 @@
+---
+// [id].astro - 包丁詳細ページ
+// 動的ルーティングで各包丁の詳細情報を表示
+
+import Base from '../../layouts/Base.astro';
+import KnifeCard from '../../components/KnifeCard.astro';
+
+// データの読み込み
+import knivesData from '../../data/knives.json';
+import steelsData from '../../data/steels.json';
+import brandsData from '../../data/brands.json';
+
+// 静的パス生成（全包丁のIDからパスを生成）
+export function getStaticPaths() {
+  return knivesData.map((knife) => ({
+    params: { id: knife.id },
+  }));
+}
+
+// URLパラメータから包丁IDを取得
+const { id } = Astro.params;
+
+// 該当する包丁データを検索
+const knife = knivesData.find(k => k.id === id);
+if (!knife) return Astro.redirect('/404');
+
+// 鋼材データを検索
+const steel = steelsData.find(s => s.id === knife.steel);
+
+// ブランドデータを検索
+const brand = brandsData.find(b => b.id === knife.brand);
+
+// 関連包丁データを取得
+const relatedKnives = knife.relatedKnives
+  .map(relId => knivesData.find(k => k.id === relId))
+  .filter(Boolean);
+
+// JSON-LD構造化データ（Product schema）
+const productJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": knife.name,
+  "description": knife.description,
+  "brand": {
+    "@type": "Brand",
+    "name": knife.brandJa,
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": knife.priceUSD,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+  },
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "Blade Length", "value": `${knife.bladeLength}mm` },
+    { "@type": "PropertyValue", "name": "Steel", "value": steel?.name || knife.steel },
+    { "@type": "PropertyValue", "name": "Weight", "value": `${knife.weight}g` },
+    { "@type": "PropertyValue", "name": "Hardness", "value": `${knife.hardness} HRC` },
+  ],
+};
+---
+
+<Base
+  title={knife.name}
+  description={knife.description.slice(0, 160)}
+  jsonLd={productJsonLd}
+>
+  <!-- 包丁詳細ヘッダー -->
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      {knife.type.charAt(0).toUpperCase() + knife.type.slice(1)} · {knife.bladeLength}mm
+    </p>
+    <h1 class="page-header__title">{knife.name}</h1>
+    <p class="page-header__description">{knife.brandJa} — {knife.originJa} ({knife.origin})</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- 包丁画像 -->
+    <div style="padding: var(--space-lg) 0;">
+      <img src={knife.image} alt={knife.name} style="width: 100%; border-radius: var(--radius-md);" />
+    </div>
+
+    <!-- 価格表示 -->
+    <div style="display: flex; gap: var(--space-md); align-items: center; margin-bottom: var(--space-lg);">
+      <span style="font-size: 1.8rem; font-weight: 700; color: var(--color-danger);">${knife.priceUSD}</span>
+      <span style="font-size: 1rem; color: var(--color-text-muted);">/ ¥{knife.priceJPY.toLocaleString()}</span>
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{knife.description}</p>
+
+    <!-- スペック表 -->
+    <div class="spec-grid">
+      <div class="spec-item">
+        <span class="spec-item__label">Type</span>
+        <span class="spec-item__value">{knife.type.charAt(0).toUpperCase() + knife.type.slice(1)} ({knife.typeJa})</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Steel</span>
+        <span class="spec-item__value">
+          <a href={`/steels/${knife.steel}/`} style="color: var(--color-accent);">{steel?.name || knife.steel}</a>
+        </span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Brand</span>
+        <span class="spec-item__value">
+          <a href={`/brands/${knife.brand}/`} style="color: var(--color-accent);">{knife.brandJa}</a>
+        </span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Blade Length</span>
+        <span class="spec-item__value">{knife.bladeLength}mm</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Weight</span>
+        <span class="spec-item__value">{knife.weight}g</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Hardness</span>
+        <span class="spec-item__value">{knife.hardness} HRC</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Handle</span>
+        <span class="spec-item__value">{knife.handle === 'wa' ? 'Wa (Japanese)' : 'Yo (Western)'}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Origin</span>
+        <span class="spec-item__value">{knife.origin} ({knife.originJa})</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Best For</span>
+        <span class="spec-item__value">{knife.bestFor}</span>
+      </div>
+    </div>
+
+    <!-- 特徴リスト -->
+    <div style="padding: var(--space-lg) 0;">
+      <h2 style="margin-bottom: var(--space-md);">Key Features</h2>
+      <ul style="list-style: none; padding: 0;">
+        {knife.features.map((feature: string) => (
+          <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--color-border); color: var(--color-text-sub); display: flex; align-items: center; gap: 0.5rem;">
+            <span style="color: var(--color-accent);">&#9670;</span>
+            {feature}
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <!-- 購入リンク -->
+    <div style="padding: var(--space-md) 0 var(--space-lg);">
+      <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
+      <div class="buy-links">
+        <a href={knife.affiliateUrls.amazonUS || '#'} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon US</a>
+        <a href={knife.affiliateUrls.amazonJP || '#'} class="btn" target="_blank" rel="noopener noreferrer">Amazon JP</a>
+        <a href={knife.affiliateUrls.rakuten || '#'} class="btn" target="_blank" rel="noopener noreferrer">Rakuten</a>
+      </div>
+    </div>
+
+    <!-- 関連包丁 -->
+    {relatedKnives.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Related Knives</h2>
+        <div class="related-grid">
+          {relatedKnives.map((rk: any) => (
+            <KnifeCard
+              id={rk.id}
+              name={rk.name}
+              brand={rk.brand}
+              brandJa={rk.brandJa}
+              type={rk.type}
+              typeJa={rk.typeJa}
+              steel={rk.steel}
+              steelType={rk.steelType}
+              bladeLength={rk.bladeLength}
+              priceUSD={rk.priceUSD}
+              image={rk.image}
+              handle={rk.handle}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

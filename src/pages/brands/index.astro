@@ -1,0 +1,39 @@
+---
+// brands/index.astro - ブランド一覧ページ
+// 日本の包丁ブランド（鍛冶メーカー）を一覧表示
+
+import Base from '../../layouts/Base.astro';
+import brandsData from '../../data/brands.json';
+
+// ブランドを創業年順にソート
+const sortedBrands = [...brandsData].sort((a, b) => a.founded - b.founded);
+---
+
+<Base
+  title="Japanese Knife Brands"
+  description="Explore Japan's finest knife makers — from the ancient Aritsugu (est. 1560) to modern innovators like Konosuke. Each brand carries centuries of bladesmithing tradition."
+>
+  <!-- ページヘッダー -->
+  <div class="page-header">
+    <h1 class="page-header__title">Brands</h1>
+    <p class="page-header__description">
+      Japan's finest bladesmiths and knife makers, from ancient heritage to modern innovation
+    </p>
+  </div>
+
+  <!-- ブランド一覧グリッド -->
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {sortedBrands.map((brand) => (
+        <a href={`/brands/${brand.id}/`} class="brand-card">
+          <h3 class="brand-card__name">{brand.name}</h3>
+          <p class="brand-card__name-ja">{brand.nameJa}</p>
+          <p class="brand-card__meta">
+            Est. {brand.founded} · {brand.origin} ({brand.originJa})
+          </p>
+          <p class="brand-card__specialty">{brand.specialty}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>
