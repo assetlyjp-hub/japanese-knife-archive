@@ -1,0 +1,139 @@
+---
+// steels/[id].astro - 鋼材詳細ページ
+// 鋼材のスペック、レーダーチャート、その鋼材を使った包丁一覧を表示
+
+import Base from '../../layouts/Base.astro';
+import SteelRadar from '../../components/SteelRadar.astro';
+import KnifeCard from '../../components/KnifeCard.astro';
+
+import steelsData from '../../data/steels.json';
+import knivesData from '../../data/knives.json';
+
+// 静的パス生成
+export function getStaticPaths() {
+  return steelsData.map((steel) => ({
+    params: { id: steel.id },
+  }));
+}
+
+const { id } = Astro.params;
+const steel = steelsData.find(s => s.id === id);
+if (!steel) return Astro.redirect('/404');
+
+// この鋼材を使った包丁を取得
+const steelKnives = knivesData.filter(k => k.steel === id);
+---
+
+<Base
+  title={`${steel.name} Steel Guide`}
+  description={steel.description.slice(0, 160)}
+>
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      {steel.type} steel
+    </p>
+    <h1 class="page-header__title">{steel.name}</h1>
+    <p style="font-family: var(--font-ja); color: var(--color-text-sub);">{steel.nameJa}</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- レーダーチャート（大きめ） -->
+    <div style="padding: var(--space-lg) 0; max-width: 300px; margin: 0 auto;">
+      <SteelRadar
+        edgeRetention={steel.edgeRetention}
+        corrosionResistance={steel.corrosionResistance}
+        easeOfSharpening={steel.easeOfSharpening}
+        toughness={steel.toughness}
+        hardness={steel.hardness}
+        size={300}
+      />
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{steel.description}</p>
+
+    <!-- スペック詳細 -->
+    <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+      <h2 style="margin-bottom: var(--space-md);">Specifications</h2>
+
+      <div style="display: flex; flex-direction: column; gap: var(--space-sm);">
+        <!-- 各レーティングバー -->
+        <div class="rating-bar">
+          <span class="rating-bar__label">Edge Retention</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${steel.edgeRetention * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{steel.edgeRetention}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Corrosion Resistance</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${steel.corrosionResistance * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{steel.corrosionResistance}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Ease of Sharpening</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${steel.easeOfSharpening * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{steel.easeOfSharpening}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Toughness</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${steel.toughness * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{steel.toughness}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Hardness (HRC)</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${Math.min(100, ((parseInt(steel.hardness) - 55) / 12) * 100)}%`}></div>
+          </div>
+          <span class="rating-bar__value">{steel.hardness}</span>
+        </div>
+      </div>
+
+      <div class="spec-grid" style="margin-top: var(--space-md);">
+        <div class="spec-item">
+          <span class="spec-item__label">Type</span>
+          <span class="spec-item__value">{steel.type.charAt(0).toUpperCase() + steel.type.slice(1)}</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Hardness Range</span>
+          <span class="spec-item__value">{steel.hardness} HRC</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- この鋼材を使った包丁 -->
+    {steelKnives.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Knives Using {steel.name}</h2>
+        <div class="knife-grid">
+          {steelKnives.map((knife) => (
+            <KnifeCard
+              id={knife.id}
+              name={knife.name}
+              brand={knife.brand}
+              brandJa={knife.brandJa}
+              type={knife.type}
+              typeJa={knife.typeJa}
+              steel={knife.steel}
+              steelType={knife.steelType}
+              bladeLength={knife.bladeLength}
+              priceUSD={knife.priceUSD}
+              image={knife.image}
+              handle={knife.handle}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

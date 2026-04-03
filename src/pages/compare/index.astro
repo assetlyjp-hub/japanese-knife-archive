@@ -1,0 +1,134 @@
+---
+// compare/index.astro - 包丁比較ツールページ
+// 2本の包丁を選んでスペックを比較
+
+import Base from '../../layouts/Base.astro';
+import knivesData from '../../data/knives.json';
+import steelsData from '../../data/steels.json';
+---
+
+<Base
+  title="Compare Japanese Knives"
+  description="Side-by-side comparison tool for Japanese kitchen knives. Compare steel, hardness, weight, price, and more."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Compare</h1>
+    <p class="page-header__description">
+      Select two knives to compare their specifications side by side
+    </p>
+  </div>
+
+  <div class="container">
+    <!-- 包丁選択セレクター -->
+    <div class="compare-selector">
+      <div>
+        <select class="compare-select" id="knife-a">
+          <option value="">Select first knife...</option>
+          {knivesData.map(k => (
+            <option value={k.id}>{k.name}</option>
+          ))}
+        </select>
+      </div>
+
+      <span class="compare-vs">VS</span>
+
+      <div>
+        <select class="compare-select" id="knife-b">
+          <option value="">Select second knife...</option>
+          {knivesData.map(k => (
+            <option value={k.id}>{k.name}</option>
+          ))}
+        </select>
+      </div>
+    </div>
+
+    <!-- 比較テーブル -->
+    <div id="compare-result" style="padding-bottom: var(--space-xl);">
+      <p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">
+        Select two knives above to see the comparison
+      </p>
+    </div>
+  </div>
+
+  <!-- 包丁・鋼材データをJSに渡す -->
+  <script define:vars={{ knivesData, steelsData }}>
+    // セレクターの要素を取得
+    const selectA = document.getElementById('knife-a');
+    const selectB = document.getElementById('knife-b');
+    const resultDiv = document.getElementById('compare-result');
+
+    // セレクター変更時に比較テーブルを更新
+    selectA?.addEventListener('change', updateComparison);
+    selectB?.addEventListener('change', updateComparison);
+
+    function updateComparison() {
+      const idA = /** @type {HTMLSelectElement} */ (selectA).value;
+      const idB = /** @type {HTMLSelectElement} */ (selectB).value;
+
+      // 両方選択されていない場合
+      if (!idA || !idB) {
+        resultDiv.innerHTML = '<p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">Select two knives above to see the comparison</p>';
+        return;
+      }
+
+      // 包丁データを検索
+      const knifeA = knivesData.find(k => k.id === idA);
+      const knifeB = knivesData.find(k => k.id === idB);
+
+      if (!knifeA || !knifeB) return;
+
+      // 鋼材データを検索
+      const steelA = steelsData.find(s => s.id === knifeA.steel);
+      const steelB = steelsData.find(s => s.id === knifeB.steel);
+
+      // 比較テーブルを生成
+      const rows = [
+        ['Brand', knifeA.brandJa, knifeB.brandJa],
+        ['Type', knifeA.type, knifeB.type],
+        ['Steel', steelA?.name || knifeA.steel, steelB?.name || knifeB.steel],
+        ['Steel Type', knifeA.steelType, knifeB.steelType],
+        ['Blade Length', `${knifeA.bladeLength}mm`, `${knifeB.bladeLength}mm`],
+        ['Weight', `${knifeA.weight}g`, `${knifeB.weight}g`],
+        ['Hardness', `${knifeA.hardness} HRC`, `${knifeB.hardness} HRC`],
+        ['Handle', knifeA.handle === 'wa' ? 'Wa (Japanese)' : 'Yo (Western)', knifeB.handle === 'wa' ? 'Wa (Japanese)' : 'Yo (Western)'],
+        ['Origin', `${knifeA.origin} (${knifeA.originJa})`, `${knifeB.origin} (${knifeB.originJa})`],
+        ['Best For', knifeA.bestFor, knifeB.bestFor],
+        ['Price (USD)', `$${knifeA.priceUSD}`, `$${knifeB.priceUSD}`],
+        ['Price (JPY)', `¥${knifeA.priceJPY.toLocaleString()}`, `¥${knifeB.priceJPY.toLocaleString()}`],
+      ];
+
+      // Edge retentionなどの鋼材スペック比較
+      if (steelA && steelB) {
+        rows.push(
+          ['Edge Retention', `${steelA.edgeRetention}/5`, `${steelB.edgeRetention}/5`],
+          ['Corrosion Resistance', `${steelA.corrosionResistance}/5`, `${steelB.corrosionResistance}/5`],
+          ['Ease of Sharpening', `${steelA.easeOfSharpening}/5`, `${steelB.easeOfSharpening}/5`],
+          ['Toughness', `${steelA.toughness}/5`, `${steelB.toughness}/5`],
+        );
+      }
+
+      const tableHTML = `
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Specification</th>
+              <th>${knifeA.name}</th>
+              <th>${knifeB.name}</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rows.map(([label, valA, valB]) => `
+              <tr>
+                <td style="font-weight: 500; color: var(--color-text);">${label}</td>
+                <td>${valA}</td>
+                <td>${valB}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+
+      resultDiv.innerHTML = tableHTML;
+    }
+  </script>
+</Base>

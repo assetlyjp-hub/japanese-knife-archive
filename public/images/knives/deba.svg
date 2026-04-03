@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#1A1A1A"/>
+  <!-- 出刃（Deba）シルエット: 厚くて幅広い三角形 -->
+  <path d="M80 130 Q140 120 280 135 L300 145 L295 155 Q140 155 85 160 Z"
+        fill="none" stroke="#C5A572" stroke-width="1.5" opacity="0.6"/>
+  <!-- 厚みの表現（2本線） -->
+  <path d="M85 133 Q140 123 278 137" fill="none" stroke="#C5A572" stroke-width="0.5" opacity="0.3"/>
+  <rect x="295" y="132" width="45" height="18" rx="3" fill="none"
+        stroke="#C5A572" stroke-width="1.5" opacity="0.6"/>
+  <text x="200" y="220" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="11" fill="#555" letter-spacing="0.15em">DEBA</text>
+  <text x="200" y="240" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="9" fill="#444" letter-spacing="0.1em">Fish Knife</text>
+</svg>

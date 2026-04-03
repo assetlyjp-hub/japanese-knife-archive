@@ -1,0 +1,54 @@
+{
+  "type": [
+    { "keyword": "best gyuto knife", "slug": "best-gyuto-knives", "category": "type" },
+    { "keyword": "best santoku knife", "slug": "best-santoku-knives", "category": "type" },
+    { "keyword": "best nakiri knife", "slug": "best-nakiri-knives", "category": "type" },
+    { "keyword": "best deba knife", "slug": "best-deba-knives", "category": "type" },
+    { "keyword": "best yanagiba knife", "slug": "best-yanagiba-knives", "category": "type" },
+    { "keyword": "best petty knife", "slug": "best-petty-knives", "category": "type" },
+    { "keyword": "best sujihiki knife", "slug": "best-sujihiki-knives", "category": "type" },
+    { "keyword": "best usuba knife", "slug": "best-usuba-knives", "category": "type" },
+    { "keyword": "best kiritsuke knife", "slug": "best-kiritsuke-knives", "category": "type" }
+  ],
+  "steel": [
+    { "keyword": "VG-10 knives review", "slug": "vg10-knives-review", "category": "steel" },
+    { "keyword": "aogami super steel explained", "slug": "aogami-super-explained", "category": "steel" },
+    { "keyword": "SG2 R2 steel knives", "slug": "sg2-r2-steel-knives", "category": "steel" },
+    { "keyword": "shirogami white steel guide", "slug": "shirogami-white-steel-guide", "category": "steel" },
+    { "keyword": "ZDP-189 kitchen knives", "slug": "zdp189-kitchen-knives", "category": "steel" }
+  ],
+  "budget": [
+    { "keyword": "best japanese knife under $100", "slug": "best-japanese-knives-under-100", "category": "budget" },
+    { "keyword": "best japanese knife under $200", "slug": "best-japanese-knives-under-200", "category": "budget" },
+    { "keyword": "best japanese knife under $300", "slug": "best-japanese-knives-under-300", "category": "budget" },
+    { "keyword": "best japanese knife under $50", "slug": "best-japanese-knives-under-50", "category": "budget" }
+  ],
+  "use": [
+    { "keyword": "best knife for sushi", "slug": "best-knife-for-sushi", "category": "use" },
+    { "keyword": "best knife for vegetables", "slug": "best-knife-for-vegetables", "category": "use" },
+    { "keyword": "best knife for meat", "slug": "best-knife-for-meat", "category": "use" },
+    { "keyword": "best knife for fish filleting", "slug": "best-knife-for-fish-filleting", "category": "use" },
+    { "keyword": "best all purpose japanese knife", "slug": "best-all-purpose-japanese-knife", "category": "use" }
+  ],
+  "comparison": [
+    { "keyword": "gyuto vs santoku", "slug": "gyuto-vs-santoku", "category": "comparison" },
+    { "keyword": "shun vs miyabi", "slug": "shun-vs-miyabi", "category": "comparison" },
+    { "keyword": "tojiro vs victorinox", "slug": "tojiro-vs-victorinox", "category": "comparison" },
+    { "keyword": "carbon vs stainless japanese knife", "slug": "carbon-vs-stainless", "category": "comparison" },
+    { "keyword": "wa handle vs yo handle", "slug": "wa-vs-yo-handle", "category": "comparison" }
+  ],
+  "brand": [
+    { "keyword": "tojiro knives review", "slug": "tojiro-review", "category": "brand" },
+    { "keyword": "shun knives review", "slug": "shun-review", "category": "brand" },
+    { "keyword": "global knives review", "slug": "global-review", "category": "brand" },
+    { "keyword": "takamura knives review", "slug": "takamura-review", "category": "brand" },
+    { "keyword": "misono knives review", "slug": "misono-review", "category": "brand" }
+  ],
+  "guide": [
+    { "keyword": "how to sharpen japanese knife", "slug": "how-to-sharpen-japanese-knife", "category": "guide" },
+    { "keyword": "japanese knife care guide", "slug": "japanese-knife-care-guide", "category": "guide" },
+    { "keyword": "japanese knife types explained", "slug": "japanese-knife-types-explained", "category": "guide" },
+    { "keyword": "japanese knife steel guide", "slug": "japanese-knife-steel-guide", "category": "guide" },
+    { "keyword": "how to choose japanese knife", "slug": "how-to-choose-japanese-knife", "category": "guide" }
+  ]
+}

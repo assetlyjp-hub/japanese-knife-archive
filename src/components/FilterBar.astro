@@ -1,0 +1,118 @@
+---
+// FilterBar.astro - フィルターバーコンポーネント
+// 包丁をタイプ・鋼材タイプ・ハンドル・価格帯で絞り込む
+---
+
+<div class="filter-bar" id="filter-bar">
+  <!-- タイプフィルター -->
+  <span class="filter-bar__label">Type</span>
+  <div class="filter-bar__group" id="filter-type">
+    <button class="filter-btn is-active" data-filter="type" data-value="all">All</button>
+    <button class="filter-btn" data-filter="type" data-value="gyuto">Gyuto</button>
+    <button class="filter-btn" data-filter="type" data-value="santoku">Santoku</button>
+    <button class="filter-btn" data-filter="type" data-value="nakiri">Nakiri</button>
+    <button class="filter-btn" data-filter="type" data-value="yanagiba">Yanagiba</button>
+    <button class="filter-btn" data-filter="type" data-value="deba">Deba</button>
+    <button class="filter-btn" data-filter="type" data-value="petty">Petty</button>
+    <button class="filter-btn" data-filter="type" data-value="sujihiki">Sujihiki</button>
+    <button class="filter-btn" data-filter="type" data-value="usuba">Usuba</button>
+    <button class="filter-btn" data-filter="type" data-value="kiritsuke">Kiritsuke</button>
+  </div>
+
+  <!-- 区切り線 -->
+  <div class="filter-bar__divider"></div>
+
+  <!-- 鋼材タイプフィルター -->
+  <span class="filter-bar__label">Steel</span>
+  <div class="filter-bar__group" id="filter-steel">
+    <button class="filter-btn is-active" data-filter="steel-type" data-value="all">All</button>
+    <button class="filter-btn" data-filter="steel-type" data-value="stainless">Stainless</button>
+    <button class="filter-btn" data-filter="steel-type" data-value="carbon">Carbon</button>
+    <button class="filter-btn" data-filter="steel-type" data-value="powdered">Powdered</button>
+    <button class="filter-btn" data-filter="steel-type" data-value="clad">Clad</button>
+  </div>
+
+  <!-- 区切り線 -->
+  <div class="filter-bar__divider"></div>
+
+  <!-- ハンドルフィルター -->
+  <span class="filter-bar__label">Handle</span>
+  <div class="filter-bar__group" id="filter-handle">
+    <button class="filter-btn is-active" data-filter="handle" data-value="all">All</button>
+    <button class="filter-btn" data-filter="handle" data-value="wa">Wa</button>
+    <button class="filter-btn" data-filter="handle" data-value="yo">Yo</button>
+  </div>
+
+  <!-- 価格帯スライダー -->
+  <div class="filter-price">
+    <label for="price-range">Max $</label>
+    <input type="range" id="price-range" min="40" max="500" value="500" step="10" />
+    <span id="price-value">$500</span>
+  </div>
+</div>
+
+<!-- フィルタリングのJavaScript -->
+<script>
+  // フィルターの状態を管理するオブジェクト
+  const filterState: Record<string, string> = {
+    type: 'all',
+    'steel-type': 'all',
+    handle: 'all',
+    maxPrice: '500',
+  };
+
+  // フィルターボタンのクリックイベント
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filterName = (btn as HTMLElement).dataset.filter!;
+      const filterValue = (btn as HTMLElement).dataset.value!;
+
+      // 同じフィルターグループ内のアクティブ状態を更新
+      btn.parentElement?.querySelectorAll('.filter-btn').forEach(b => {
+        b.classList.remove('is-active');
+      });
+      btn.classList.add('is-active');
+
+      // フィルター状態を更新
+      filterState[filterName] = filterValue;
+
+      // カードをフィルタリング
+      applyFilters();
+    });
+  });
+
+  // 価格スライダーのイベント
+  const priceRange = document.getElementById('price-range') as HTMLInputElement;
+  const priceValue = document.getElementById('price-value');
+
+  priceRange?.addEventListener('input', () => {
+    filterState.maxPrice = priceRange.value;
+    if (priceValue) priceValue.textContent = `$${priceRange.value}`;
+    applyFilters();
+  });
+
+  // フィルターを適用する関数
+  function applyFilters() {
+    const cards = document.querySelectorAll('.knife-card') as NodeListOf<HTMLElement>;
+
+    cards.forEach(card => {
+      const cardType = card.dataset.type || '';
+      const cardSteelType = card.dataset.steelType || '';
+      const cardHandle = card.dataset.handle || '';
+      const cardPrice = parseInt(card.dataset.price || '0');
+
+      // 各フィルター条件をチェック
+      const typeMatch = filterState.type === 'all' || cardType === filterState.type;
+      const steelMatch = filterState['steel-type'] === 'all' || cardSteelType === filterState['steel-type'];
+      const handleMatch = filterState.handle === 'all' || cardHandle === filterState.handle;
+      const priceMatch = cardPrice <= parseInt(filterState.maxPrice);
+
+      // すべての条件を満たす場合のみ表示
+      if (typeMatch && steelMatch && handleMatch && priceMatch) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+</script>
