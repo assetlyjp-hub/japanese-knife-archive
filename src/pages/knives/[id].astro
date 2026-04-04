@@ -41,6 +41,7 @@ const productJsonLd = {
   "@type": "Product",
   "name": knife.name,
   "description": knife.description,
+  "image": new URL(knife.image, Astro.site).href,
   "brand": {
     "@type": "Brand",
     "name": knife.brandJa,
