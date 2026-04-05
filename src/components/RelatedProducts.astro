@@ -1,0 +1,109 @@
+---
+// RelatedProducts.astro - 記事内で紹介した包丁の商品カード
+// frontmatterの relatedKnives で指定されたIDにマッチする包丁を表示
+
+// Props型定義
+interface Knife {
+  id: string;
+  name: string;
+  nameJa: string;
+  brand: string;
+  brandJa: string;
+  type: string;
+  typeJa: string;
+  steel: string;
+  bladeLength: number;
+  weight: number;
+  priceUSD: number;
+  priceJPY: number;
+  image: string;
+  affiliateUrls: {
+    amazonUS: string;
+    amazonJP: string;
+    rakuten: string;
+  };
+  description: string;
+  descriptionJa: string;
+  features: string[];
+  featuresJa: string[];
+}
+
+interface Props {
+  knives: Knife[];       // 表示する包丁の配列
+  lang?: 'ja' | 'en';   // 言語（デフォルト: 'ja'）
+}
+
+const { knives, lang = 'ja' } = Astro.props;
+
+// 包丁データがなければ何も表示しない
+if (knives.length === 0) return;
+
+// 言語に応じたラベル
+const isJa = lang === 'ja';
+const sectionTitle = isJa
+  ? '🔪 この記事で紹介した包丁'
+  : '🔪 Featured Knives in This Article';
+const detailLabel = isJa ? '詳細を見る' : 'View Details';
+---
+
+<!-- 関連商品セクション -->
+<section class="related-products">
+  <h2 class="related-products__title">{sectionTitle}</h2>
+  <div class="related-products__grid">
+    {knives.map((knife) => {
+      // 言語に応じて表示名を切り替え
+      const displayName = isJa ? knife.nameJa : knife.name;
+      const displayBrand = isJa ? knife.brandJa : knife.brand;
+      const displayType = isJa ? knife.typeJa : knife.type;
+      const displayPrice = isJa
+        ? `¥${knife.priceJPY.toLocaleString()}`
+        : `$${knife.priceUSD}`;
+
+      // アフィリエイトURL（言語に応じて切り替え）
+      const amazonUrl = isJa
+        ? knife.affiliateUrls?.amazonJP
+        : knife.affiliateUrls?.amazonUS;
+      const rakutenUrl = knife.affiliateUrls?.rakuten;
+
+      return (
+        <div class="related-products__card">
+          {/* 包丁画像 */}
+          <div class="related-products__image">
+            <img src={knife.image} alt={displayName} loading="lazy" />
+          </div>
+
+          {/* 包丁情報 */}
+          <div class="related-products__info">
+            <h3 class="related-products__name">
+              <a href={`/knives/${knife.id}/`}>{displayName}</a>
+            </h3>
+            <p class="related-products__meta">
+              {displayBrand} / {displayType}
+            </p>
+            <p class="related-products__materials">
+              {isJa ? '鋼材' : 'Steel'}: {knife.steel} ・ {isJa ? '刃渡り' : 'Blade'}: {knife.bladeLength}mm ・ {knife.weight}g
+            </p>
+            <p class="related-products__price">{displayPrice}</p>
+
+            {/* 購入・詳細リンク */}
+            <div class="related-products__links">
+              <a href={`/knives/${knife.id}/`} class="related-products__btn related-products__btn--detail">
+                {detailLabel}
+              </a>
+              {amazonUrl && (
+                <a href={amazonUrl} class="related-products__btn related-products__btn--amazon" target="_blank" rel="noopener noreferrer nofollow">
+                  Amazon
+                </a>
+              )}
+              {isJa && rakutenUrl && (
+                <a href={rakutenUrl} class="related-products__btn related-products__btn--rakuten" target="_blank" rel="noopener noreferrer nofollow">
+                  楽天
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</section>
