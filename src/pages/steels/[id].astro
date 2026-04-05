@@ -28,7 +28,14 @@ const steelKnives = knivesData.filter(k => k.steel === id);
   title={`${steel.name} Steel Guide`}
   description={steel.description.slice(0, 160)}
 >
-  <div class="page-header">
+  <!-- 一覧への戻りリンク -->
+  <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
+    <a href="/steels/" style="font-size: 0.85rem; color: var(--color-text-muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.3rem; transition: color 0.2s;">
+      <span>&larr;</span> Back to Steels
+    </a>
+  </div>
+
+  <div class="page-header" style="padding-top: var(--space-sm);">
     <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
       {steel.type} steel
     </p>
