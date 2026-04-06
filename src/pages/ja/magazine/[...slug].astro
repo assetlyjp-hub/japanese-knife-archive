@@ -1,37 +1,27 @@
 ---
-// magazine/[...slug].astro - 記事詳細ページ
-// Markdownの記事をレンダリングして表示
-
-import Article from '../../layouts/Article.astro';
-import RelatedProducts from '../../components/RelatedProducts.astro';
+// ja/magazine/[...slug].astro - 日本語版 記事詳細ページ
+import Article from '../../../layouts/Article.astro';
+import RelatedProducts from '../../../components/RelatedProducts.astro';
 import { getCollection, render } from 'astro:content';
-import knivesData from '../../data/knives.json';
+import knivesData from '../../../data/knives.json';
 
-// 静的パス生成（全記事からパスを生成）
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
   return articles
-    .filter(a => !a.id.startsWith('ja/'))
+    .filter(a => a.id.startsWith('ja/'))
     .map((article) => ({
-      params: { slug: article.id },
+      params: { slug: article.id.replace('ja/', '') },
       props: { article },
     }));
 }
 
-// 記事データを取得
 const { article } = Astro.props;
-
-// MarkdownをHTMLにレンダリング
 const { Content } = await render(article);
 
-// relatedKnivesからIDでマッチする包丁データを取得
 const relatedIds = article.data.relatedKnives || [];
 const matchedKnives = relatedIds.map((id: string) =>
   knivesData.find((k: any) => k.id === id)
 ).filter(Boolean);
-
-// 英語記事かどうかをスラッグから判定
-const isEn = article.id.startsWith('en/');
 ---
 
 <Article
@@ -43,5 +33,5 @@ const isEn = article.id.startsWith('en/');
   tags={article.data.tags}
 >
   <Content />
-  <RelatedProducts knives={matchedKnives} lang={isEn ? 'en' : 'ja'} />
+  <RelatedProducts knives={matchedKnives} lang="ja" />
 </Article>

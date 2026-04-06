@@ -4,6 +4,7 @@ description: "Find the best Japanese knives under $200. From the legendary Tojir
 category: "budget"
 tags: ["budget", "buying guide", "value"]
 publishedAt: "2026-04-02"
+updatedAt: "2026-04-06"
 relatedKnives: ["tojiro-dp-gyuto-210", "shun-classic-gyuto-210", "mac-professional-gyuto-210"]
 articleType: "listicle"
 ---

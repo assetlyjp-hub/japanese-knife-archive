@@ -4,6 +4,7 @@ description: "The ultimate guide to choosing between carbon steel and stainless 
 category: "comparison"
 tags: ["steel", "carbon", "stainless", "guide"]
 publishedAt: "2026-04-01"
+updatedAt: "2026-04-06"
 relatedKnives: ["sakai-takayuki-aogami-super-gyuto", "tojiro-dp-gyuto-210", "konosuke-gs-gyuto-210"]
 articleType: "comparison"
 ---

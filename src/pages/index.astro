@@ -8,9 +8,23 @@ import KnifeCard from '../components/KnifeCard.astro';
 
 // 包丁データの読み込み
 import knivesData from '../data/knives.json';
+
+// ItemList JSON-LD: Google検索結果でカルーセル表示の可能性を高める
+const itemListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Japanese Kitchen Knives",
+  "numberOfItems": knivesData.length,
+  "itemListElement": knivesData.map((knife, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "url": `https://japaneseknifearchive.com/knives/${knife.id}/`,
+    "name": knife.name,
+  })),
+};
 ---
 
-<Base title="Japanese Knife Archive">
+<Base title="Japanese Knife Archive" jsonLd={itemListJsonLd}>
   <!-- ヒーローセクション -->
   <section class="hero">
     <h1 class="hero__title">Japanese Knife <span>Archive</span></h1>
