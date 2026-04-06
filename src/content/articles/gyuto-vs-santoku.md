@@ -4,6 +4,7 @@ description: "Gyuto vs Santoku — the definitive comparison. Learn the differen
 category: "comparison"
 tags: ["gyuto", "santoku", "comparison", "buying guide"]
 publishedAt: "2026-04-03"
+updatedAt: "2026-04-06"
 relatedKnives: ["tojiro-dp-gyuto-210", "tojiro-dp-santoku-170", "shun-classic-gyuto-210"]
 articleType: "comparison"
 ---

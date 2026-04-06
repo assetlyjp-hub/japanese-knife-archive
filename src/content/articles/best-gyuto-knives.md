@@ -4,6 +4,7 @@ description: "Discover the best gyuto knives from Japan's top makers. From budge
 category: "type"
 tags: ["gyuto", "chef knife", "buying guide"]
 publishedAt: "2026-04-01"
+updatedAt: "2026-04-06"
 relatedKnives: ["tojiro-dp-gyuto-210", "takamura-r2-gyuto-210", "misono-ux10-gyuto-210"]
 articleType: "listicle"
 ---

@@ -19,12 +19,33 @@
     "priceJPY": 8000,
     "description": "The Tojiro DP is the undisputed king of budget Japanese knives. Using VG-10 cobalt alloy steel clad in softer stainless, it delivers a razor-sharp edge at an unbeatable price. The three-layer construction provides the best of both worlds: a hard, keen edge with easy maintenance. This is the knife that has introduced countless Western cooks to the world of Japanese cutlery.",
     "descriptionJa": "藤次郎DPは予算重視の日本包丁の不動の王者。VG-10コバルト合金鋼をソフトステンレスで挟んだ三層構造で、驚異的なコスパを実現。硬く鋭い刃先と簡単なメンテナンスを両立。多くの西洋料理人を日本包丁の世界に導いた名品。",
-    "features": ["VG-10 cobalt alloy 3-layer blade", "Best value Japanese knife on the market", "Dishwasher safe (though hand wash recommended)", "Balanced Western-style handle", "Ground thin for excellent cutting performance"],
-    "featuresJa": ["VG-10コバルト合金3層ブレード", "市場最高のコスパ", "食洗機対応（手洗い推奨）", "バランスの良い洋式ハンドル", "薄い刃付けで優れた切れ味"],
+    "features": [
+      "VG-10 cobalt alloy 3-layer blade",
+      "Best value Japanese knife on the market",
+      "Dishwasher safe (though hand wash recommended)",
+      "Balanced Western-style handle",
+      "Ground thin for excellent cutting performance"
+    ],
+    "featuresJa": [
+      "VG-10コバルト合金3層ブレード",
+      "市場最高のコスパ",
+      "食洗機対応（手洗い推奨）",
+      "バランスの良い洋式ハンドル",
+      "薄い刃付けで優れた切れ味"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "https://amzn.to/4mck3K9", "amazonJP": "https://amzn.to/4e5bUoR", "rakuten": "" },
-    "relatedKnives": ["shun-classic-gyuto-210", "mac-professional-gyuto-210", "sakai-takayuki-vg10-gyuto"]
+    "image": "/images/knives/tojiro-dp-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "https://amzn.to/4mck3K9",
+      "amazonJP": "https://amzn.to/4e5bUoR",
+      "amazonUK": "https://amzn.to/4mctKs3",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "shun-classic-gyuto-210",
+      "mac-professional-gyuto-210",
+      "sakai-takayuki-vg10-gyuto"
+    ]
   },
   {
     "id": "shun-classic-gyuto-210",
@@ -46,12 +67,32 @@
     "priceJPY": 25000,
     "description": "The Shun Classic is perhaps the most recognizable Japanese knife in Western kitchens. Its stunning 16-layer Damascus pattern over a VG-MAX core creates a blade that is as beautiful as it is functional. The D-shaped pakkawood handle fits naturally in the hand. A perfect gift and a reliable daily driver for home cooks and professionals alike.",
     "descriptionJa": "旬Classicは西洋のキッチンで最も認知度の高い日本包丁。VG-MAXコアに16層ダマスカス模様が美しく機能的。D型パッカウッドハンドルは手に自然にフィット。贈り物にも最適で、家庭料理人からプロまで頼れる毎日の相棒。",
-    "features": ["16-layer Damascus cladding over VG-MAX core", "Iconic D-shaped pakkawood handle", "Lifetime free sharpening from Shun", "Beautiful tsuchime (hammered) finish", "Excellent balance and comfortable grip"],
-    "featuresJa": ["VG-MAXコアに16層ダマスカスクラッド", "アイコニックなD型パッカウッドハンドル", "旬による生涯無料研ぎ直し", "美しい槌目仕上げ", "優れたバランスと快適なグリップ"],
+    "features": [
+      "16-layer Damascus cladding over VG-MAX core",
+      "Iconic D-shaped pakkawood handle",
+      "Lifetime free sharpening from Shun",
+      "Beautiful tsuchime (hammered) finish",
+      "Excellent balance and comfortable grip"
+    ],
+    "featuresJa": [
+      "VG-MAXコアに16層ダマスカスクラッド",
+      "アイコニックなD型パッカウッドハンドル",
+      "旬による生涯無料研ぎ直し",
+      "美しい槌目仕上げ",
+      "優れたバランスと快適なグリップ"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "https://amzn.to/4sTX0q4", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-gyuto-210", "shun-premier-santoku-180", "takamura-r2-gyuto-210"]
+    "image": "/images/knives/shun-classic-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "https://amzn.to/4sTX0q4",
+      "amazonJP": "https://amzn.to/4e3qgWQ",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "shun-premier-santoku-180",
+      "takamura-r2-gyuto-210"
+    ]
   },
   {
     "id": "takamura-r2-gyuto-210",
@@ -73,12 +114,32 @@
     "priceJPY": 33000,
     "description": "The Takamura R2 is the laser of the Japanese knife world. Ground impossibly thin with SG2 powdered steel at 63-64 HRC, it glides through food with zero resistance. At only 120g, it feels like an extension of your hand. This is the knife that knife enthusiasts rave about in online forums. Once you use a Takamura, everything else feels thick.",
     "descriptionJa": "高村R2は日本包丁界のレーザー。SG2粉末鋼を63-64HRCで極限まで薄く研ぎ上げ、食材をゼロ抵抗で切り抜ける。わずか120gで手の延長のような感覚。包丁マニアがネットで絶賛する逸品。一度使うと他の包丁が厚く感じる。",
-    "features": ["SG2/R2 powdered steel at 63-64 HRC", "Incredibly thin grind — laser-like performance", "Ultra-lightweight at only 120g", "Western-style handle for familiar grip", "Stainless steel — low maintenance"],
-    "featuresJa": ["SG2/R2粉末鋼 63-64 HRC", "驚異的に薄い刃付け — レーザーのような切れ味", "わずか120gの超軽量", "親しみやすい洋式ハンドル", "ステンレス鋼 — メンテナンス楽"],
+    "features": [
+      "SG2/R2 powdered steel at 63-64 HRC",
+      "Incredibly thin grind — laser-like performance",
+      "Ultra-lightweight at only 120g",
+      "Western-style handle for familiar grip",
+      "Stainless steel — low maintenance"
+    ],
+    "featuresJa": [
+      "SG2/R2粉末鋼 63-64 HRC",
+      "驚異的に薄い刃付け — レーザーのような切れ味",
+      "わずか120gの超軽量",
+      "親しみやすい洋式ハンドル",
+      "ステンレス鋼 — メンテナンス楽"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["konosuke-gs-gyuto-210", "shun-classic-gyuto-210", "hattori-hd-gyuto-210"]
+    "image": "/images/knives/takamura-r2-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "konosuke-gs-gyuto-210",
+      "shun-classic-gyuto-210",
+      "hattori-hd-gyuto-210"
+    ]
   },
   {
     "id": "sakai-takayuki-vg10-gyuto",
@@ -100,12 +161,32 @@
     "priceJPY": 14000,
     "description": "Sakai Takayuki's Grand Chef line represents the best of Sakai craftsmanship at a mid-range price. Using VG-10 steel with expert heat treatment from Sakai's legendary smiths, this gyuto offers professional performance. The comfortable Western handle and excellent edge geometry make it a workhorse for any kitchen.",
     "descriptionJa": "堺孝行グランドシェフは、堺の職人技を手頃な価格で実現したライン。VG-10鋼に堺の伝説的な鍛冶師の熱処理を施し、プロの切れ味を提供。快適な洋式ハンドルと優れた刃の形状で、どんなキッチンでも活躍する万能選手。",
-    "features": ["Crafted in Sakai by traditional smiths", "VG-10 stainless steel with expert heat treatment", "Excellent mid-range value", "Comfortable Western-style handle", "Available in multiple blade lengths"],
-    "featuresJa": ["堺の伝統的な鍛冶師が製造", "VG-10ステンレス鋼に専門的な熱処理", "優れたミドルレンジの価値", "快適な洋式ハンドル", "複数の刃渡りで展開"],
+    "features": [
+      "Crafted in Sakai by traditional smiths",
+      "VG-10 stainless steel with expert heat treatment",
+      "Excellent mid-range value",
+      "Comfortable Western-style handle",
+      "Available in multiple blade lengths"
+    ],
+    "featuresJa": [
+      "堺の伝統的な鍛冶師が製造",
+      "VG-10ステンレス鋼に専門的な熱処理",
+      "優れたミドルレンジの価値",
+      "快適な洋式ハンドル",
+      "複数の刃渡りで展開"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "https://amzn.to/4doPWgq", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-gyuto-210", "sakai-takayuki-aogami-super-gyuto", "masahiro-mv-gyuto-210"]
+    "image": "/images/knives/sakai-takayuki-vg10-gyuto.webp",
+    "affiliateUrls": {
+      "amazonUS": "https://amzn.to/4doPWgq",
+      "amazonJP": "https://amzn.to/3PUBSl2",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "sakai-takayuki-aogami-super-gyuto",
+      "masahiro-mv-gyuto-210"
+    ]
   },
   {
     "id": "sakai-takayuki-aogami-super-gyuto",
@@ -127,12 +208,32 @@
     "priceJPY": 19000,
     "description": "This Sakai Takayuki gyuto uses Aogami Super — the most advanced carbon steel from Hitachi Metals. The kurouchi (blacksmith's) finish gives it a rustic, handcrafted look while providing a non-stick surface. The octagonal magnolia handle is traditional Sakai style. For those willing to maintain carbon steel, this knife rewards with an edge sharper than any stainless.",
     "descriptionJa": "堺孝行の青紙スーパー牛刀は、日立金属の最高級カーボンスチールを使用。黒打ち仕上げが手作りの味わいと食離れの良さを両立。八角朴柄は堺伝統のスタイル。カーボンスチールの手入れを厭わない人には、ステンレスを凌ぐ鋭い刃先が報酬。",
-    "features": ["Aogami Super carbon steel — ultimate edge retention", "Kurouchi (blacksmith) finish — rustic and functional", "Octagonal magnolia wa-handle", "Clad in soft iron for easier maintenance", "Hand-forged in Sakai"],
-    "featuresJa": ["青紙スーパー鋼 — 究極の刃持ち", "黒打ち仕上げ — 素朴で機能的", "八角朴柄の和式ハンドル", "軟鉄クラッドでメンテナンス容易", "堺で手打ち鍛造"],
+    "features": [
+      "Aogami Super carbon steel — ultimate edge retention",
+      "Kurouchi (blacksmith) finish — rustic and functional",
+      "Octagonal magnolia wa-handle",
+      "Clad in soft iron for easier maintenance",
+      "Hand-forged in Sakai"
+    ],
+    "featuresJa": [
+      "青紙スーパー鋼 — 究極の刃持ち",
+      "黒打ち仕上げ — 素朴で機能的",
+      "八角朴柄の和式ハンドル",
+      "軟鉄クラッドでメンテナンス容易",
+      "堺で手打ち鍛造"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["kurosaki-as-gyuto-210", "sakai-takayuki-vg10-gyuto", "masamoto-ks-gyuto-210"]
+    "image": "/images/knives/sakai-takayuki-aogami-super-gyuto.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "kurosaki-as-gyuto-210",
+      "sakai-takayuki-vg10-gyuto",
+      "masamoto-ks-gyuto-210"
+    ]
   },
   {
     "id": "mac-professional-gyuto-210",
@@ -154,12 +255,32 @@
     "priceJPY": 21000,
     "description": "The MAC Professional is a perennial favorite among professional chefs and has topped countless knife recommendation lists. Its dimpled blade reduces food sticking, while the AUS-10 steel provides a great balance of sharpness and durability. The comfortable pakkawood handle and perfect balance make it ideal for long prep sessions.",
     "descriptionJa": "MACプロフェッショナルはプロ料理人の定番で、数え切れない推薦リストで首位を獲得。ディンプル加工で食材の張り付きを軽減。AUS-10鋼が鋭さと耐久性を両立。快適なパッカウッドハンドルと完璧なバランスで長時間の仕込みに最適。",
-    "features": ["Dimpled blade reduces food sticking", "AUS-10 stainless steel", "Pakkawood handle for comfort", "Recommended by Cook's Illustrated and Serious Eats", "2.5mm spine thickness — great balance of thin and sturdy"],
-    "featuresJa": ["ディンプル加工で食材の張り付き軽減", "AUS-10ステンレス鋼", "パッカウッドハンドルで快適", "Cook's Illustrated・Serious Eats推薦", "峰厚2.5mm — 薄さと頑丈さの好バランス"],
+    "features": [
+      "Dimpled blade reduces food sticking",
+      "AUS-10 stainless steel",
+      "Pakkawood handle for comfort",
+      "Recommended by Cook's Illustrated and Serious Eats",
+      "2.5mm spine thickness — great balance of thin and sturdy"
+    ],
+    "featuresJa": [
+      "ディンプル加工で食材の張り付き軽減",
+      "AUS-10ステンレス鋼",
+      "パッカウッドハンドルで快適",
+      "Cook's Illustrated・Serious Eats推薦",
+      "峰厚2.5mm — 薄さと頑丈さの好バランス"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "https://amzn.to/4txtSVN", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-gyuto-210", "misono-ux10-gyuto-210", "global-g2-gyuto-200"]
+    "image": "/images/knives/mac-professional-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "https://amzn.to/4txtSVN",
+      "amazonJP": "https://amzn.to/4cqXoqk",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "misono-ux10-gyuto-210",
+      "global-g2-gyuto-200"
+    ]
   },
   {
     "id": "misono-ux10-gyuto-210",
@@ -181,12 +302,32 @@
     "priceJPY": 28000,
     "description": "The Misono UX10 is the benchmark for professional stainless steel gyutos in Japan. Swedish stainless steel is precision-ground to create a blade with exceptional edge geometry. The fit and finish are impeccable — you can feel the quality the moment you pick it up. This is the knife that Japanese culinary students aspire to own.",
     "descriptionJa": "ミソノUX10は日本のプロ用ステンレス牛刀のベンチマーク。スウェーデンステンレス鋼を精密研磨し、卓越した刃の形状を実現。仕上がりは完璧で、手に取った瞬間に品質を実感。日本の調理師学生が憧れる一本。",
-    "features": ["Swedish stainless steel with superb edge geometry", "Impeccable fit and finish", "Status symbol among Japanese professional chefs", "Lightweight and well-balanced", "Excellent edge retention for stainless"],
-    "featuresJa": ["スウェーデンステンレス鋼と優れた刃の形状", "完璧な仕上がり", "日本のプロ料理人のステータスシンボル", "軽量でバランスが良い", "ステンレスとして優れた刃持ち"],
+    "features": [
+      "Swedish stainless steel with superb edge geometry",
+      "Impeccable fit and finish",
+      "Status symbol among Japanese professional chefs",
+      "Lightweight and well-balanced",
+      "Excellent edge retention for stainless"
+    ],
+    "featuresJa": [
+      "スウェーデンステンレス鋼と優れた刃の形状",
+      "完璧な仕上がり",
+      "日本のプロ料理人のステータスシンボル",
+      "軽量でバランスが良い",
+      "ステンレスとして優れた刃持ち"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "https://amzn.to/3NIjH1q", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["masamoto-ks-gyuto-210", "mac-professional-gyuto-210", "takamura-r2-gyuto-210"]
+    "image": "/images/knives/misono-ux10-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "https://amzn.to/3NIjH1q",
+      "amazonJP": "https://amzn.to/41ePPNi",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "masamoto-ks-gyuto-210",
+      "mac-professional-gyuto-210",
+      "takamura-r2-gyuto-210"
+    ]
   },
   {
     "id": "masamoto-ks-gyuto-210",
@@ -208,12 +349,32 @@
     "priceJPY": 42000,
     "description": "The Masamoto KS is a legendary knife among Tokyo's finest sushi chefs and French-trained cooks. Using Aogami #2 carbon steel, it takes an edge that stainless simply cannot match. The Western handle with a Japanese soul makes it unique. This is a knife with history — the same model has been used in Tsukiji's best restaurants for decades.",
     "descriptionJa": "正本KSは東京の一流寿司職人やフレンチ料理人の間で伝説的な包丁。青紙2号カーボンスチールは、ステンレスでは到達できない刃先を実現。洋式ハンドルに日本の魂を宿した唯一無二の存在。築地の名店で何十年も使われてきた歴史ある一本。",
-    "features": ["Aogami #2 carbon steel — legendary sharpness", "Used by Tokyo's top sushi chefs for decades", "Western handle with Japanese craftsmanship", "Takes a razor-sharp edge", "Beautiful patina develops with use"],
-    "featuresJa": ["青紙2号カーボンスチール — 伝説的な切れ味", "東京の一流寿司職人が何十年も愛用", "日本の職人技を宿した洋式ハンドル", "カミソリのような鋭い刃が付く", "使い込むほど美しいパティナが育つ"],
+    "features": [
+      "Aogami #2 carbon steel — legendary sharpness",
+      "Used by Tokyo's top sushi chefs for decades",
+      "Western handle with Japanese craftsmanship",
+      "Takes a razor-sharp edge",
+      "Beautiful patina develops with use"
+    ],
+    "featuresJa": [
+      "青紙2号カーボンスチール — 伝説的な切れ味",
+      "東京の一流寿司職人が何十年も愛用",
+      "日本の職人技を宿した洋式ハンドル",
+      "カミソリのような鋭い刃が付く",
+      "使い込むほど美しいパティナが育つ"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["misono-ux10-gyuto-210", "sugimoto-cm-gyuto-210", "sakai-takayuki-aogami-super-gyuto"]
+    "image": "/images/knives/masamoto-ks-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4sW5xcj",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "misono-ux10-gyuto-210",
+      "sugimoto-cm-gyuto-210",
+      "sakai-takayuki-aogami-super-gyuto"
+    ]
   },
   {
     "id": "global-g2-gyuto-200",
@@ -235,12 +396,33 @@
     "priceJPY": 12000,
     "description": "The Global G-2 is an icon of modern knife design. Its seamless one-piece stainless steel construction and signature dimpled handle have been copied by dozens of brands but never truly replicated. The CROMOVA 18 stainless steel is easy to maintain and the lightweight design reduces fatigue. A design classic that belongs in any kitchen.",
     "descriptionJa": "グローバルG-2はモダンナイフデザインのアイコン。シームレスなオールステンレス一体構造と特徴的なディンプルハンドルは、多くのブランドが模倣したが真の再現は不可能。CROMOVA18ステンレス鋼はメンテナンスが容易で軽量設計は疲労を軽減。",
-    "features": ["Iconic one-piece stainless steel construction", "CROMOVA 18 stainless steel", "Signature dimpled handle for grip", "Lightweight and hygienic design", "Award-winning industrial design"],
-    "featuresJa": ["アイコニックなオールステンレス一体構造", "CROMOVA18ステンレス鋼", "特徴的なディンプルハンドルでグリップ力", "軽量で衛生的なデザイン", "受賞歴のあるインダストリアルデザイン"],
+    "features": [
+      "Iconic one-piece stainless steel construction",
+      "CROMOVA 18 stainless steel",
+      "Signature dimpled handle for grip",
+      "Lightweight and hygienic design",
+      "Award-winning industrial design"
+    ],
+    "featuresJa": [
+      "アイコニックなオールステンレス一体構造",
+      "CROMOVA18ステンレス鋼",
+      "特徴的なディンプルハンドルでグリップ力",
+      "軽量で衛生的なデザイン",
+      "受賞歴のあるインダストリアルデザイン"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "https://amzn.to/4sdEhEY", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-gyuto-210", "mac-professional-gyuto-210", "shun-classic-gyuto-210"]
+    "image": "/images/knives/global-g2-gyuto-200.webp",
+    "affiliateUrls": {
+      "amazonUS": "https://amzn.to/4sdEhEY",
+      "amazonJP": "https://amzn.to/4sV4pWk",
+      "amazonUK": "https://amzn.to/4mcr6CQ",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "mac-professional-gyuto-210",
+      "shun-classic-gyuto-210"
+    ]
   },
   {
     "id": "konosuke-gs-gyuto-210",
@@ -262,12 +444,32 @@
     "priceJPY": 37000,
     "description": "The Konosuke GS+ is a masterpiece of thin grinding from Sakai. Using Ginsan (Silver-3) steel that sharpens like carbon but resists rust like stainless, paired with one of the thinnest grinds in production knives. The octagonal ebony handle is beautiful and functional. This knife is pure cutting performance distilled into steel.",
     "descriptionJa": "子の日GS+は堺の薄刃研ぎの傑作。カーボンのように研げてステンレスのように錆びない銀三鋼を使用し、量産包丁最薄クラスの刃付けを実現。八角黒檀柄は美しく機能的。純粋な切削性能を鋼に凝縮した一本。",
-    "features": ["Ginsan (Silver-3) steel — best of both worlds", "Ultra-thin grind for laser-like cutting", "Octagonal ebony wa-handle", "Hand-finished in Sakai by master craftsmen", "Lightweight at 145g"],
-    "featuresJa": ["銀三鋼 — カーボンとステンレスの良いとこ取り", "超薄研ぎでレーザーのような切れ味", "八角黒檀和式ハンドル", "堺の熟練職人が手仕上げ", "145gの軽量設計"],
+    "features": [
+      "Ginsan (Silver-3) steel — best of both worlds",
+      "Ultra-thin grind for laser-like cutting",
+      "Octagonal ebony wa-handle",
+      "Hand-finished in Sakai by master craftsmen",
+      "Lightweight at 145g"
+    ],
+    "featuresJa": [
+      "銀三鋼 — カーボンとステンレスの良いとこ取り",
+      "超薄研ぎでレーザーのような切れ味",
+      "八角黒檀和式ハンドル",
+      "堺の熟練職人が手仕上げ",
+      "145gの軽量設計"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["takamura-r2-gyuto-210", "sakai-takayuki-vg10-gyuto", "kurosaki-as-gyuto-210"]
+    "image": "/images/knives/konosuke-gs-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "takamura-r2-gyuto-210",
+      "sakai-takayuki-vg10-gyuto",
+      "kurosaki-as-gyuto-210"
+    ]
   },
   {
     "id": "kurosaki-as-gyuto-210",
@@ -289,12 +491,32 @@
     "priceJPY": 43000,
     "description": "Yu Kurosaki is one of the most celebrated young blacksmiths in Japan, and the Senko (Flash) gyuto showcases his extraordinary talent. The Aogami Super core is clad in stainless for easy care, while the stunning rain-drop Damascus pattern is a work of art. Each knife bears the mark of a master at the peak of his craft.",
     "descriptionJa": "黒崎優は日本で最も注目される若手鍛冶師の一人。閃光シリーズの牛刀はその卓越した才能を体現。青紙スーパーのコアをステンレスクラッドで包み、美しい雨粒ダマスカス模様は芸術品。各包丁に技の極みを追求する職人の刻印が宿る。",
-    "features": ["Aogami Super core at 63-65 HRC", "Stunning rain-drop Damascus cladding", "Stainless clad for easy maintenance", "Hand-forged by master smith Yu Kurosaki", "Octagonal rosewood handle"],
-    "featuresJa": ["青紙スーパーコア 63-65 HRC", "美しい雨粒ダマスカスクラッド", "ステンレスクラッドでメンテナンス容易", "名匠・黒崎優の手打ち鍛造", "八角ローズウッドハンドル"],
+    "features": [
+      "Aogami Super core at 63-65 HRC",
+      "Stunning rain-drop Damascus cladding",
+      "Stainless clad for easy maintenance",
+      "Hand-forged by master smith Yu Kurosaki",
+      "Octagonal rosewood handle"
+    ],
+    "featuresJa": [
+      "青紙スーパーコア 63-65 HRC",
+      "美しい雨粒ダマスカスクラッド",
+      "ステンレスクラッドでメンテナンス容易",
+      "名匠・黒崎優の手打ち鍛造",
+      "八角ローズウッドハンドル"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["sakai-takayuki-aogami-super-gyuto", "takamura-r2-gyuto-210", "hattori-hd-gyuto-210"]
+    "image": "/images/knives/kurosaki-as-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "sakai-takayuki-aogami-super-gyuto",
+      "takamura-r2-gyuto-210",
+      "hattori-hd-gyuto-210"
+    ]
   },
   {
     "id": "hattori-hd-gyuto-210",
@@ -316,12 +538,32 @@
     "priceJPY": 56000,
     "description": "The Hattori HD is the pinnacle of hardness in a kitchen knife. Using ZDP-189 at an astounding 65-67 HRC, this blade holds its edge longer than almost any other knife on the market. The Damascus cladding adds beauty, while the Western handle provides comfort. For those who hate sharpening, this knife stays sharp for weeks of professional use.",
     "descriptionJa": "服部HDはキッチンナイフの硬度の頂点。ZDP-189を驚異の65-67 HRCで使用し、市場のほぼすべての包丁を凌ぐ刃持ちを実現。ダマスカスクラッドが美しさを、洋式ハンドルが快適さを提供。研ぎが苦手な人に、プロの使用でも何週間も鋭さが続く一本。",
-    "features": ["ZDP-189 at 65-67 HRC — extreme hardness", "Edge retention measured in weeks, not days", "Damascus clad blade", "Western-style handle", "Made in Seki by master craftsmen"],
-    "featuresJa": ["ZDP-189 65-67 HRC — 極限の硬度", "日単位でなく週単位の刃持ち", "ダマスカスクラッドブレード", "洋式ハンドル", "関の熟練職人が製造"],
+    "features": [
+      "ZDP-189 at 65-67 HRC — extreme hardness",
+      "Edge retention measured in weeks, not days",
+      "Damascus clad blade",
+      "Western-style handle",
+      "Made in Seki by master craftsmen"
+    ],
+    "featuresJa": [
+      "ZDP-189 65-67 HRC — 極限の硬度",
+      "日単位でなく週単位の刃持ち",
+      "ダマスカスクラッドブレード",
+      "洋式ハンドル",
+      "関の熟練職人が製造"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["takamura-r2-gyuto-210", "kurosaki-as-gyuto-210", "shun-dual-core-gyuto-210"]
+    "image": "/images/knives/hattori-hd-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "takamura-r2-gyuto-210",
+      "kurosaki-as-gyuto-210",
+      "shun-dual-core-gyuto-210"
+    ]
   },
   {
     "id": "shun-dual-core-gyuto-210",
@@ -343,12 +585,32 @@
     "priceJPY": 50000,
     "description": "The Shun Dual Core is an engineering marvel — two different steels forged into one blade. HAP40 on the right side for extreme edge retention and stainless steel on the left for corrosion resistance. This innovative construction makes it one of the hardest production kitchen knives available while maintaining practicality.",
     "descriptionJa": "旬Dual Coreは工学の驚異 — 2種類の鋼を1枚の刃に鍛造。右面にHAP40で極限の刃持ち、左面にステンレスで耐食性を実現。この革新的な構造により、実用性を維持しながら最も硬い量産キッチンナイフの一つに。",
-    "features": ["HAP40 powdered steel at 64-66 HRC", "Dual-core construction — two steels in one blade", "Exceptional edge retention", "Beautiful Damascus pattern", "D-shaped ebony handle"],
-    "featuresJa": ["HAP40粉末鋼 64-66 HRC", "デュアルコア構造 — 一枚に二つの鋼材", "卓越した刃持ち", "美しいダマスカス模様", "D型黒檀ハンドル"],
+    "features": [
+      "HAP40 powdered steel at 64-66 HRC",
+      "Dual-core construction — two steels in one blade",
+      "Exceptional edge retention",
+      "Beautiful Damascus pattern",
+      "D-shaped ebony handle"
+    ],
+    "featuresJa": [
+      "HAP40粉末鋼 64-66 HRC",
+      "デュアルコア構造 — 一枚に二つの鋼材",
+      "卓越した刃持ち",
+      "美しいダマスカス模様",
+      "D型黒檀ハンドル"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["hattori-hd-gyuto-210", "shun-classic-gyuto-210", "takamura-r2-gyuto-210"]
+    "image": "/images/knives/shun-dual-core-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "hattori-hd-gyuto-210",
+      "shun-classic-gyuto-210",
+      "takamura-r2-gyuto-210"
+    ]
   },
   {
     "id": "masahiro-mv-gyuto-210",
@@ -370,12 +632,32 @@
     "priceJPY": 10000,
     "description": "The Masahiro MV is the standard-issue knife at Japanese culinary schools across the country. Molybdenum-vanadium stainless steel provides good edge retention with easy maintenance. The ergonomic handle is designed for hours of professional use. If it is good enough for culinary students training 12 hours a day, it is good enough for any home kitchen.",
     "descriptionJa": "正広MVは日本全国の調理師学校の標準装備包丁。モリブデンバナジウムステンレス鋼が良好な刃持ちと容易なメンテナンスを提供。人間工学的なハンドルは長時間のプロ使用向け。1日12時間訓練する調理師学生に十分なら、どんな家庭のキッチンにも十分。",
-    "features": ["Standard knife at Japanese culinary schools", "Molybdenum-vanadium stainless steel", "Ergonomic handle for extended use", "Excellent value for professional quality", "Easy to maintain and sharpen"],
-    "featuresJa": ["日本の調理師学校の標準包丁", "モリブデンバナジウムステンレス鋼", "長時間使用向け人間工学的ハンドル", "プロ品質で優れたコスパ", "メンテナンスと研ぎが容易"],
+    "features": [
+      "Standard knife at Japanese culinary schools",
+      "Molybdenum-vanadium stainless steel",
+      "Ergonomic handle for extended use",
+      "Excellent value for professional quality",
+      "Easy to maintain and sharpen"
+    ],
+    "featuresJa": [
+      "日本の調理師学校の標準包丁",
+      "モリブデンバナジウムステンレス鋼",
+      "長時間使用向け人間工学的ハンドル",
+      "プロ品質で優れたコスパ",
+      "メンテナンスと研ぎが容易"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-gyuto-210", "sakai-takayuki-vg10-gyuto", "global-g2-gyuto-200"]
+    "image": "/images/knives/masahiro-mv-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4m8Nmxg",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "sakai-takayuki-vg10-gyuto",
+      "global-g2-gyuto-200"
+    ]
   },
   {
     "id": "shun-premier-santoku-180",
@@ -397,12 +679,32 @@
     "priceJPY": 30000,
     "description": "The Shun Premier Santoku combines Japanese tradition with modern steel technology. The SG2 powdered steel core achieves 63-64 HRC for exceptional edge retention, while the tsuchime (hand-hammered) Damascus cladding creates air pockets that release food from the blade. The walnut-colored pakkawood handle adds warmth to the design.",
     "descriptionJa": "旬Premierの三徳は日本の伝統と最新の鋼材技術を融合。SG2粉末鋼コアが63-64 HRCで卓越した刃持ちを実現。槌目ダマスカスクラッドが食材の張り付きを軽減するエアポケットを形成。ウォールナット色のパッカウッドハンドルがデザインに温かみを添える。",
-    "features": ["SG2 powdered steel core at 63 HRC", "Tsuchime (hammered) Damascus pattern", "Food release dimples reduce sticking", "Walnut pakkawood handle", "Versatile santoku shape for home cooks"],
-    "featuresJa": ["SG2粉末鋼コア 63 HRC", "槌目ダマスカス模様", "食離れの良いディンプル加工", "ウォールナットパッカウッドハンドル", "家庭料理に万能な三徳形状"],
+    "features": [
+      "SG2 powdered steel core at 63 HRC",
+      "Tsuchime (hammered) Damascus pattern",
+      "Food release dimples reduce sticking",
+      "Walnut pakkawood handle",
+      "Versatile santoku shape for home cooks"
+    ],
+    "featuresJa": [
+      "SG2粉末鋼コア 63 HRC",
+      "槌目ダマスカス模様",
+      "食離れの良いディンプル加工",
+      "ウォールナットパッカウッドハンドル",
+      "家庭料理に万能な三徳形状"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/santoku.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["shun-classic-gyuto-210", "tojiro-dp-santoku-170", "global-g46-santoku"]
+    "image": "/images/knives/shun-premier-santoku-180.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "shun-classic-gyuto-210",
+      "tojiro-dp-santoku-170",
+      "global-g46-santoku"
+    ]
   },
   {
     "id": "tojiro-dp-santoku-170",
@@ -424,12 +726,32 @@
     "priceJPY": 7200,
     "description": "The Tojiro DP Santoku is the perfect first Japanese knife for home cooks who prefer a shorter, wider blade. The VG-10 core with stainless cladding provides excellent performance at a fraction of the price of premium brands. The santoku shape excels at the three virtues it is named for: slicing, dicing, and mincing.",
     "descriptionJa": "藤次郎DPの三徳は、短く幅広い刃を好む家庭料理人の最初の日本包丁に最適。VG-10コアとステンレスクラッドが高級ブランドの数分の一の価格で優れた性能を提供。三徳の名の通り、切る・刻む・みじん切りの三つの美徳に秀でる。",
-    "features": ["VG-10 cobalt alloy 3-layer blade", "Perfect entry-level santoku", "Shorter 170mm blade for smaller hands", "Excellent for home cooking tasks", "Outstanding value"],
-    "featuresJa": ["VG-10コバルト合金3層ブレード", "最適な入門用三徳", "小さな手にも合う170mm", "家庭の調理作業に最適", "抜群のコスパ"],
+    "features": [
+      "VG-10 cobalt alloy 3-layer blade",
+      "Perfect entry-level santoku",
+      "Shorter 170mm blade for smaller hands",
+      "Excellent for home cooking tasks",
+      "Outstanding value"
+    ],
+    "featuresJa": [
+      "VG-10コバルト合金3層ブレード",
+      "最適な入門用三徳",
+      "小さな手にも合う170mm",
+      "家庭の調理作業に最適",
+      "抜群のコスパ"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/santoku.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-gyuto-210", "shun-premier-santoku-180", "global-g46-santoku"]
+    "image": "/images/knives/tojiro-dp-santoku-170.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/3PUBYsU",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "shun-premier-santoku-180",
+      "global-g46-santoku"
+    ]
   },
   {
     "id": "global-g46-santoku",
@@ -451,12 +773,32 @@
     "priceJPY": 11000,
     "description": "The Global G-46 Santoku brings the brand's signature one-piece design to the traditional Japanese santoku shape. Fluted dimples on the blade prevent food from sticking, making it ideal for slicing vegetables. The lightweight construction and seamless hygiene make it a favorite in modern kitchens.",
     "descriptionJa": "グローバルG-46三徳は、ブランドのシグネチャー一体型デザインを日本伝統の三徳形状に適用。ブレードのフルートディンプルが食材の張り付きを防ぎ、野菜のスライスに最適。軽量構造とシームレスな衛生性でモダンキッチンの人気者。",
-    "features": ["One-piece stainless steel design", "Fluted blade for food release", "CROMOVA 18 stainless steel", "Lightweight 170g", "Iconic modern design"],
-    "featuresJa": ["オールステンレス一体型デザイン", "食離れの良いフルート加工", "CROMOVA18ステンレス鋼", "軽量170g", "アイコニックなモダンデザイン"],
+    "features": [
+      "One-piece stainless steel design",
+      "Fluted blade for food release",
+      "CROMOVA 18 stainless steel",
+      "Lightweight 170g",
+      "Iconic modern design"
+    ],
+    "featuresJa": [
+      "オールステンレス一体型デザイン",
+      "食離れの良いフルート加工",
+      "CROMOVA18ステンレス鋼",
+      "軽量170g",
+      "アイコニックなモダンデザイン"
+    ],
     "bestFor": "vegetables",
-    "image": "/images/knives/santoku.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["global-g2-gyuto-200", "tojiro-dp-santoku-170", "shun-premier-santoku-180"]
+    "image": "/images/knives/global-g46-santoku.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4vrECXw",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "global-g2-gyuto-200",
+      "tojiro-dp-santoku-170",
+      "shun-premier-santoku-180"
+    ]
   },
   {
     "id": "tojiro-nakiri-165",
@@ -478,12 +820,32 @@
     "priceJPY": 7500,
     "description": "The Tojiro Nakiri is a vegetable specialist. Its flat edge makes full contact with the cutting board for clean, precise cuts. The rectangular blade profile is perfect for the push-cut technique favored for vegetables. If you cook a lot of vegetables, this dedicated tool will transform your prep work.",
     "descriptionJa": "藤次郎の菜切は野菜のスペシャリスト。平らな刃先がまな板と完全に接触し、きれいで正確なカットを実現。長方形の刃は野菜に適した押し切り技法に最適。野菜をよく調理するなら、この専用包丁で仕込みが一変する。",
-    "features": ["Flat blade for perfect vegetable cuts", "VG-10 cobalt alloy steel", "165mm blade — ideal for home use", "Thin blade slices through dense vegetables", "Budget-friendly professional quality"],
-    "featuresJa": ["完璧な野菜カットのための平刃", "VG-10コバルト合金鋼", "165mm — 家庭用に最適", "薄い刃が硬い野菜も楽にスライス", "予算に優しいプロ品質"],
+    "features": [
+      "Flat blade for perfect vegetable cuts",
+      "VG-10 cobalt alloy steel",
+      "165mm blade — ideal for home use",
+      "Thin blade slices through dense vegetables",
+      "Budget-friendly professional quality"
+    ],
+    "featuresJa": [
+      "完璧な野菜カットのための平刃",
+      "VG-10コバルト合金鋼",
+      "165mm — 家庭用に最適",
+      "薄い刃が硬い野菜も楽にスライス",
+      "予算に優しいプロ品質"
+    ],
     "bestFor": "vegetables",
-    "image": "/images/knives/nakiri.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-santoku-170", "sakai-takayuki-usuba-180", "tojiro-dp-gyuto-210"]
+    "image": "/images/knives/tojiro-nakiri-165.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4cqXGxq",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-santoku-170",
+      "sakai-takayuki-usuba-180",
+      "tojiro-dp-gyuto-210"
+    ]
   },
   {
     "id": "sakai-takayuki-usuba-180",
@@ -505,12 +867,32 @@
     "priceJPY": 18000,
     "description": "The Sakai Takayuki Usuba is a professional single-bevel vegetable knife used in traditional Japanese cuisine (Washoku). Made with Shirogami #2 carbon steel, its single bevel creates incredibly thin, precise cuts for katsuramuki (rotary peeling) and decorative work. This is the knife that separates amateurs from professionals in Japanese cooking.",
     "descriptionJa": "堺孝行の薄刃は伝統的な日本料理（和食）で使われるプロ用片刃の野菜包丁。白紙2号カーボンスチールの片刃が桂むきや飾り切りで驚異的に薄く正確なカットを実現。和食でアマチュアとプロを分ける包丁。",
-    "features": ["Single-bevel (kataba) — traditional Japanese grind", "Shirogami #2 carbon steel", "Essential for katsuramuki and decorative cuts", "Magnolia octagonal wa-handle", "Hand-forged in Sakai"],
-    "featuresJa": ["片刃（かたば）— 伝統的な日本の刃付け", "白紙2号カーボンスチール", "桂むき・飾り切りに必須", "朴八角和式ハンドル", "堺で手打ち鍛造"],
+    "features": [
+      "Single-bevel (kataba) — traditional Japanese grind",
+      "Shirogami #2 carbon steel",
+      "Essential for katsuramuki and decorative cuts",
+      "Magnolia octagonal wa-handle",
+      "Hand-forged in Sakai"
+    ],
+    "featuresJa": [
+      "片刃（かたば）— 伝統的な日本の刃付け",
+      "白紙2号カーボンスチール",
+      "桂むき・飾り切りに必須",
+      "朴八角和式ハンドル",
+      "堺で手打ち鍛造"
+    ],
     "bestFor": "vegetables",
-    "image": "/images/knives/nakiri.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-nakiri-165", "aritsugu-a-yanagiba-300", "sakai-takayuki-aogami-super-gyuto"]
+    "image": "/images/knives/sakai-takayuki-usuba-180.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4bTWK4B",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-nakiri-165",
+      "aritsugu-a-yanagiba-300",
+      "sakai-takayuki-aogami-super-gyuto"
+    ]
   },
   {
     "id": "aritsugu-a-yanagiba-300",
@@ -532,12 +914,32 @@
     "priceJPY": 52000,
     "description": "The Aritsugu Yanagiba is the sushi knife by which all others are measured. Hand-forged in Kyoto by craftsmen whose lineage dates to 1560, this 300mm single-bevel blade makes one clean, pulling stroke to slice sashimi perfectly. Shirogami #2 steel takes an edge of surgical precision. Owning an Aritsugu is owning a piece of Japanese culinary history.",
     "descriptionJa": "有次の柳刃は全ての寿司包丁の基準となる存在。1560年から続く職人の血統が京都で手打ち鍛造する300mmの片刃は、一回の引き切りで刺身を完璧にスライス。白紙2号鋼は外科手術レベルの精密な刃先を実現。有次を持つことは日本の食文化の歴史を所有すること。",
-    "features": ["Hand-forged in Kyoto since 1560", "Shirogami #2 — purest carbon steel", "300mm single-bevel for sashimi perfection", "Magnolia handle with buffalo horn bolster", "Each knife individually crafted"],
-    "featuresJa": ["1560年から京都で手打ち鍛造", "白紙2号 — 最も純粋なカーボンスチール", "300mm片刃で刺身の完成形", "朴柄に水牛角の口金", "一本一本手作り"],
+    "features": [
+      "Hand-forged in Kyoto since 1560",
+      "Shirogami #2 — purest carbon steel",
+      "300mm single-bevel for sashimi perfection",
+      "Magnolia handle with buffalo horn bolster",
+      "Each knife individually crafted"
+    ],
+    "featuresJa": [
+      "1560年から京都で手打ち鍛造",
+      "白紙2号 — 最も純粋なカーボンスチール",
+      "300mm片刃で刺身の完成形",
+      "朴柄に水牛角の口金",
+      "一本一本手作り"
+    ],
     "bestFor": "sushi",
-    "image": "/images/knives/yanagiba.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["masamoto-yanagiba-270", "sakai-takayuki-ginsan-yanagiba", "sakai-takayuki-usuba-180"]
+    "image": "/images/knives/aritsugu-a-yanagiba-300.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "masamoto-yanagiba-270",
+      "sakai-takayuki-ginsan-yanagiba",
+      "sakai-takayuki-usuba-180"
+    ]
   },
   {
     "id": "masamoto-yanagiba-270",
@@ -559,12 +961,32 @@
     "priceJPY": 62000,
     "description": "The Masamoto KS Yanagiba is the Holy Grail for sushi chefs in Tokyo. Using Shirogami #1 steel for maximum edge retention, this blade has been the choice of Tsukiji and now Toyosu market professionals for over a century. The 270mm length is the standard professional size, allowing long, unbroken strokes through fish.",
     "descriptionJa": "正本KSの柳刃は東京の寿司職人にとって聖杯。白紙1号鋼で最大の刃持ちを実現し、築地から豊洲市場のプロに一世紀以上選ばれ続ける。270mmはプロの標準サイズで、魚を途切れなく長いストロークで引き切る。",
-    "features": ["Shirogami #1 — highest carbon white steel", "Standard of Tsukiji/Toyosu sushi professionals", "270mm — professional standard length", "Ebony handle with buffalo horn", "Over 100 years of heritage"],
-    "featuresJa": ["白紙1号 — 最高級白紙鋼", "築地/豊洲の寿司職人の標準", "270mm — プロの標準サイズ", "黒檀柄に水牛角", "100年以上の伝統"],
+    "features": [
+      "Shirogami #1 — highest carbon white steel",
+      "Standard of Tsukiji/Toyosu sushi professionals",
+      "270mm — professional standard length",
+      "Ebony handle with buffalo horn",
+      "Over 100 years of heritage"
+    ],
+    "featuresJa": [
+      "白紙1号 — 最高級白紙鋼",
+      "築地/豊洲の寿司職人の標準",
+      "270mm — プロの標準サイズ",
+      "黒檀柄に水牛角",
+      "100年以上の伝統"
+    ],
     "bestFor": "sushi",
-    "image": "/images/knives/yanagiba.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["aritsugu-a-yanagiba-300", "masamoto-ks-gyuto-210", "sakai-takayuki-ginsan-yanagiba"]
+    "image": "/images/knives/masamoto-yanagiba-270.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/3PIr7lU",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "aritsugu-a-yanagiba-300",
+      "masamoto-ks-gyuto-210",
+      "sakai-takayuki-ginsan-yanagiba"
+    ]
   },
   {
     "id": "sakai-takayuki-ginsan-yanagiba",
@@ -586,12 +1008,32 @@
     "priceJPY": 30000,
     "description": "The Sakai Takayuki Ginsan Yanagiba offers the best of both worlds for sushi preparation. Ginsan (Silver-3) steel sharpens nearly as well as carbon steel but resists rust like stainless. For sushi chefs who want traditional performance without the constant maintenance of carbon, this is the answer. Made by Sakai's finest craftsmen.",
     "descriptionJa": "堺孝行の銀三柳刃は寿司仕込みの良いとこ取り。銀三鋼はカーボンに近い研ぎ味でステンレスの耐食性を持つ。伝統的な性能を求めつつカーボンの手入れを避けたい寿司職人への最適解。堺の最高の職人が製造。",
-    "features": ["Ginsan (Silver-3) — stainless with carbon sharpening feel", "Low maintenance for sushi professionals", "270mm single-bevel", "Made by Sakai's master craftsmen", "Magnolia handle with buffalo horn"],
-    "featuresJa": ["銀三 — カーボンの研ぎ味とステンレスの耐食性", "寿司職人のための低メンテナンス", "270mm片刃", "堺の熟練職人が製造", "朴柄に水牛角"],
+    "features": [
+      "Ginsan (Silver-3) — stainless with carbon sharpening feel",
+      "Low maintenance for sushi professionals",
+      "270mm single-bevel",
+      "Made by Sakai's master craftsmen",
+      "Magnolia handle with buffalo horn"
+    ],
+    "featuresJa": [
+      "銀三 — カーボンの研ぎ味とステンレスの耐食性",
+      "寿司職人のための低メンテナンス",
+      "270mm片刃",
+      "堺の熟練職人が製造",
+      "朴柄に水牛角"
+    ],
     "bestFor": "sushi",
-    "image": "/images/knives/yanagiba.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["aritsugu-a-yanagiba-300", "masamoto-yanagiba-270", "konosuke-gs-gyuto-210"]
+    "image": "/images/knives/sakai-takayuki-ginsan-yanagiba.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4v9azDG",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "aritsugu-a-yanagiba-300",
+      "masamoto-yanagiba-270",
+      "konosuke-gs-gyuto-210"
+    ]
   },
   {
     "id": "sakai-takayuki-deba-165",
@@ -613,12 +1055,32 @@
     "priceJPY": 16000,
     "description": "The Sakai Takayuki Deba is the fish butchering workhorse. Its thick, heavy single-bevel blade is designed to break down whole fish — from head removal to filleting. The Shirogami #2 steel is tough enough to handle fish bones while taking a keen edge. No Japanese professional kitchen is complete without a proper deba.",
     "descriptionJa": "堺孝行の出刃は魚おろしの主力。厚く重い片刃は丸魚の処理に特化 — 頭落としから三枚おろしまで。白紙2号鋼は魚の骨にも耐える靭性と鋭い刃先を両立。まともな和食の厨房に出刃がなければ始まらない。",
-    "features": ["Thick single-bevel blade for fish butchery", "Shirogami #2 carbon steel", "Heavy spine for breaking through fish bones", "165mm — standard home/small fish size", "Traditional magnolia wa-handle"],
-    "featuresJa": ["魚おろし用の厚い片刃", "白紙2号カーボンスチール", "魚の骨を割る重い峰", "165mm — 家庭用・小魚の標準サイズ", "伝統的な朴和式ハンドル"],
+    "features": [
+      "Thick single-bevel blade for fish butchery",
+      "Shirogami #2 carbon steel",
+      "Heavy spine for breaking through fish bones",
+      "165mm — standard home/small fish size",
+      "Traditional magnolia wa-handle"
+    ],
+    "featuresJa": [
+      "魚おろし用の厚い片刃",
+      "白紙2号カーボンスチール",
+      "魚の骨を割る重い峰",
+      "165mm — 家庭用・小魚の標準サイズ",
+      "伝統的な朴和式ハンドル"
+    ],
     "bestFor": "fish filleting",
-    "image": "/images/knives/deba.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["aritsugu-a-yanagiba-300", "sakai-takayuki-usuba-180", "tojiro-deba-165"]
+    "image": "/images/knives/sakai-takayuki-deba-165.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4duXL4m",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "aritsugu-a-yanagiba-300",
+      "sakai-takayuki-usuba-180",
+      "tojiro-deba-165"
+    ]
   },
   {
     "id": "tojiro-deba-165",
@@ -640,12 +1102,32 @@
     "priceJPY": 9500,
     "description": "Tojiro's Shirogami Deba provides professional fish butchering capability at an accessible price. The Shirogami #2 white steel is the traditional choice for deba, offering excellent toughness and easy sharpening. For home cooks who want to learn whole-fish preparation, this is the most cost-effective entry point.",
     "descriptionJa": "藤次郎の白紙鋼出刃はプロの魚おろし性能を手頃な価格で提供。白紙2号鋼は出刃の伝統的な選択で、優れた靭性と容易な研ぎを両立。丸魚の処理を学びたい家庭料理人にとって最もコスパの良い入門品。",
-    "features": ["Shirogami #2 — traditional deba steel", "Budget-friendly professional quality", "165mm — versatile size", "Robust construction for fish bones", "Easy to sharpen and maintain edge"],
-    "featuresJa": ["白紙2号 — 出刃の伝統的な鋼材", "予算に優しいプロ品質", "165mm — 万能サイズ", "魚の骨に耐える頑丈な造り", "研ぎやすく刃持ちが良い"],
+    "features": [
+      "Shirogami #2 — traditional deba steel",
+      "Budget-friendly professional quality",
+      "165mm — versatile size",
+      "Robust construction for fish bones",
+      "Easy to sharpen and maintain edge"
+    ],
+    "featuresJa": [
+      "白紙2号 — 出刃の伝統的な鋼材",
+      "予算に優しいプロ品質",
+      "165mm — 万能サイズ",
+      "魚の骨に耐える頑丈な造り",
+      "研ぎやすく刃持ちが良い"
+    ],
     "bestFor": "fish filleting",
-    "image": "/images/knives/deba.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["sakai-takayuki-deba-165", "tojiro-dp-gyuto-210", "aritsugu-a-yanagiba-300"]
+    "image": "/images/knives/tojiro-deba-165.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/47MiVXY",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "sakai-takayuki-deba-165",
+      "tojiro-dp-gyuto-210",
+      "aritsugu-a-yanagiba-300"
+    ]
   },
   {
     "id": "tojiro-petty-150",
@@ -667,12 +1149,32 @@
     "priceJPY": 5800,
     "description": "The Tojiro Petty is the perfect companion knife. At 150mm, it handles detail work that a gyuto is too large for — peeling, trimming, and precision cuts. The same VG-10 cobalt alloy construction as the legendary DP gyuto ensures excellent performance. Every kitchen needs a good petty, and this is the best value option.",
     "descriptionJa": "藤次郎のペティは完璧なサブナイフ。150mmで牛刀には大きすぎる細かい作業 — 皮むき、トリミング、精密なカットに対応。伝説的なDPシリーズと同じVG-10コバルト合金で優れた性能を保証。良いペティはどのキッチンにも必要で、これが最高のコスパ。",
-    "features": ["VG-10 cobalt alloy 3-layer blade", "Perfect size for detail work", "Lightweight at only 70g", "Excellent companion to a gyuto", "Best value petty knife available"],
-    "featuresJa": ["VG-10コバルト合金3層ブレード", "細かい作業に最適なサイズ", "わずか70gの軽量", "牛刀の最高のお供", "最高コスパのペティナイフ"],
+    "features": [
+      "VG-10 cobalt alloy 3-layer blade",
+      "Perfect size for detail work",
+      "Lightweight at only 70g",
+      "Excellent companion to a gyuto",
+      "Best value petty knife available"
+    ],
+    "featuresJa": [
+      "VG-10コバルト合金3層ブレード",
+      "細かい作業に最適なサイズ",
+      "わずか70gの軽量",
+      "牛刀の最高のお供",
+      "最高コスパのペティナイフ"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-dp-gyuto-210", "takamura-r2-petty-130", "shun-classic-gyuto-210"]
+    "image": "/images/knives/tojiro-petty-150.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4vb4Ddl",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "takamura-r2-petty-130",
+      "shun-classic-gyuto-210"
+    ]
   },
   {
     "id": "takamura-r2-petty-130",
@@ -694,12 +1196,32 @@
     "priceJPY": 16000,
     "description": "The Takamura R2 Petty is a scalpel for the kitchen. At only 55g with SG2 powdered steel at 63 HRC, it is one of the sharpest and lightest petty knives ever made. Perfect for brunoise, delicate herb work, and precision tasks. Paired with the Takamura R2 Gyuto, they form the ultimate two-knife set.",
     "descriptionJa": "高村R2ペティはキッチンのメス。わずか55gのSG2粉末鋼63 HRCで、史上最も鋭く軽いペティナイフの一つ。ブリュノワーズ、繊細なハーブ作業、精密な作業に最適。高村R2牛刀と組み合わせれば究極の2本セット。",
-    "features": ["SG2/R2 powdered steel at 63-64 HRC", "Incredibly light at 55g", "Razor-sharp thin grind", "Perfect pair with Takamura R2 Gyuto", "Stainless — zero maintenance"],
-    "featuresJa": ["SG2/R2粉末鋼 63-64 HRC", "驚異の55g軽量", "カミソリのような薄い刃付け", "高村R2牛刀と最高のペア", "ステンレス — メンテナンスフリー"],
+    "features": [
+      "SG2/R2 powdered steel at 63-64 HRC",
+      "Incredibly light at 55g",
+      "Razor-sharp thin grind",
+      "Perfect pair with Takamura R2 Gyuto",
+      "Stainless — zero maintenance"
+    ],
+    "featuresJa": [
+      "SG2/R2粉末鋼 63-64 HRC",
+      "驚異の55g軽量",
+      "カミソリのような薄い刃付け",
+      "高村R2牛刀と最高のペア",
+      "ステンレス — メンテナンスフリー"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["takamura-r2-gyuto-210", "tojiro-petty-150", "konosuke-gs-gyuto-210"]
+    "image": "/images/knives/takamura-r2-petty-130.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "takamura-r2-gyuto-210",
+      "tojiro-petty-150",
+      "konosuke-gs-gyuto-210"
+    ]
   },
   {
     "id": "misono-sujihiki-270",
@@ -721,12 +1243,32 @@
     "priceJPY": 35000,
     "description": "The Misono UX10 Sujihiki is the Japanese answer to the Western carving knife. Its long, narrow blade makes single-stroke slicing of roasts, hams, and large proteins effortless. The double-bevel grind makes it easier to use than a single-bevel yanagiba while achieving similar precision. Essential for any serious home cook who entertains.",
     "descriptionJa": "ミソノUX10の筋引は西洋のカービングナイフに対する日本の回答。長く細い刃がローストやハム、大きなタンパク質のワンストロークスライスを容易に。両刃研ぎで片刃の柳刃より使いやすく同等の精度を実現。おもてなしをする本格派料理人に必須。",
-    "features": ["270mm long narrow blade for protein slicing", "Swedish stainless steel", "Double-bevel — easier than single-bevel yanagiba", "Perfect for roasts, hams, and sashimi", "UX10 line quality and finish"],
-    "featuresJa": ["270mm長くて細い刃でタンパク質スライス", "スウェーデンステンレス鋼", "両刃 — 片刃柳刃より使いやすい", "ロースト・ハム・刺身に最適", "UX10ラインの品質と仕上がり"],
+    "features": [
+      "270mm long narrow blade for protein slicing",
+      "Swedish stainless steel",
+      "Double-bevel — easier than single-bevel yanagiba",
+      "Perfect for roasts, hams, and sashimi",
+      "UX10 line quality and finish"
+    ],
+    "featuresJa": [
+      "270mm長くて細い刃でタンパク質スライス",
+      "スウェーデンステンレス鋼",
+      "両刃 — 片刃柳刃より使いやすい",
+      "ロースト・ハム・刺身に最適",
+      "UX10ラインの品質と仕上がり"
+    ],
     "bestFor": "meat",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["misono-ux10-gyuto-210", "aritsugu-a-yanagiba-300", "masamoto-ks-gyuto-210"]
+    "image": "/images/knives/misono-sujihiki-270.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4c5Ep37",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "misono-ux10-gyuto-210",
+      "aritsugu-a-yanagiba-300",
+      "masamoto-ks-gyuto-210"
+    ]
   },
   {
     "id": "sugimoto-cm-gyuto-210",
@@ -748,12 +1290,32 @@
     "priceJPY": 24000,
     "description": "The Sugimoto CM Gyuto is the workhorse of Tokyo's Chinese restaurant kitchens. Built to withstand the demands of high-volume professional cooking, its Shirogami #1 steel takes a wicked edge while the slightly thicker grind provides durability. This is not a delicate knife — it is a reliable tool that gets the job done shift after shift.",
     "descriptionJa": "杉本CM牛刀は東京の中華料理店の主力。大量調理の要求に耐える造りで、白紙1号鋼は驚異の刃付けを実現しつつ、やや厚めの刃付けが耐久性を提供。繊細な包丁ではない — シフトごとに確実に仕事をこなす信頼のツール。",
-    "features": ["Shirogami #1 carbon steel", "Built for high-volume professional use", "Thick spine for durability", "Favored by Chinese cuisine chefs in Tokyo", "Excellent heat treatment for edge retention"],
-    "featuresJa": ["白紙1号カーボンスチール", "大量調理のプロ使用向け", "耐久性のための厚い峰", "東京の中華料理人に愛用", "優れた熱処理で刃持ち良好"],
+    "features": [
+      "Shirogami #1 carbon steel",
+      "Built for high-volume professional use",
+      "Thick spine for durability",
+      "Favored by Chinese cuisine chefs in Tokyo",
+      "Excellent heat treatment for edge retention"
+    ],
+    "featuresJa": [
+      "白紙1号カーボンスチール",
+      "大量調理のプロ使用向け",
+      "耐久性のための厚い峰",
+      "東京の中華料理人に愛用",
+      "優れた熱処理で刃持ち良好"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["masamoto-ks-gyuto-210", "masahiro-mv-gyuto-210", "sakai-takayuki-aogami-super-gyuto"]
+    "image": "/images/knives/sugimoto-cm-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4cq6DXI",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "masamoto-ks-gyuto-210",
+      "masahiro-mv-gyuto-210",
+      "sakai-takayuki-aogami-super-gyuto"
+    ]
   },
   {
     "id": "sakai-takayuki-kiritsuke-270",
@@ -775,12 +1337,32 @@
     "priceJPY": 37000,
     "description": "The Kiritsuke is traditionally reserved for the head chef (Itamae) in a Japanese kitchen — it is both a status symbol and a versatile tool. This Sakai Takayuki version uses Aogami #2 carbon steel with a k-tip (sword-tip) profile that handles both the work of a yanagiba and an usuba. Single-bevel and demanding to use, but supremely rewarding.",
     "descriptionJa": "切付は伝統的に日本の厨房で板前（料理長）のみに許される — ステータスシンボルであり万能のツール。堺孝行版は青紙2号カーボンスチールにK-tip（剣先）プロファイルで、柳刃と薄刃の仕事を一本でこなす。片刃で扱いは難しいが、極めて報われる。",
-    "features": ["K-tip profile — unique sword-like shape", "Traditionally reserved for head chefs only", "Aogami #2 carbon steel", "Single-bevel — yanagiba + usuba in one", "270mm for commanding presence"],
-    "featuresJa": ["K-tipプロファイル — 独特の剣のような形状", "伝統的に料理長のみに許される包丁", "青紙2号カーボンスチール", "片刃 — 柳刃と薄刃を一本で", "270mmの堂々たる存在感"],
+    "features": [
+      "K-tip profile — unique sword-like shape",
+      "Traditionally reserved for head chefs only",
+      "Aogami #2 carbon steel",
+      "Single-bevel — yanagiba + usuba in one",
+      "270mm for commanding presence"
+    ],
+    "featuresJa": [
+      "K-tipプロファイル — 独特の剣のような形状",
+      "伝統的に料理長のみに許される包丁",
+      "青紙2号カーボンスチール",
+      "片刃 — 柳刃と薄刃を一本で",
+      "270mmの堂々たる存在感"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["aritsugu-a-yanagiba-300", "sakai-takayuki-usuba-180", "masamoto-ks-gyuto-210"]
+    "image": "/images/knives/sakai-takayuki-kiritsuke-270.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "aritsugu-a-yanagiba-300",
+      "sakai-takayuki-usuba-180",
+      "masamoto-ks-gyuto-210"
+    ]
   },
   {
     "id": "tojiro-shirogami-nakiri-165",
@@ -802,12 +1384,32 @@
     "priceJPY": 6500,
     "description": "Tojiro's Shirogami Nakiri brings the exceptional cutting feel of carbon steel to the nakiri format at an incredible price. The double-bevel Shirogami #2 blade makes clean vegetable cuts with the satisfying feedback only carbon steel provides. With a wa-handle and traditional aesthetics, it connects you to centuries of Japanese culinary tradition.",
     "descriptionJa": "藤次郎の白紙鋼菜切は、カーボンスチールの卓越した切れ味を菜切に驚異的な価格で実現。両刃の白紙2号が、カーボンスチールでしか味わえない心地よいフィードバックでクリーンな野菜カットを提供。和式ハンドルと伝統的な佇まいで何世紀もの和食の伝統につながる。",
-    "features": ["Shirogami #2 carbon steel", "Double-bevel nakiri — easier to use", "Traditional wa-handle", "Beautiful patina with use", "Outstanding value under $50"],
-    "featuresJa": ["白紙2号カーボンスチール", "両刃菜切 — 使いやすい", "伝統的な和式ハンドル", "使い込むと美しいパティナ", "50ドル以下の優れた価値"],
+    "features": [
+      "Shirogami #2 carbon steel",
+      "Double-bevel nakiri — easier to use",
+      "Traditional wa-handle",
+      "Beautiful patina with use",
+      "Outstanding value under $50"
+    ],
+    "featuresJa": [
+      "白紙2号カーボンスチール",
+      "両刃菜切 — 使いやすい",
+      "伝統的な和式ハンドル",
+      "使い込むと美しいパティナ",
+      "50ドル以下の優れた価値"
+    ],
     "bestFor": "vegetables",
-    "image": "/images/knives/nakiri.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["tojiro-nakiri-165", "sakai-takayuki-usuba-180", "tojiro-dp-santoku-170"]
+    "image": "/images/knives/tojiro-shirogami-nakiri-165.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-nakiri-165",
+      "sakai-takayuki-usuba-180",
+      "tojiro-dp-santoku-170"
+    ]
   },
   {
     "id": "misono-molybdenum-petty-130",
@@ -829,12 +1431,32 @@
     "priceJPY": 9500,
     "description": "The Misono Molybdenum Petty is a professional-grade utility knife at a reasonable price point. The molybdenum stainless steel offers good corrosion resistance with decent edge retention. At 130mm, it is perfect for trimming, peeling, and other precision tasks. A staple in Japanese professional kitchens alongside the UX10 line.",
     "descriptionJa": "ミソノのモリブデン鋼ペティは手頃な価格のプロ用ユーティリティナイフ。モリブデンステンレス鋼が良好な耐食性と適度な刃持ちを提供。130mmでトリミング・皮むき・精密作業に最適。UX10ラインと並ぶ日本のプロキッチンの定番。",
-    "features": ["Molybdenum stainless steel", "Professional-grade at mid-range price", "130mm — ideal utility size", "Lightweight and nimble", "Easy to maintain"],
-    "featuresJa": ["モリブデンステンレス鋼", "ミドルレンジ価格のプロ品質", "130mm — 理想的なユーティリティサイズ", "軽量で俊敏", "メンテナンスが容易"],
+    "features": [
+      "Molybdenum stainless steel",
+      "Professional-grade at mid-range price",
+      "130mm — ideal utility size",
+      "Lightweight and nimble",
+      "Easy to maintain"
+    ],
+    "featuresJa": [
+      "モリブデンステンレス鋼",
+      "ミドルレンジ価格のプロ品質",
+      "130mm — 理想的なユーティリティサイズ",
+      "軽量で俊敏",
+      "メンテナンスが容易"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/gyuto.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["misono-ux10-gyuto-210", "tojiro-petty-150", "takamura-r2-petty-130"]
+    "image": "/images/knives/misono-molybdenum-petty-130.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/3PQo0Ix",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "misono-ux10-gyuto-210",
+      "tojiro-petty-150",
+      "takamura-r2-petty-130"
+    ]
   },
   {
     "id": "shun-classic-santoku-175",
@@ -856,11 +1478,313 @@
     "priceJPY": 23000,
     "description": "The Shun Classic Santoku is the quintessential Japanese home knife for Western kitchens. The 175mm santoku blade with a VG-MAX core surrounded by 16 layers of Damascus cladding creates a knife that excels at the three cutting methods: slicing, dicing, and mincing. The wide blade also doubles as a scoop for transferring chopped ingredients.",
     "descriptionJa": "旬Classic三徳は西洋のキッチンにおける典型的な日本の家庭用包丁。175mmの三徳ブレードはVG-MAXコアを16層ダマスカスで包み、切る・刻む・みじん切りの三法に秀でる。幅広い刃は刻んだ食材の移動にスクープとしても活躍。",
-    "features": ["16-layer Damascus over VG-MAX core", "Wide blade for scooping ingredients", "175mm — perfect home santoku size", "D-shaped pakkawood handle", "Lifetime free sharpening"],
-    "featuresJa": ["VG-MAXコアに16層ダマスカス", "食材すくい上げに便利な幅広刃", "175mm — 完璧な家庭用三徳サイズ", "D型パッカウッドハンドル", "生涯無料研ぎ直し"],
+    "features": [
+      "16-layer Damascus over VG-MAX core",
+      "Wide blade for scooping ingredients",
+      "175mm — perfect home santoku size",
+      "D-shaped pakkawood handle",
+      "Lifetime free sharpening"
+    ],
+    "featuresJa": [
+      "VG-MAXコアに16層ダマスカス",
+      "食材すくい上げに便利な幅広刃",
+      "175mm — 完璧な家庭用三徳サイズ",
+      "D型パッカウッドハンドル",
+      "生涯無料研ぎ直し"
+    ],
     "bestFor": "all-purpose",
-    "image": "/images/knives/santoku.svg",
-    "affiliateUrls": { "amazonUS": "", "amazonJP": "", "rakuten": "" },
-    "relatedKnives": ["shun-classic-gyuto-210", "shun-premier-santoku-180", "tojiro-dp-santoku-170"]
+    "image": "/images/knives/shun-classic-santoku-175.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "https://amzn.to/4seWmm0",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "shun-classic-gyuto-210",
+      "shun-premier-santoku-180",
+      "tojiro-dp-santoku-170"
+    ]
+  },
+  {
+    "id": "miyabi-birchwood-sg2-gyuto-200",
+    "name": "Miyabi Birchwood SG2 Gyuto 200mm",
+    "nameJa": "雅 バーチウッド SG2 牛刀 200mm",
+    "brand": "miyabi",
+    "brandJa": "雅（ツヴィリング）",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "sg2-r2",
+    "steelType": "powdered",
+    "handle": "yo",
+    "origin": "Seki",
+    "originJa": "関",
+    "bladeLength": 200,
+    "weight": 170,
+    "hardness": "63",
+    "priceUSD": 250,
+    "priceJPY": 37000,
+    "description": "The Miyabi Birchwood SG2 is where German engineering meets Japanese blade craft. Produced by Zwilling J.A. Henckels in Seki, it features an SG2 micro-carbide steel core at 63 HRC wrapped in 100 layers of flower-pattern Damascus. The stunning birchwood handle with a mosaic pin is as much a display piece as it is a cutting tool. One of the most beautiful production knives ever made.",
+    "descriptionJa": "雅バーチウッドSG2はドイツの工学と日本の刃物技術の融合。ツヴィリングが関で製造し、SG2マイクロカーバイド鋼コアを63 HRCで100層のフラワーパターンダマスカスが包む。モザイクピン付きのバーチウッドハンドルは観賞品としても一級。史上最も美しい量産包丁の一つ。",
+    "features": [
+      "SG2/MC66 micro-carbide steel at 63 HRC",
+      "100-layer flower Damascus pattern",
+      "Stunning birchwood handle with mosaic pin",
+      "ICE-hardened CRYODUR blade",
+      "Zwilling x Seki collaboration"
+    ],
+    "featuresJa": [
+      "SG2/MC66マイクロカーバイド鋼 63 HRC",
+      "100層フラワーダマスカス模様",
+      "モザイクピン付きバーチウッドハンドル",
+      "ICE硬化CRYODURブレード",
+      "ツヴィリング×関のコラボレーション"
+    ],
+    "bestFor": "all-purpose",
+    "image": "/images/knives/miyabi-birchwood-sg2-gyuto-200.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": ""
+    },
+    "relatedKnives": [
+      "takamura-r2-gyuto-210",
+      "shun-dual-core-gyuto-210",
+      "hattori-hd-gyuto-210"
+    ]
+  },
+  {
+    "id": "nigara-aogami-super-kurouchi-gyuto-210",
+    "name": "Nigara Aogami Super Kurouchi Gyuto 210mm",
+    "nameJa": "新潟良 青紙スーパー 黒打 牛刀 210mm",
+    "brand": "nigara",
+    "brandJa": "新潟良（にがら）",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "aogami-super",
+    "steelType": "carbon",
+    "handle": "wa",
+    "origin": "Sanjo",
+    "originJa": "三条",
+    "bladeLength": 210,
+    "weight": 165,
+    "hardness": "63-64",
+    "priceUSD": 180,
+    "priceJPY": 27000,
+    "description": "Nigara Hamono is a hidden gem from Niigata's Sanjo region, producing knives with outstanding value. This Aogami Super gyuto features a kurouchi (forge-scale) finish that gives it rustic beauty and a natural non-stick surface. The ho wood octagonal handle is light and comfortable. At this price point, the edge retention of Aogami Super steel is simply unbeatable.",
+    "descriptionJa": "にがら刃物は新潟・三条の隠れた名品で、優れたコスパの包丁を製造。この青紙スーパー牛刀は黒打ち仕上げが素朴な美しさと天然の食離れ効果を発揮。朴の八角柄は軽く快適。この価格帯で青紙スーパーの刃持ちは他の追随を許さない。",
+    "features": [
+      "Aogami Super carbon steel at 63-64 HRC",
+      "Kurouchi (forge-scale) finish",
+      "Ho wood octagonal wa-handle",
+      "Stainless-clad for easier maintenance",
+      "Outstanding value from Sanjo"
+    ],
+    "featuresJa": [
+      "青紙スーパーカーボンスチール 63-64 HRC",
+      "黒打ち（鍛造肌）仕上げ",
+      "朴八角和式ハンドル",
+      "ステンレスクラッドでメンテナンス容易",
+      "三条発の優れたコスパ"
+    ],
+    "bestFor": "all-purpose",
+    "image": "/images/knives/nigara-aogami-super-kurouchi-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": ""
+    },
+    "relatedKnives": [
+      "sakai-takayuki-aogami-super-gyuto",
+      "kurosaki-as-gyuto-210",
+      "tojiro-dp-gyuto-210"
+    ]
+  },
+  {
+    "id": "zanmai-classic-pro-damascus-gyuto-210",
+    "name": "Zanmai Classic Pro Damascus Gyuto 210mm",
+    "nameJa": "ざんまい クラシックプロ ダマスカス 牛刀 210mm",
+    "brand": "zanmai",
+    "brandJa": "ざんまい（エムカスタ）",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "vg-10",
+    "steelType": "clad",
+    "handle": "yo",
+    "origin": "Seki",
+    "originJa": "関",
+    "bladeLength": 210,
+    "weight": 185,
+    "hardness": "60-61",
+    "priceUSD": 120,
+    "priceJPY": 18000,
+    "description": "The Zanmai Classic Pro Damascus offers stunning looks at a mid-range price. Made by Mcusta Zanmai in Seki, the VG-10 core is clad in 33 layers of Damascus steel creating a beautiful wave pattern. The Micarta handle is nearly indestructible and provides excellent grip even when wet. A compelling alternative to the Shun Classic at a lower price point.",
+    "descriptionJa": "ざんまいクラシックプロダマスカスはミドルレンジの価格で美しい外観を実現。関のエムカスタ・ざんまいが製造し、VG-10コアを33層ダマスカスで包んだ美しい波模様。マイカルタハンドルは耐久性抜群で濡れた手でも確実なグリップ。旬Classicの有力な代替選択。",
+    "features": [
+      "VG-10 core with 33-layer Damascus cladding",
+      "Durable Micarta handle",
+      "Beautiful wave Damascus pattern",
+      "Made in Seki by Mcusta",
+      "Excellent mid-range value"
+    ],
+    "featuresJa": [
+      "VG-10コアに33層ダマスカスクラッド",
+      "耐久性抜群のマイカルタハンドル",
+      "美しい波模様ダマスカス",
+      "関のエムカスタが製造",
+      "優れたミドルレンジの価値"
+    ],
+    "bestFor": "all-purpose",
+    "image": "/images/knives/zanmai-classic-pro-damascus-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": ""
+    },
+    "relatedKnives": [
+      "shun-classic-gyuto-210",
+      "sakai-takayuki-vg10-gyuto",
+      "tojiro-dp-gyuto-210"
+    ]
+  },
+  {
+    "id": "tojiro-honesuki-150",
+    "name": "Tojiro Honesuki 150mm",
+    "nameJa": "藤次郎 骨スキ 150mm",
+    "brand": "tojiro",
+    "brandJa": "藤次郎",
+    "type": "honesuki",
+    "typeJa": "骨スキ",
+    "steel": "vg-10",
+    "steelType": "stainless",
+    "handle": "yo",
+    "origin": "Tsubame-Sanjo",
+    "originJa": "燕三条",
+    "bladeLength": 150,
+    "weight": 130,
+    "hardness": "60",
+    "priceUSD": 60,
+    "priceJPY": 8800,
+    "description": "The Tojiro Honesuki is an essential poultry knife that makes breaking down chickens a breeze. The stiff, triangular blade is designed to navigate around joints and separate meat from bone with surgical precision. VG-10 steel holds up to the demands of butchery work. At this price, it is the most accessible way to add a honesuki to your collection.",
+    "descriptionJa": "藤次郎の骨スキは鶏の解体を楽にする必須の食鳥用包丁。硬くて三角形の刃は関節の周りを巧みに通り、骨から肉を外科手術のような精度で分離。VG-10鋼が解体作業の要求に応える。この価格帯で骨スキをコレクションに加える最も手軽な方法。",
+    "features": [
+      "VG-10 stainless steel",
+      "Stiff triangular blade for poultry work",
+      "150mm — standard honesuki size",
+      "Micarta handle for secure wet grip",
+      "Best value honesuki on the market"
+    ],
+    "featuresJa": [
+      "VG-10ステンレス鋼",
+      "食鳥作業用の硬い三角刃",
+      "150mm — 骨スキの標準サイズ",
+      "濡れた手でも安心のマイカルタハンドル",
+      "市場最高コスパの骨スキ"
+    ],
+    "bestFor": "meat",
+    "image": "/images/knives/tojiro-honesuki-150.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "tojiro-deba-165",
+      "sakai-takayuki-deba-165"
+    ]
+  },
+  {
+    "id": "shun-premier-bread-knife-230",
+    "name": "Shun Premier Bread Knife 230mm",
+    "nameJa": "旬 Premier パン切 230mm",
+    "brand": "shun",
+    "brandJa": "旬",
+    "type": "bread",
+    "typeJa": "パン切",
+    "steel": "vg-max",
+    "steelType": "stainless",
+    "handle": "wa",
+    "origin": "Seki",
+    "originJa": "関",
+    "bladeLength": 230,
+    "weight": 175,
+    "hardness": "61",
+    "priceUSD": 150,
+    "priceJPY": 22000,
+    "description": "The Shun Premier Bread Knife elevates a humble tool into something extraordinary. The VG-MAX steel serrations are far sharper than Western bread knives, cutting through crusty sourdough without crushing the crumb. The tsuchime (hammered) Damascus finish and walnut-colored pakkawood handle make it as beautiful as any knife in the Premier line. Proof that even a bread knife deserves to be special.",
+    "descriptionJa": "旬Premierのパン切りは地味な道具を特別な存在に昇華。VG-MAX鋼の波刃は西洋のパン切りより遥かに鋭く、ハードなサワードウもクラムを潰さずカット。槌目ダマスカスとウォールナット色パッカウッドハンドルはPremierラインの美しさ。パン切りも特別であるべきという証明。",
+    "features": [
+      "VG-MAX steel serrations — sharper than Western bread knives",
+      "Tsuchime Damascus finish",
+      "Walnut-colored pakkawood handle",
+      "230mm blade for large loaves",
+      "Cuts without crushing the crumb"
+    ],
+    "featuresJa": [
+      "VG-MAX鋼波刃 — 西洋パン切りより鋭い",
+      "槌目ダマスカス仕上げ",
+      "ウォールナット色パッカウッドハンドル",
+      "大きなパンに対応する230mm",
+      "クラムを潰さずカット"
+    ],
+    "bestFor": "bread",
+    "image": "/images/knives/shun-premier-bread-knife-230.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": ""
+    },
+    "relatedKnives": [
+      "shun-classic-gyuto-210",
+      "shun-premier-santoku-180",
+      "shun-classic-santoku-175"
+    ]
+  },
+  {
+    "id": "kurosaki-senko-sg2-bunka-165",
+    "name": "Yu Kurosaki Senko Bunka 165mm",
+    "nameJa": "黒崎優 閃光 SG2 文化 165mm",
+    "brand": "kurosaki",
+    "brandJa": "黒崎優",
+    "type": "bunka",
+    "typeJa": "文化",
+    "steel": "sg2-r2",
+    "steelType": "powdered",
+    "handle": "wa",
+    "origin": "Echizen",
+    "originJa": "越前",
+    "bladeLength": 165,
+    "weight": 140,
+    "hardness": "63",
+    "priceUSD": 280,
+    "priceJPY": 42000,
+    "description": "Yu Kurosaki's Senko Bunka is a stunning piece of functional art. The SG2 powdered steel core at 63 HRC delivers exceptional edge retention, while the signature Senko (Flash) rain-drop Damascus pattern is instantly recognizable. The k-tip bunka shape excels at precise tip work while the wider blade handles everyday chopping. The luxurious urushi-lacquered handle is the finishing touch on a masterpiece.",
+    "descriptionJa": "黒崎優の閃光文化は機能的な芸術品。SG2粉末鋼コア63 HRCが卓越した刃持ちを発揮し、シグネチャーの閃光・雨粒ダマスカス模様は一目で分かる。K-tip文化包丁の形状は精密な先端作業に優れ、幅広い刃が日常の刻み作業もこなす。漆塗りハンドルが傑作に最後の仕上げを添える。",
+    "features": [
+      "SG2 powdered steel core at 63 HRC",
+      "Signature Senko rain-drop Damascus pattern",
+      "K-tip bunka shape for versatile cutting",
+      "Luxurious urushi-lacquered handle",
+      "Hand-forged by master smith Yu Kurosaki"
+    ],
+    "featuresJa": [
+      "SG2粉末鋼コア 63 HRC",
+      "シグネチャー閃光・雨粒ダマスカス模様",
+      "万能なK-tip文化包丁形状",
+      "贅沢な漆塗りハンドル",
+      "名匠・黒崎優の手打ち鍛造"
+    ],
+    "bestFor": "all-purpose",
+    "image": "/images/knives/kurosaki-senko-sg2-bunka-165.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": ""
+    },
+    "relatedKnives": [
+      "kurosaki-as-gyuto-210",
+      "takamura-r2-gyuto-210",
+      "konosuke-gs-gyuto-210"
+    ]
   }
 ]
