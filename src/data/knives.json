@@ -1790,5 +1790,293 @@
       "takamura-r2-gyuto-210",
       "konosuke-gs-gyuto-210"
     ]
+  },
+  {
+    "id": "shibata-kotetsu-r2-gyuto-210",
+    "name": "Shibata Kotetsu R2 Gyuto 210mm",
+    "nameJa": "柴田虎徹 R2 牛刀 210mm",
+    "brand": "shibata",
+    "brandJa": "柴田",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "r2-sg2",
+    "steelType": "stainless",
+    "handle": "wa",
+    "origin": "Takefu",
+    "originJa": "武生",
+    "bladeLength": 210,
+    "weight": 145,
+    "hardness": "63-64",
+    "priceUSD": 280,
+    "priceJPY": 35000,
+    "description": "The Shibata Kotetsu R2 is renowned for its incredibly thin grind and laser-like cutting performance. Forged by Takeshi Shibata in Takefu, this knife slices through ingredients with minimal resistance. The R2/SG2 steel holds a razor edge for an extended period, making it a favorite among professional chefs who demand precision.",
+    "descriptionJa": "柴田虎徹 R2は極薄のブレードと刃物のような切れ味で名高い一本。武生で柴田健氏が鍛造し、食材を最小限の抵抗で切り抜く。R2/SG2鋼はカミソリのような刃先を長期間維持し、精密さを求めるプロの料理人に愛される。",
+    "features": [
+      "Extremely thin grind for laser-like cuts",
+      "R2/SG2 powdered stainless steel",
+      "Lightweight and agile",
+      "Exceptional edge retention",
+      "Wa-handle with octagonal shape"
+    ],
+    "featuresJa": [
+      "レーザーのような切れ味の極薄ブレード",
+      "R2/SG2粉末ステンレス鋼",
+      "軽量で取り回しやすい",
+      "優れた切れ味の持続性",
+      "八角形の和式ハンドル"
+    ],
+    "bestFor": "precision-cutting",
+    "image": "/images/knives/shibata-kotetsu-r2-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "takamura-r2-gyuto-210",
+      "takeshi-saji-r2-gyuto-210",
+      "yoshimi-kato-sg2-gyuto-210"
+    ]
+  },
+  {
+    "id": "yoshimi-kato-sg2-gyuto-210",
+    "name": "Yoshimi Kato SG2 Gyuto 210mm",
+    "nameJa": "加藤義実 SG2 牛刀 210mm",
+    "brand": "yoshimi-kato",
+    "brandJa": "加藤義実",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "sg2",
+    "steelType": "stainless",
+    "handle": "wa",
+    "origin": "Takefu",
+    "originJa": "武生",
+    "bladeLength": 210,
+    "weight": 160,
+    "hardness": "63",
+    "priceUSD": 240,
+    "priceJPY": 30000,
+    "description": "Yoshimi Kato is one of Takefu's most celebrated blacksmiths, known for beautiful Damascus finishes and exceptional heat treatment. This SG2 gyuto combines stunning aesthetics with outstanding cutting performance. The hand-forged blade features a subtle tsuchime finish that reduces food sticking.",
+    "descriptionJa": "加藤義実は武生で最も名高い鍛冶師の一人で、美しいダマスカス仕上げと卓越した熱処理で知られる。このSG2牛刀は見た目の美しさと切れ味を両立。手鍛造のブレードは繊細な槌目仕上げで食材の張り付きを軽減。",
+    "features": [
+      "Hand-forged SG2 blade",
+      "Beautiful tsuchime (hammered) finish",
+      "Excellent food release",
+      "Made by master blacksmith Yoshimi Kato",
+      "Elegant wa-handle"
+    ],
+    "featuresJa": [
+      "手鍛造SG2ブレード",
+      "美しい槌目仕上げ",
+      "優れた食材離れ",
+      "名匠・加藤義実による製作",
+      "上品な和式ハンドル"
+    ],
+    "bestFor": "all-purpose",
+    "image": "/images/knives/yoshimi-kato-sg2-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "shibata-kotetsu-r2-gyuto-210",
+      "takamura-r2-gyuto-210",
+      "masakage-yuki-gyuto-210"
+    ]
+  },
+  {
+    "id": "masakage-yuki-gyuto-210",
+    "name": "Masakage Yuki Gyuto 210mm",
+    "nameJa": "正影 雪 牛刀 210mm",
+    "brand": "masakage",
+    "brandJa": "正影",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "shirogami-2",
+    "steelType": "carbon",
+    "handle": "wa",
+    "origin": "Sanjo",
+    "originJa": "三条",
+    "bladeLength": 210,
+    "weight": 165,
+    "hardness": "62-63",
+    "priceUSD": 120,
+    "priceJPY": 15000,
+    "description": "The Masakage Yuki is a stunning entry into the world of carbon steel Japanese knives. Crafted in Sanjo by the Anryu blacksmithing lineage, it features Shirogami #2 steel clad in stainless for easy maintenance. The nashiji (pear skin) finish gives it a rustic beauty while providing excellent food release.",
+    "descriptionJa": "正影 雪はカーボンスチール日本包丁の世界への素晴らしい入門品。三条の安流鍛冶の系譜で作られ、白紙2号をステンレスで挟んだメンテナンスしやすい構造。梨地仕上げが素朴な美しさと食材離れの良さを両立。",
+    "features": [
+      "Shirogami #2 carbon steel core",
+      "Stainless cladding for easy care",
+      "Nashiji (pear skin) finish",
+      "Excellent value for performance",
+      "Ho wood and buffalo horn handle"
+    ],
+    "featuresJa": [
+      "白紙2号カーボンスチール芯材",
+      "ステンレスクラッドでお手入れ簡単",
+      "梨地仕上げ",
+      "性能に対する優れたコスパ",
+      "朴木＆水牛角ハンドル"
+    ],
+    "bestFor": "all-purpose",
+    "image": "/images/knives/masakage-yuki-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "yoshimi-kato-sg2-gyuto-210",
+      "yoshihiro-vg10-gyuto-210",
+      "tojiro-dp-gyuto-210"
+    ]
+  },
+  {
+    "id": "yoshihiro-vg10-gyuto-210",
+    "name": "Yoshihiro VG-10 Gyuto 210mm",
+    "nameJa": "吉宏 VG-10 牛刀 210mm",
+    "brand": "yoshihiro",
+    "brandJa": "吉宏",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "vg-10",
+    "steelType": "stainless",
+    "handle": "wa",
+    "origin": "Sakai",
+    "originJa": "堺",
+    "bladeLength": 210,
+    "weight": 170,
+    "hardness": "60-61",
+    "priceUSD": 95,
+    "priceJPY": 12000,
+    "description": "Yoshihiro brings Sakai's 600-year knife-making heritage to a VG-10 gyuto that punches well above its price point. The three-layer construction features a VG-10 core clad in soft stainless, offering excellent edge retention with easy sharpening. A superb choice for home cooks stepping up from entry-level knives.",
+    "descriptionJa": "吉宏は堺の600年の包丁製造の伝統をVG-10牛刀に凝縮。三層構造のVG-10コアをソフトステンレスで挟み、優れた切れ味の持続性と研ぎやすさを両立。入門レベルからのステップアップに最適な一本。",
+    "features": [
+      "VG-10 three-layer construction",
+      "600 years of Sakai craftsmanship",
+      "Excellent edge retention",
+      "Easy to sharpen",
+      "Traditional wa-handle"
+    ],
+    "featuresJa": [
+      "VG-10三層構造",
+      "堺600年の匠の技",
+      "優れた切れ味の持続性",
+      "研ぎやすい",
+      "伝統的な和式ハンドル"
+    ],
+    "bestFor": "all-purpose",
+    "image": "/images/knives/yoshihiro-vg10-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "tojiro-dp-gyuto-210",
+      "masakage-yuki-gyuto-210",
+      "sakai-ichimonji-vg10-santoku"
+    ]
+  },
+  {
+    "id": "sakai-ichimonji-vg10-santoku",
+    "name": "Sakai Ichimonji VG-10 Santoku",
+    "nameJa": "堺一文字光秀 VG-10 三徳",
+    "brand": "sakai-ichimonji",
+    "brandJa": "堺一文字光秀",
+    "type": "santoku",
+    "typeJa": "三徳",
+    "steel": "vg-10",
+    "steelType": "stainless",
+    "handle": "wa",
+    "origin": "Sakai",
+    "originJa": "堺",
+    "bladeLength": 180,
+    "weight": 155,
+    "hardness": "60-61",
+    "priceUSD": 120,
+    "priceJPY": 15000,
+    "description": "Sakai Ichimonji Mitsuhide is one of Sakai's most prestigious knife brands. This VG-10 santoku is the quintessential Japanese home kitchen knife — perfect for vegetables, fish, and meat. The 180mm blade length is ideal for smaller cutting boards and Japanese-style cutting techniques.",
+    "descriptionJa": "堺一文字光秀は堺を代表する名門包丁ブランド。このVG-10三徳は日本の家庭料理の定番包丁 — 野菜・魚・肉のすべてに対応。180mmの刃渡りは小さなまな板や和食の切り方に最適。",
+    "features": [
+      "VG-10 stainless steel blade",
+      "Versatile 180mm santoku shape",
+      "Prestigious Sakai Ichimonji brand",
+      "Ideal for home cooks",
+      "Balanced wa-handle"
+    ],
+    "featuresJa": [
+      "VG-10ステンレス刃",
+      "万能な180mm三徳型",
+      "名門・堺一文字光秀ブランド",
+      "家庭料理に最適",
+      "バランスの良い和式ハンドル"
+    ],
+    "bestFor": "home-cooking",
+    "image": "/images/knives/sakai-ichimonji-vg10-santoku.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "yoshihiro-vg10-gyuto-210",
+      "tojiro-dp-gyuto-210",
+      "shun-classic-gyuto-210"
+    ]
+  },
+  {
+    "id": "takeshi-saji-r2-gyuto-210",
+    "name": "Takeshi Saji R2 Damascus Gyuto 210mm",
+    "nameJa": "佐治武士 R2ダマスカス 牛刀 210mm",
+    "brand": "takeshi-saji",
+    "brandJa": "佐治武士",
+    "type": "gyuto",
+    "typeJa": "牛刀",
+    "steel": "r2-sg2",
+    "steelType": "stainless",
+    "handle": "wa",
+    "origin": "Echizen",
+    "originJa": "越前",
+    "bladeLength": 210,
+    "weight": 170,
+    "hardness": "63-64",
+    "priceUSD": 360,
+    "priceJPY": 45000,
+    "description": "Takeshi Saji is a Living National Treasure-level blacksmith from Echizen, renowned for his artistic Damascus patterns and exceptional heat treatment. This R2 gyuto features a stunning multi-layer Damascus cladding that makes each knife unique. Beyond the beauty, the R2/SG2 core delivers outstanding cutting performance and edge retention.",
+    "descriptionJa": "佐治武士は越前の人間国宝級の鍛冶師で、芸術的なダマスカス模様と卓越した熱処理で名高い。このR2牛刀は多層ダマスカスクラッドで一本一本が唯一無二。美しさだけでなく、R2/SG2コアが卓越した切れ味と切れ味の持続性を提供。",
+    "features": [
+      "R2/SG2 core with multi-layer Damascus",
+      "Each knife has a unique pattern",
+      "Forged by master blacksmith Takeshi Saji",
+      "Exceptional edge retention at HRC 63-64",
+      "Premium wa-handle with bolster"
+    ],
+    "featuresJa": [
+      "R2/SG2コアに多層ダマスカスクラッド",
+      "一本一本異なる唯一無二の模様",
+      "名匠・佐治武士による鍛造",
+      "HRC 63-64の優れた切れ味持続性",
+      "口金付きプレミアム和式ハンドル"
+    ],
+    "bestFor": "premium-collection",
+    "image": "/images/knives/takeshi-saji-r2-gyuto-210.webp",
+    "affiliateUrls": {
+      "amazonUS": "",
+      "amazonJP": "",
+      "amazonUK": "",
+      "rakuten": ""
+    },
+    "relatedKnives": [
+      "shibata-kotetsu-r2-gyuto-210",
+      "kurosaki-as-gyuto-210",
+      "yoshimi-kato-sg2-gyuto-210"
+    ]
   }
 ]
