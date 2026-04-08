@@ -155,7 +155,7 @@ const productJsonLd = {
     </div>
 
     <!-- 購入リンク（URLがある場合のみ表示） -->
-    {(knife.affiliateUrls.amazonUS || knife.affiliateUrls.amazonJP || knife.affiliateUrls.rakuten) && (
+    {(knife.affiliateUrls.amazonUS || knife.affiliateUrls.amazonJP || knife.affiliateUrls.amazonUK || knife.affiliateUrls.rakuten) && (
       <div style="padding: var(--space-md) 0 var(--space-lg);">
         <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
         <div class="buy-links">
@@ -165,8 +165,11 @@ const productJsonLd = {
           {knife.affiliateUrls.amazonJP && (
             <a href={knife.affiliateUrls.amazonJP} class="btn" target="_blank" rel="noopener noreferrer">Amazon JP</a>
           )}
+          {knife.affiliateUrls.amazonUK && (
+            <a href={knife.affiliateUrls.amazonUK} class="btn" target="_blank" rel="noopener noreferrer">Amazon UK</a>
+          )}
           {knife.affiliateUrls.rakuten && (
-            <a href={knife.affiliateUrls.rakuten} class="btn" target="_blank" rel="noopener noreferrer">Rakuten</a>
+            <a href={knife.affiliateUrls.rakuten} class="btn" target="_blank" rel="noopener noreferrer">🛒 楽天市場</a>
           )}
         </div>
       </div>
