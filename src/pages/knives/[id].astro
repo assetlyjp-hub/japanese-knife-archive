@@ -35,36 +35,29 @@ const relatedKnives = knife.relatedKnives
   .map(relId => knivesData.find(k => k.id === relId))
   .filter(Boolean);
 
-// JSON-LD構造化データ（Product schema）
-const productJsonLd = {
+// JSON-LD構造化データ（Article schema）
+const articleJsonLd = {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": knife.name,
+  "@type": "Article",
+  "headline": knife.name,
   "description": knife.description,
   "image": new URL(knife.image, Astro.site).href,
-  "brand": {
-    "@type": "Brand",
-    "name": knife.brandJa,
+  "author": {
+    "@type": "Organization",
+    "name": "Japanese Knife Archive",
   },
-  "offers": {
-    "@type": "Offer",
-    "price": knife.priceUSD,
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Japanese Knife Archive",
   },
-  "additionalProperty": [
-    { "@type": "PropertyValue", "name": "Blade Length", "value": `${knife.bladeLength}mm` },
-    { "@type": "PropertyValue", "name": "Steel", "value": steel?.name || knife.steel },
-    { "@type": "PropertyValue", "name": "Weight", "value": `${knife.weight}g` },
-    { "@type": "PropertyValue", "name": "Hardness", "value": `${knife.hardness} HRC` },
-  ],
+  "datePublished": new Date().toISOString().split('T')[0],
 };
 ---
 
 <Base
   title={knife.name}
   description={knife.description.slice(0, 160)}
-  jsonLd={productJsonLd}
+  jsonLd={articleJsonLd}
 >
   <!-- 一覧への戻りリンク -->
   <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
