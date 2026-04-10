@@ -4,6 +4,8 @@ description: "Stop buying knives you don't need. Learn which 3 Japanese knives c
 category: "guide"
 tags: ["knife set", "beginner", "gyuto", "petty", "nakiri", "buying guide"]
 publishedAt: "2026-04-09"
+updatedAt: "2026-04-10"
+relatedKnives: ["tojiro-dp-gyuto-210", "takamura-r2-gyuto-210", "mac-professional-gyuto-210"]
 articleType: "guide"
 ---
 

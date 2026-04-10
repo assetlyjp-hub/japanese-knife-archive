@@ -4,7 +4,8 @@ description: "Learn how to sharpen Japanese knives on whetstones. Step-by-step g
 category: "guide"
 tags: ["sharpening", "whetstone", "maintenance", "guide"]
 publishedAt: "2026-04-02"
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-10"
+relatedKnives: ["tojiro-dp-gyuto-210", "takamura-r2-gyuto-210"]
 articleType: "guide"
 ---
 
