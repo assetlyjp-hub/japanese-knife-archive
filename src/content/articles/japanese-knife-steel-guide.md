@@ -4,6 +4,7 @@ description: "A complete guide to Japanese knife steel types. Learn the differen
 category: "guide"
 tags: ["steel", "guide", "white-paper", "blue-paper", "sg2", "vg-10", "metallurgy"]
 publishedAt: "2026-04-07"
+updatedAt: "2026-04-10"
 relatedKnives: ["tojiro-dp-gyuto-210", "takamura-r2-gyuto-210", "kurosaki-senko-sg2-bunka-165"]
 articleType: "guide"
 ---
