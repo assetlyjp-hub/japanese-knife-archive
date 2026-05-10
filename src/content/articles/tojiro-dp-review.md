@@ -3,8 +3,8 @@ title: "Tojiro DP Review: The Best Beginner Japanese Knife at $50?"
 description: "An honest review of the Tojiro DP series — the most-recommended budget Japanese knife. After 5 years of use, is the hype justified?"
 category: "review"
 tags: [tojiro, vg-10, beginner, budget, review]
-publishedAt: "2026-05-07"
-updatedAt: "2026-05-07"
+publishedAt: "2026-05-10"
+updatedAt: "2026-05-10"
 relatedKnives: ["tojiro-dp-gyuto-210", "tojiro-dp-santoku-170", "tojiro-petty-150"]
 articleType: "review"
 ---
