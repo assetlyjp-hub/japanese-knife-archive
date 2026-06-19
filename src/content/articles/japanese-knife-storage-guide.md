@@ -21,7 +21,7 @@ A German chef's knife at HRC 56 is forgiving. Bang it against a coffee mug in th
 
 The other side is household safety. Japanese knives are sharper than people expect. A toddler reaching into a drawer, a partner grabbing a towel from a hook above the counter, a guest helping load the dishwasher — every one of these is a real injury vector if the edge is exposed. Good storage is risk management.
 
-Related reading: [the most common mistakes Japanese knife owners make](/articles/japanese-knife-mistakes) and [how to care for Japanese knives day to day](/articles/how-to-care-for-japanese-knives).
+Related reading: [the most common mistakes Japanese knife owners make](/magazine/japanese-knife-mistakes) and [how to care for Japanese knives day to day](/magazine/japanese-knife-mistakes).
 
 ## The Five Storage Options Compared
 
@@ -108,7 +108,7 @@ Here's how I'd actually decide.
 
 **Carbon steel user:** Magnetic strip, full stop. Air circulation is critical. Drawers and slot blocks trap humidity that will pit your blades.
 
-For a deeper dive into matching the rest of your prep setup to your knives, see [the cutting boards article](/articles/best-cutting-boards-for-japanese-knives) and the [main buying guide](/articles/japanese-knife-buying-guide).
+For a deeper dive into matching the rest of your prep setup to your knives, see [the cutting boards article](/magazine/best-cutting-boards-for-japanese-knives) and the [main buying guide](/magazine/japanese-knife-buying-guide).
 
 ## Honest Downsides of My Current Setup
 
@@ -136,7 +136,7 @@ A: Plan for about 2 inches per knife minimum, more if you're mounting cleavers o
 A: A saya protects the edge while sheathed, but you still need somewhere to put the sheathed knife. Sayas pair well with drawer storage or shelf storage; they don't replace the storage location.
 
 **Q: Are "self-sharpening" slotted blocks safe for Japanese knives?**
-A: No. Those built-in ceramic rods are designed for soft western steel and a coarser angle than Japanese knives use. They will dull and possibly damage your edge. If you want sharpening guidance, see [how to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife).
+A: No. Those built-in ceramic rods are designed for soft western steel and a coarser angle than Japanese knives use. They will dull and possibly damage your edge. If you want sharpening guidance, see [how to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife).
 
 **Q: Will an in-drawer organizer fit in a standard kitchen drawer?**
 A: Most are designed for 16-22 inch wide drawers. Measure before you buy. Bamboo organizers can sometimes be trimmed slightly, but slots cannot.
@@ -151,4 +151,4 @@ A: No. Heat and steam from the stovetop accelerate handle wear, can warp wooden 
 
 For most Japanese knife owners, a wall-mounted magnetic strip is the best balance of edge protection, safety, and accessibility. It's what I use, what I recommend to friends, and the only solution that has saved me from grinding chips out of my own knives over three years of heavy use. If you can't mount to a wall, a quality in-drawer organizer (Schmidt Brothers or similar) is a strong second choice. Avoid generic slot blocks for Japanese profiles — they create more problems than they solve.
 
-If you're still figuring out which knives to buy in the first place, start with the [main buying guide](/articles/japanese-knife-buying-guide) or the [steel types primer](/articles/japanese-knife-steel-guide) before you invest in storage. The right storage for the wrong knife collection isn't useful to anyone.
+If you're still figuring out which knives to buy in the first place, start with the [main buying guide](/magazine/japanese-knife-buying-guide) or the [steel types primer](/magazine/japanese-knife-steel-guide) before you invest in storage. The right storage for the wrong knife collection isn't useful to anyone.

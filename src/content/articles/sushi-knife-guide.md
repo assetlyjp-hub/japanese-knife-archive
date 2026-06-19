@@ -29,7 +29,7 @@ This single-bevel geometry has profound consequences:
 
 **Single-purpose.** A single-bevel knife is genuinely good at one thing and genuinely bad at almost everything else. A yanagiba excels at slicing raw fish and is poor at almost any other task.
 
-For comparison, see how this differs from the all-purpose [gyuto vs santoku](/articles/gyuto-vs-santoku) double-bevel knives most home cooks own.
+For comparison, see how this differs from the all-purpose [gyuto vs santoku](/magazine/gyuto-vs-santoku) double-bevel knives most home cooks own.
 
 ## The Three Traditional Sushi Knives
 
@@ -96,7 +96,7 @@ Sharpening a single-bevel knife is fundamentally different from sharpening a gyu
 
 **Stone progression matters more.** Single-bevel knives benefit from a fine finishing stone (5000-8000 grit) that double-bevel knives can sometimes skip. The mirror finish on the bevel reduces friction and is part of why these knives cut so cleanly.
 
-If you are not yet comfortable sharpening on a whetstone, do not buy a single-bevel knife. The factory edge will dull within weeks of regular use, and a sharpening service that knows how to sharpen single-bevel correctly will charge $30-60 per knife. Learn on a [whetstone with a regular knife first](/articles/how-to-sharpen-japanese-knife) — and pick up an appropriate stone for traditional knives in the [Japanese whetstone buying guide](/articles/japanese-whetstone-buying-guide).
+If you are not yet comfortable sharpening on a whetstone, do not buy a single-bevel knife. The factory edge will dull within weeks of regular use, and a sharpening service that knows how to sharpen single-bevel correctly will charge $30-60 per knife. Learn on a [whetstone with a regular knife first](/magazine/how-to-sharpen-japanese-knife) — and pick up an appropriate stone for traditional knives in the [Japanese whetstone buying guide](/magazine/japanese-whetstone-buying-guide).
 
 ## Steel Choice: Carbon vs Stainless for Traditional Knives
 
@@ -106,7 +106,7 @@ Traditional sushi knives have historically been made from carbon steel — typic
 
 **Why beginners should consider stainless anyway:** Carbon steel rusts within hours if left wet. Carbon steel reacts with acidic foods like onions and citrus, leaving a metallic taste if the knife is freshly polished. Maintaining carbon steel requires drying the knife immediately after every use and oiling it before storage. Most home cooks are not honest about whether they will keep up with this routine.
 
-A more thorough breakdown is in our [carbon vs stainless](/articles/carbon-vs-stainless) article, and the full landscape of steels is covered in the [Japanese knife steel guide](/articles/japanese-knife-steel-guide).
+A more thorough breakdown is in our [carbon vs stainless](/magazine/carbon-vs-stainless) article, and the full landscape of steels is covered in the [Japanese knife steel guide](/magazine/japanese-knife-steel-guide).
 
 ## Beginner-Friendly Alternatives
 
@@ -116,13 +116,13 @@ This is the section nobody else writes, but it is the most important. For most h
 
 **Instead of a deba: Buy a honesuki, or just use kitchen shears.** A honesuki is a smaller, double-bevel poultry-and-fish boning knife. Easier to use than a deba, more versatile (it works on chicken too), and cheaper. For most home cooks who break down a whole fish maybe twice a year, a $25 pair of kitchen shears handles 90% of what a deba does, with no learning curve and no sharpening required.
 
-**Instead of an usuba: Buy a nakiri.** A nakiri is the double-bevel vegetable cleaver. Same flat profile, similar visual style, but ground symmetrically so it cuts straight without you having to fight it. A good nakiri ($60-150) will outperform a $300 usuba for any home cook who has not put in 100+ hours practicing katsuramuki. See [best nakiri knives](/articles/best-nakiri-knives) for specific recommendations.
+**Instead of an usuba: Buy a nakiri.** A nakiri is the double-bevel vegetable cleaver. Same flat profile, similar visual style, but ground symmetrically so it cuts straight without you having to fight it. A good nakiri ($60-150) will outperform a $300 usuba for any home cook who has not put in 100+ hours practicing katsuramuki. See [best nakiri knives](/magazine/best-nakiri-knives) for specific recommendations.
 
 If you read this section and feel disappointed — if you really want the traditional knife and not the "good-enough alternative" — that is a perfectly valid reason to buy the traditional knife. Just go in knowing that you are buying it for the romance and the craft as much as for the function. That is a fine reason. But you should know it is the reason.
 
 ## Common Pitfalls With Traditional Knives
 
-A few specific mistakes that beginners make repeatedly. These are also covered in our broader [Japanese knife mistakes](/articles/japanese-knife-mistakes) article:
+A few specific mistakes that beginners make repeatedly. These are also covered in our broader [Japanese knife mistakes](/magazine/japanese-knife-mistakes) article:
 
 **Buying left-handed versions on the secondhand market.** Many used yanagiba listings on eBay are described as "right-handed" but are actually left-handed (or vice versa). Single-bevel orientation matters — a left-handed knife is unusable for a right-handed person. Always verify the bevel orientation in the photos before buying used.
 
@@ -134,7 +134,7 @@ A few specific mistakes that beginners make repeatedly. These are also covered i
 
 **Skipping the saya.** A wooden saya costs $20-40 and protects the edge from every drawer accident. If you are spending $300+ on a knife, the saya is non-negotiable.
 
-For a wider framing of how single-bevel knives fit into the broader Japanese knife landscape, the [Japanese knife buying guide](/articles/japanese-knife-buying-guide) covers profiles, handle styles, and regional differences in more detail.
+For a wider framing of how single-bevel knives fit into the broader Japanese knife landscape, the [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) covers profiles, handle styles, and regional differences in more detail.
 
 ## FAQ
 

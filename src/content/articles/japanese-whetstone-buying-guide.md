@@ -13,7 +13,7 @@ If you own a Japanese knife and want it to stay sharp, a Japanese whetstone is n
 
 This guide is written from the perspective of someone who has flattened, cracked, and worn through a lot of stones over the years. I will tell you what actually matters, where the marketing is mostly noise, and — most importantly — what the realistic minimum setup looks like so you stop buying stones you do not need.
 
-If you have not sharpened before, pair this guide with our companion piece on [how to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife). That article covers technique; this one covers the gear.
+If you have not sharpened before, pair this guide with our companion piece on [how to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife). That article covers technique; this one covers the gear.
 
 ## What "Grit" Actually Means
 
@@ -46,7 +46,7 @@ Before picking a brand, pick a category. These three types feel completely diffe
 | **Oil stones** (Western) | Hard matrix, oil is the lubricant | Long-lasting, low maintenance, portable | Slow on hard Japanese steel, narrow grit range, oil mess |
 | **Diamond plates** | Diamond particles bonded to a steel plate | Cut any steel, dead flat forever, no soaking | Aggressive and unforgiving, limited fine grits, expensive, feel "scratchy" |
 
-For Japanese knives — especially ones made with hard steels like SG2, Blue #2, Aogami Super, or ZDP-189 (see our [steel guide](/articles/japanese-knife-steel-guide)) — **water stones are the right answer**. The hard, brittle Japanese steels cut slowly on oil stones and the edge rarely reaches its potential. Diamond plates have a role (we will get to flattening stones), but they should not be your primary sharpening surface for a finished edge.
+For Japanese knives — especially ones made with hard steels like SG2, Blue #2, Aogami Super, or ZDP-189 (see our [steel guide](/magazine/japanese-knife-steel-guide)) — **water stones are the right answer**. The hard, brittle Japanese steels cut slowly on oil stones and the edge rarely reaches its potential. Diamond plates have a role (we will get to flattening stones), but they should not be your primary sharpening surface for a finished edge.
 
 ### Splash-and-Go vs Soakers
 
@@ -95,7 +95,7 @@ Most home cooks will use a #400 stone once or twice a year. Consider sharing one
 - "Beginner 5-stone progression kits" — marketing bundles, often low-quality
 - Two stones of similar grit (#800 + #1000, or #3000 + #4000) — wasted money
 
-A common beginner mistake — covered in our [Japanese knife mistakes](/articles/japanese-knife-mistakes) article — is buying an elaborate stone progression before learning consistent angle control on a single #1000. Technique beats equipment every time.
+A common beginner mistake — covered in our [Japanese knife mistakes](/magazine/japanese-knife-mistakes) article — is buying an elaborate stone progression before learning consistent angle control on a single #1000. Technique beats equipment every time.
 
 ## Brand Comparison: What to Actually Buy
 
@@ -117,7 +117,7 @@ I have used all of these extensively. Here is the unvarnished take.
 - **Best budget starter**: King Deluxe #1000 soaker
 - **Best "buy once cry once" setup**: Shapton Glass #500 + #2000 + #6000
 
-If you are still choosing your first knife to go with these stones, see our [Japanese knife buying guide](/articles/japanese-knife-buying-guide) and [how to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife).
+If you are still choosing your first knife to go with these stones, see our [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) and [how to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife).
 
 ## Grit Recommendations by Knife and Condition
 
@@ -131,7 +131,7 @@ Matching the stone to the task matters more than having a big collection.
 | Small chips or rolled edge | #400 - #600 | Go only as coarse as needed |
 | Large chips, reprofiling | #120 - #320 | Rare — most home cooks never touch this |
 | Single-bevel knife (yanagiba, usuba, deba) | Add #6000+ finisher | Finer edges cut fish cleanly |
-| Carbon steel knife | Same as stainless | Finish higher if rust is a concern (see [carbon vs stainless](/articles/carbon-vs-stainless)) |
+| Carbon steel knife | Same as stainless | Finish higher if rust is a concern (see [carbon vs stainless](/magazine/carbon-vs-stainless)) |
 
 **Carbon steel footnote**: finer edges corrode slightly less because there is less exposed surface area at the apex. If you are fighting patina on a White #2 gyuto, finishing on a #5000 instead of stopping at #1000 can genuinely help.
 
@@ -213,9 +213,9 @@ No. Honing rods realign a rolled edge; they do not remove metal. On hard Japanes
 ---
 
 **Related reading on the archive:**
-- [How to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife) — the technique companion to this gear guide
-- [Japanese knife steel guide](/articles/japanese-knife-steel-guide) — understand what you are sharpening
-- [Carbon vs stainless](/articles/carbon-vs-stainless) — how steel type affects sharpening
-- [How to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife) — start here if you have not bought a knife yet
-- [Japanese knife buying guide](/articles/japanese-knife-buying-guide) — deeper dive on choosing a blade
-- [Common Japanese knife mistakes](/articles/japanese-knife-mistakes) — avoid the pitfalls this article's setup is designed around
+- [How to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife) — the technique companion to this gear guide
+- [Japanese knife steel guide](/magazine/japanese-knife-steel-guide) — understand what you are sharpening
+- [Carbon vs stainless](/magazine/carbon-vs-stainless) — how steel type affects sharpening
+- [How to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife) — start here if you have not bought a knife yet
+- [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) — deeper dive on choosing a blade
+- [Common Japanese knife mistakes](/magazine/japanese-knife-mistakes) — avoid the pitfalls this article's setup is designed around

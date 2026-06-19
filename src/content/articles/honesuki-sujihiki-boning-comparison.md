@@ -56,7 +56,7 @@ The takeaway: rigid Japanese honesuki vs flexible Western fillet/boning is a rea
 - Carving prime rib at the table
 - Portioning salmon or tuna loins (raw or cooked)
 - Slicing roasted pork shoulder
-- Long fish like sashimi-grade salmon (though a yanagiba is more traditional — see [yanagiba vs sujihiki](/articles/yanagiba-vs-sujihiki))
+- Long fish like sashimi-grade salmon (though a yanagiba is more traditional — see [yanagiba vs sujihiki](/magazine/yanagiba-vs-sujihiki))
 
 **Sujihiki is bad at:**
 - Anything bone-adjacent — it'll chip
@@ -138,11 +138,11 @@ These three knives are sharpened differently.
 
 **Honesuki:** If single-bevel, you only sharpen the front side and deburr the flat back on a finishing stone. This is a learned skill — see a yanagiba sharpening tutorial for the same technique. Double-bevel honesuki sharpen like any Japanese double-bevel: 15-degree per side, full progression.
 
-**Sujihiki:** Treat like a long gyuto. Standard 15-degree per side, full progression on a [three-stone setup](/articles/three-stone-sharpening-progression). The thin blade is unforgiving — light pressure only, never camp on a coarse stone.
+**Sujihiki:** Treat like a long gyuto. Standard 15-degree per side, full progression on a [three-stone setup](/magazine/three-stone-sharpening-progression). The thin blade is unforgiving — light pressure only, never camp on a coarse stone.
 
 **Western boning:** 20-degree bevels, softer steel responds well to a #1000 finish followed by a steel/honing rod. Don't bother with high-grit polishing — these knives are working tools.
 
-If you don't already understand the steel side, the [Japanese knife steel guide](/articles/japanese-knife-steel-guide) is worth reading first.
+If you don't already understand the steel side, the [Japanese knife steel guide](/magazine/japanese-knife-steel-guide) is worth reading first.
 
 ## Honest Downsides
 
@@ -169,13 +169,13 @@ I want to be transparent about each.
 ## FAQ
 
 **Q: Can a sujihiki replace a yanagiba for sushi?**
-For Western-style cooking, yes. For traditional sushi, no. The single-bevel yanagiba produces a different cut surface that traditional chefs value. See the [sushi knife guide](/articles/sushi-knife-guide).
+For Western-style cooking, yes. For traditional sushi, no. The single-bevel yanagiba produces a different cut surface that traditional chefs value. See the [sushi knife guide](/magazine/sushi-knife-guide).
 
 **Q: Can a honesuki replace a deba?**
 No. A deba is a heavy, thick-spined fish-breakdown knife designed to chop through fish heads and spines. A honesuki is too short and thin for that. They overlap only in poultry where a deba is overkill.
 
 **Q: Is a gyuto enough? Do I really need any of these?**
-Honestly, for most home cooks: a gyuto + paring + bread knife is enough. See [Japanese knife buying guide](/articles/japanese-knife-buying-guide) and [best Japanese knives for beginners 2026](/articles/best-japanese-knives-for-beginners-2026) for sane starter sets.
+Honestly, for most home cooks: a gyuto + paring + bread knife is enough. See [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) and [best Japanese knives for beginners 2026](/magazine/best-japanese-knives-for-beginners-2026) for sane starter sets.
 
 **Q: Honesuki or garasuki — what's the difference?**
 Garasuki is a larger, heavier honesuki for ducks and turkeys. Same shape, scaled up to ~180mm. If you process big birds (Thanksgiving turkeys, ducks), garasuki gives more leverage.
@@ -184,7 +184,7 @@ Garasuki is a larger, heavier honesuki for ducks and turkeys. Same shape, scaled
 Yes — that's exactly what it's for. The thin blade glides through cooked meat without compressing it. Just don't hit the cutting board hard.
 
 **Q: How does a santoku compare to these?**
-A santoku is a general all-purpose knife — see [gyuto vs santoku](/articles/gyuto-vs-santoku). It doesn't compete with these specialty knives; it's a different category.
+A santoku is a general all-purpose knife — see [gyuto vs santoku](/magazine/gyuto-vs-santoku). It doesn't compete with these specialty knives; it's a different category.
 
 **Q: Will a Japanese honesuki chip on chicken bones?**
 The thigh-leg joint is fine, the breastbone is fine. Spinal column or rib chopping will chip a honesuki. Use a Western cleaver or kitchen shears for hard bone work.

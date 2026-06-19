@@ -40,7 +40,7 @@ The default. This is the knife in this review unless I say otherwise. 8.25-inch 
 
 ### Tojiro DP Santoku 170mm
 
-The "Asian profile" alternative — flatter belly, sheepsfoot tip, no point. Better for the rocking-chop-resistant person who push-cuts everything. If you've never used a Japanese knife before and the thought of a long pointed blade makes you nervous, get the santoku instead. I have one too. It does most of what the gyuto does, just with less reach. See [gyuto vs. santoku](/articles/gyuto-vs-santoku) for the full comparison.
+The "Asian profile" alternative — flatter belly, sheepsfoot tip, no point. Better for the rocking-chop-resistant person who push-cuts everything. If you've never used a Japanese knife before and the thought of a long pointed blade makes you nervous, get the santoku instead. I have one too. It does most of what the gyuto does, just with less reach. See [gyuto vs. santoku](/magazine/gyuto-vs-santoku) for the full comparison.
 
 ### Tojiro DP Petty 150mm
 
@@ -94,7 +94,7 @@ The process: about 15 strokes per side on the 1000 grit until I raise a burr alo
 
 If you've never sharpened a knife, this is intimidating. It is also one of the most satisfying skills in cooking. There are excellent free YouTube tutorials (search "Korin Naoto sharpening" — the gold standard). The first time you do it on a Tojiro and the knife comes out sharper than the day you bought it, you understand why people get into this hobby.
 
-For more detail on getting started, see [how to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife).
+For more detail on getting started, see [how to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife).
 
 ## Western handle ergonomics — the surprise
 
@@ -108,7 +108,7 @@ For a daily driver in a busy kitchen with kids, the Western handle on the Tojiro
 
 Let's be honest about the limits.
 
-- **It's not a butcher's knife.** Don't go through chicken bones. Don't try to split a duck. Use a [cleaver or bone-cleaver for that](/articles/japanese-knife-buying-guide).
+- **It's not a butcher's knife.** Don't go through chicken bones. Don't try to split a duck. Use a [cleaver or bone-cleaver for that](/magazine/japanese-knife-buying-guide).
 - **It's not maximum-edge-retention steel.** If you sharpen yourself, fine. If you want to send it out twice a year and forget about it, the steel will be acceptable, not exceptional. Consider Takamura R2 if edge retention is your priority.
 - **It's not pretty.** No damascus pattern, no engravings, plain black handle. It looks like a tool, because it is.
 - **The fit-and-finish needs the sandpaper fix.** Out of the box the spine and choil are unfinished. This is a known annoyance.
@@ -122,13 +122,13 @@ The Mac is twice the price ($110 vs $55) and the immediate question is whether i
 
 ### Tojiro DP vs. Shun Classic
 
-The Shun Classic is also VG-10, three-layer construction, and around $160 — three times the price of the Tojiro. The cladding is a 33-layer damascus, the handle is a beautiful D-shape pakkawood, and the fit and finish is genuinely excellent. Performance-wise, on a cutting board, the Tojiro and Shun do the same things. You're paying $100 for the aesthetics and the brand. If you value either, fine. If you don't, save the money. (See [Shun vs Global vs Miyabi](/articles/shun-vs-global-vs-miyabi) for the full comparison of premium Western-marketed Japanese knives.)
+The Shun Classic is also VG-10, three-layer construction, and around $160 — three times the price of the Tojiro. The cladding is a 33-layer damascus, the handle is a beautiful D-shape pakkawood, and the fit and finish is genuinely excellent. Performance-wise, on a cutting board, the Tojiro and Shun do the same things. You're paying $100 for the aesthetics and the brand. If you value either, fine. If you don't, save the money. (See [Shun vs Global vs Miyabi](/magazine/shun-vs-global-vs-miyabi) for the full comparison of premium Western-marketed Japanese knives.)
 
 ### Tojiro DP vs. Global G-2
 
 The Global G-2 is the iconic "Japanese knife" most Americans recognize — the all-stainless one with the dimpled handle. It's a CROMOVA 18 monosteel at HRC 56–58, which is significantly softer than the Tojiro's VG-10. The Global has a better-balanced handle and the all-metal construction is dishwasher-safe (don't, but it survives). The Tojiro takes a sharper edge and holds it longer. If you cook a lot, Tojiro. If you don't cook much and you want something low-maintenance, Global.
 
-For more options under $100, see the [best beginner Japanese knives](/articles/best-japanese-knives-for-beginners-2026) guide and [best knives under $100](/articles/best-japanese-knives-under-100).
+For more options under $100, see the [best beginner Japanese knives](/magazine/best-japanese-knives-for-beginners-2026) guide and [best knives under $100](/magazine/best-japanese-knives-under-100).
 
 ## Comparison table
 
@@ -147,7 +147,7 @@ Yes. The Tojiro DP gyuto remains the highest-floor, lowest-ceiling knife in the 
 
 If this is your first Japanese knife: buy the 210mm gyuto. Round off the spine and choil with sandpaper. Get a 1000/6000 whetstone, learn to sharpen, and use it daily for a year before you buy your next knife. You will end up cooking more, cooking better, and developing actual knife skills — which is what this whole hobby is supposed to be about anyway.
 
-For broader context on where to go after the Tojiro, see the [main buying guide](/articles/japanese-knife-buying-guide), the [steel guide](/articles/japanese-knife-steel-guide), and [how to choose your first knife](/articles/how-to-choose-first-japanese-knife).
+For broader context on where to go after the Tojiro, see the [main buying guide](/magazine/japanese-knife-buying-guide), the [steel guide](/magazine/japanese-knife-steel-guide), and [how to choose your first knife](/magazine/how-to-choose-first-japanese-knife).
 
 ## FAQ
 

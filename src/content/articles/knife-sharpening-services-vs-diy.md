@@ -62,7 +62,7 @@ DIY sharpening on whetstones is not as hard as the internet sometimes makes it s
 - It takes time. A full sharpening session for a 240mm gyuto runs 30-60 minutes for a competent home user.
 - You will mess up at some point. Probably on a knife you care about.
 
-For a deeper dive into the technique itself, [how to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife) walks through the specific motions, angles, and progressions. For stone selection, [the Japanese whetstone buying guide](/articles/japanese-whetstone-buying-guide) covers grit choices.
+For a deeper dive into the technique itself, [how to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife) walks through the specific motions, angles, and progressions. For stone selection, [the Japanese whetstone buying guide](/magazine/japanese-whetstone-buying-guide) covers grit choices.
 
 ## Send-Out Services: The Three Categories
 
@@ -226,7 +226,7 @@ Even people who own stones send certain work to professionals. The split that ma
 
 I sharpen my daily-driver gyuto and petty myself. I send my single-bevel yanagiba to a specialist once a year. That is a defensible split for someone who is comfortable on stones but knows their limits.
 
-For someone earlier in the journey, [how to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife) and [the Japanese knife buying guide](/articles/japanese-knife-buying-guide) help set expectations about which knives are worth investing in DIY skills versus sending out.
+For someone earlier in the journey, [how to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife) and [the Japanese knife buying guide](/magazine/japanese-knife-buying-guide) help set expectations about which knives are worth investing in DIY skills versus sending out.
 
 ## Hybrid Approach: Practice on Cheap Knives First
 
@@ -234,13 +234,13 @@ The lowest-risk way to develop DIY skills:
 
 1. Buy a $30 used chef's knife from a thrift store.
 2. Spend ten hours sharpening it on stones until you can reliably make it pop a hair.
-3. Practice on inexpensive Japanese knives next ([best knives under $100](/articles/best-japanese-knives-under-100) covers options).
+3. Practice on inexpensive Japanese knives next ([best knives under $100](/magazine/best-japanese-knives-under-100) covers options).
 4. Once you can consistently sharpen a $80 Tojiro DP without messing it up, you are ready for higher-end blades.
 5. Send out anything you are not comfortable with yet.
 
 The mistake people make is buying a $400 knife and immediately practicing on it. Practice on knives where mistakes do not cost much. The skills transfer perfectly to expensive knives once you have them.
 
-For knife maintenance more broadly — beyond just sharpening — [the seven Japanese knife mistakes article](/articles/japanese-knife-mistakes) covers the surrounding context (cutting boards, dishwashers, storage) that determines how often you need to sharpen in the first place. And the steel itself matters: [the Japanese knife steel guide](/articles/japanese-knife-steel-guide) explains why some steels are dramatically more forgiving on the stones than others.
+For knife maintenance more broadly — beyond just sharpening — [the seven Japanese knife mistakes article](/magazine/japanese-knife-mistakes) covers the surrounding context (cutting boards, dishwashers, storage) that determines how often you need to sharpen in the first place. And the steel itself matters: [the Japanese knife steel guide](/magazine/japanese-knife-steel-guide) explains why some steels are dramatically more forgiving on the stones than others.
 
 ## FAQ
 

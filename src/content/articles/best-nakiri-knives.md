@@ -54,7 +54,7 @@ This is the comparison that actually matters when you're deciding whether to buy
 
 **Nakiri** wins on vegetables. Loses on meat (no tip means you can't really pierce, slice steak, or do delicate work).
 
-**Santoku** is the compromise. It does vegetables well enough and meat well enough. It's why every Japanese home has one. If you want one knife for everything, [santoku is probably your answer over gyuto](/articles/gyuto-vs-santoku).
+**Santoku** is the compromise. It does vegetables well enough and meat well enough. It's why every Japanese home has one. If you want one knife for everything, [santoku is probably your answer over gyuto](/magazine/gyuto-vs-santoku).
 
 **Gyuto** is the most versatile. Best on meat, capable on vegetables, but the shorter blade height and rocking motion make it slower for big veg-prep sessions.
 
@@ -84,7 +84,7 @@ Stainless basic-bin nakiri, full tang, plastic handle. Edge isn't as fine as the
 
 This is my standing recommendation when anyone asks for a "first nice nakiri." [Tojiro DP 165mm](/knives/tojiro-nakiri-165) is VG-10 stainless clad in soft stainless, Western handle, and it punches well above its price. Great edge retention, easy to sharpen, no rust worries. I've bought this one for three different people as a gift and they all still use it.
 
-It also fits perfectly with the rest of my [under-$100 picks](/articles/best-japanese-knives-under-100) for someone building a Japanese knife kit on a budget.
+It also fits perfectly with the rest of my [under-$100 picks](/magazine/best-japanese-knives-under-100) for someone building a Japanese knife kit on a budget.
 
 ### Best under $200: Sakai Takayuki Ginsan Nakiri 165mm (~$160)
 
@@ -108,7 +108,7 @@ Nakiri spend most of their life on board work, hitting cutting boards thousands 
 
 - **Carbon (white #2, blue #2, Aogami Super)** — sharper, holds edge longer in pure cutting terms, develops gorgeous patina. But you'll be wiping the blade every few cuts, and storage is fussier.
 
-For most home cooks, stainless wins for nakiri specifically. The vegetable-acid problem is real and constant. My full breakdown is in the [steel guide](/articles/japanese-knife-steel-guide) if you want to go deeper.
+For most home cooks, stainless wins for nakiri specifically. The vegetable-acid problem is real and constant. My full breakdown is in the [steel guide](/magazine/japanese-knife-steel-guide) if you want to go deeper.
 
 ## Maintenance
 
@@ -122,13 +122,13 @@ A nakiri is one of the easier Japanese knives to maintain because you're rarely 
 
 - **Steel: skip the rod.** Steel honing rods are fine for German knives. For Japanese steel, use a ceramic rod or a high-grit finishing stone (#5000–#8000) for quick touch-ups.
 
-For a deeper dive into the things that wreck Japanese knives, my [common mistakes guide](/articles/japanese-knife-mistakes) is worth reading once. Most of the failures I see are preventable.
+For a deeper dive into the things that wreck Japanese knives, my [common mistakes guide](/magazine/japanese-knife-mistakes) is worth reading once. Most of the failures I see are preventable.
 
 ## When NOT to buy a nakiri
 
 I'll be the contrarian here. A nakiri isn't for everyone.
 
-**Skip it if you don't have a chef's knife yet.** Your first Japanese knife should be a gyuto or santoku — something general-purpose. Nakiri is a specialist; specialists come second. My [first knife guide](/articles/how-to-choose-first-japanese-knife) covers this in detail.
+**Skip it if you don't have a chef's knife yet.** Your first Japanese knife should be a gyuto or santoku — something general-purpose. Nakiri is a specialist; specialists come second. My [first knife guide](/magazine/how-to-choose-first-japanese-knife) covers this in detail.
 
 **Skip it if you mostly cook meat.** If 70% of what you cook is steaks, chops, roasts, and BBQ, a nakiri will gather dust. Get a sujihiki or another gyuto.
 
@@ -162,7 +162,7 @@ No. Nakiri is double-bevel for home use. Usuba is single-bevel for professional 
 For pure vegetable cooking, almost. For mixed cooking (meat + veg), no — you'll miss the tip and the rocker. It's a complement, not a replacement.
 
 **Is nakiri good for beginners?**
-The push-cut motion is actually easier to learn than rocking a chef's knife. Many beginners pick it up faster. It's the bevel-grinding angles for sharpening that take time, but that applies to any [first Japanese knife](/articles/how-to-choose-first-japanese-knife).
+The push-cut motion is actually easier to learn than rocking a chef's knife. Many beginners pick it up faster. It's the bevel-grinding angles for sharpening that take time, but that applies to any [first Japanese knife](/magazine/how-to-choose-first-japanese-knife).
 
 **How is a nakiri different from a Chinese cleaver?**
 Chinese cleavers (cai dao) are even taller and longer, often heavier, and intended as a do-everything kitchen knife. Nakiri is shorter, lighter, narrower in scope. They share the tall-blade advantage for clearing cuts, but a nakiri feels much more nimble.
@@ -184,6 +184,6 @@ If I had $100, **Tojiro DP 165mm**. Done. No second guessing.
 
 If I had $50 and was just dipping a toe in, the **Tojiro F-300**. Get the cheap one, see if you love the format, upgrade later.
 
-Beyond specific picks, the broader [Japanese knife buying guide](/articles/japanese-knife-buying-guide) is a good reference if you're still mapping out the whole kit you eventually want.
+Beyond specific picks, the broader [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) is a good reference if you're still mapping out the whole kit you eventually want.
 
 The format itself — that tall, flat, light blade — is the thing worth investing in. Once you've used a nakiri for a few weeks, the idea of dicing onions on anything else starts to feel slow. That's the test. If you cook vegetables more than once or twice a week, a nakiri earns its drawer space the first month and never gives it back.

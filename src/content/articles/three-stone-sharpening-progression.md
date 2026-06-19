@@ -137,12 +137,12 @@ I want to be straight with you: whetstones are not a free lunch.
 - **Stone replacement.** Soft stones (King) wear out in 3–5 years of regular use. Hard stones (Shapton Glass) last 10–20 years.
 - **Knife wear.** Each session removes metal. Use light pressure and don't camp on coarse stones.
 
-If any of this scares you off, that's fine — see my [knife sharpening services vs DIY](/articles/knife-sharpening-services-vs-diy) breakdown for alternatives. But the satisfaction of finishing a session and having a screaming-sharp knife is, honestly, addicting.
+If any of this scares you off, that's fine — see my [knife sharpening services vs DIY](/magazine/knife-sharpening-services-vs-diy) breakdown for alternatives. But the satisfaction of finishing a session and having a screaming-sharp knife is, honestly, addicting.
 
 ## FAQ
 
 **Q: Can I use the same stone progression for carbon and stainless steel?**
-Yes, but expect different feel. Carbon steel cuts faster on the same stone — you'll feel less resistance and form burrs sooner. See [carbon vs stainless](/articles/carbon-vs-stainless) for the full breakdown.
+Yes, but expect different feel. Carbon steel cuts faster on the same stone — you'll feel less resistance and form burrs sooner. See [carbon vs stainless](/magazine/carbon-vs-stainless) for the full breakdown.
 
 **Q: Do harder steels (R2, ZDP-189) need higher grits?**
 Not necessarily higher — they need stones rated for hardness. Shapton Glass and Naniwa Pro both handle steels up to HRC 65. Soft King stones can struggle to apex very hard steels.
@@ -163,12 +163,12 @@ Sure, for many users this is enough. The downside is no coarse for chip repair, 
 Yes. A non-slip rubber holder or wooden bridge is $15 and prevents the stone sliding. Sharpening on a wet towel works in a pinch.
 
 **Q: What about ceramic rods and pull-through sharpeners?**
-A ceramic honing rod is fine for daily edge maintenance between whetstone sessions — same role as a Western steel. Pull-through sharpeners with carbide blades are the enemy of Japanese knives. They tear metal off the edge in chunks. Avoid. See [common mistakes](/articles/japanese-knife-mistakes) for more.
+A ceramic honing rod is fine for daily edge maintenance between whetstone sessions — same role as a Western steel. Pull-through sharpeners with carbide blades are the enemy of Japanese knives. They tear metal off the edge in chunks. Avoid. See [common mistakes](/magazine/japanese-knife-mistakes) for more.
 
 ## Closing Thoughts
 
 The right three stones depend on your knives, your patience, and your budget. But the framework — coarse for repair, medium for routine, fine for finishing — is universal. Pick a brand whose feedback matches how you like to work (hard and fast = Shapton, slurry and tactile = Naniwa or King), commit to the technique, and resist the urge to keep buying stones. You don't need a #220 or a #12000.
 
-If you want a deeper dive on the underlying technique, see [how to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife). For broader stone-shopping context, the [whetstone buying guide](/articles/japanese-whetstone-buying-guide) compares brands in more detail. And if you're not sure your steel even tolerates aggressive sharpening, the [Japanese knife steel guide](/articles/japanese-knife-steel-guide) is the prerequisite read.
+If you want a deeper dive on the underlying technique, see [how to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife). For broader stone-shopping context, the [whetstone buying guide](/magazine/japanese-whetstone-buying-guide) compares brands in more detail. And if you're not sure your steel even tolerates aggressive sharpening, the [Japanese knife steel guide](/magazine/japanese-knife-steel-guide) is the prerequisite read.
 
 Three stones. Honest grits. Patience. That's the whole game.

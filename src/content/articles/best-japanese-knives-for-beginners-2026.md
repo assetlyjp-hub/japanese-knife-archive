@@ -29,7 +29,7 @@ That is genuinely it. Steel type, handle style, finish, country of grind — all
 
 ## Gyuto vs Santoku: The Only Real Decision
 
-For your first knife, you have one meaningful choice: gyuto or santoku. Forget nakiri, petty, sujihiki, kiritsuke, and every other shape — those come later, if at all. We have a [full gyuto vs santoku breakdown](/articles/gyuto-vs-santoku) elsewhere on the site, but here is the short version for beginners:
+For your first knife, you have one meaningful choice: gyuto or santoku. Forget nakiri, petty, sujihiki, kiritsuke, and every other shape — those come later, if at all. We have a [full gyuto vs santoku breakdown](/magazine/gyuto-vs-santoku) elsewhere on the site, but here is the short version for beginners:
 
 **Choose a gyuto if:** You currently use a Western chef's knife and like it. You cook with a "rocking" motion. You have larger hands. You break down a lot of proteins or large vegetables.
 
@@ -53,7 +53,7 @@ The Tojiro DP is, without exaggeration, the most important knife in this entire 
 
 A meaningful step up from the standard DP. Same VG-10 core, but the blade is ground thinner, the handle is a more comfortable shape, and the overall fit and finish is noticeably better. The factory edge is also sharper out of the box. Around $95-110 depending on retailer.
 
-If you have already decided that you want to commit to a Japanese knife and want something that will not feel "entry level" in two years, this is the right pick. For more options at this tier, see [best Japanese knives under $100](/articles/best-japanese-knives-under-100).
+If you have already decided that you want to commit to a Japanese knife and want something that will not feel "entry level" in two years, this is the right pick. For more options at this tier, see [best Japanese knives under $100](/magazine/best-japanese-knives-under-100).
 
 **Honest downside:** Still uses VG-10, which is durable but not the most exciting steel for a knife enthusiast. The aesthetic is plain.
 
@@ -73,7 +73,7 @@ I am stretching the "$150 tier" label a bit because there is a real gap in the m
 
 At this tier, you start getting genuine Sakai craftsmanship and aesthetics that justify themselves. 33-layer Damascus cladding around a VG-10 core, hand-finished by smiths working in a centuries-old knife town. Around $200. The cutting performance is roughly comparable to the Misono UX10, but you get a visibly more beautiful knife.
 
-This is where "buying a Japanese knife" starts to feel like buying an heirloom rather than a tool. For more in this range, see [best Japanese knives under $200](/articles/best-japanese-knives-under-200).
+This is where "buying a Japanese knife" starts to feel like buying an heirloom rather than a tool. For more in this range, see [best Japanese knives under $200](/magazine/best-japanese-knives-under-200).
 
 **Honest downside:** Damascus is partly cosmetic. You are paying maybe $40-50 for the look, not for sharper cutting.
 
@@ -83,7 +83,7 @@ This is where "buying a Japanese knife" starts to feel like buying an heirloom r
 
 At $300, you are crossing into custom and small-shop territory. You are no longer buying a mass-produced knife — you are buying something made by a small team or a single smith. Carbon steel (typically Aogami #2 or White #2), often a kasumi finish, and a wa-handle (Japanese-style octagonal). The cutting feel is on a different level — these knives do not "cut," they fall through ingredients.
 
-**Honest downside:** Carbon steel rusts if you ignore it for an hour. It develops a patina (which I find beautiful, but some find ugly). Wa-handles need replacing in 5-10 years. This is not a forgiving knife. Read [carbon vs stainless](/articles/carbon-vs-stainless) before committing.
+**Honest downside:** Carbon steel rusts if you ignore it for an hour. It develops a patina (which I find beautiful, but some find ugly). Wa-handles need replacing in 5-10 years. This is not a forgiving knife. Read [carbon vs stainless](/magazine/carbon-vs-stainless) before committing.
 
 **Buy it if:** You already own a stainless Japanese knife and want to know what the fuss is about.
 
@@ -105,9 +105,9 @@ The Japanese knife marketing machine has convinced beginners that they need a "s
 
 You buy a 3-knife set for $200 total. The knives are each individually mediocre because the maker had to hit a price point. You use the gyuto for 95% of your cooking and the petty maybe twice a month. The santoku sits in a drawer because it overlaps with the gyuto.
 
-The better strategy is to buy one excellent knife, use it exclusively for 6-12 months, and then buy a second knife once you actually know what gap exists in your kitchen. Most home cooks find that gap is a [petty knife](/articles/best-petty-knives) (small utility) or a [nakiri](/articles/best-nakiri-knives) (vegetable cleaver), but you cannot know until you have cooked extensively with one knife.
+The better strategy is to buy one excellent knife, use it exclusively for 6-12 months, and then buy a second knife once you actually know what gap exists in your kitchen. Most home cooks find that gap is a [petty knife](/magazine/best-petty-knives) (small utility) or a [nakiri](/magazine/best-nakiri-knives) (vegetable cleaver), but you cannot know until you have cooked extensively with one knife.
 
-If you absolutely insist on starting with multiple knives — for example, you are setting up a kitchen from scratch — see [best Japanese knife set for beginners](/articles/best-japanese-knife-set-for-beginners). But I would still recommend buying them as separate single purchases rather than a packaged set, because you get better individual knives that way.
+If you absolutely insist on starting with multiple knives — for example, you are setting up a kitchen from scratch — see [best Japanese knife set for beginners](/magazine/best-japanese-knife-set-for-beginners). But I would still recommend buying them as separate single purchases rather than a packaged set, because you get better individual knives that way.
 
 ## What to Skip Entirely
 
@@ -117,7 +117,7 @@ There are several categories of "Japanese knife" that beginners get tricked into
 
 **"Japanese steel" knives made in China or Pakistan.** "Made with Japanese steel" is not the same as "made in Japan." The heat treatment and grinding are what make a Japanese knife perform well, and those are done at the factory, not encoded in the steel.
 
-**Cleavers and traditional shapes for your first knife.** Yanagiba, deba, usuba, kiritsuke — all of these are specialized and require specific technique. We cover them in the [sushi knife guide](/articles/sushi-knife-guide), but none of them belong in a beginner's kitchen as a first purchase.
+**Cleavers and traditional shapes for your first knife.** Yanagiba, deba, usuba, kiritsuke — all of these are specialized and require specific technique. We cover them in the [sushi knife guide](/magazine/sushi-knife-guide), but none of them belong in a beginner's kitchen as a first purchase.
 
 **Anything with a 9-inch (240mm+) blade.** Too long for most home cutting boards and most beginner technique. Stick to 180-210mm.
 
@@ -131,22 +131,22 @@ A Japanese knife is not difficult to care for. It just has different rules than 
 
 **Use a wood or soft plastic cutting board.** Never glass, never stone, never granite. These materials will roll the edge of a hard Japanese steel within minutes.
 
-**Sharpen on a whetstone, not a pull-through.** Pull-through "sharpeners" grind a fixed angle into your blade and ruin the geometry. A 1000-grit whetstone is $30 and easy to learn. See [how to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife) and [Japanese whetstone buying guide](/articles/japanese-whetstone-buying-guide).
+**Sharpen on a whetstone, not a pull-through.** Pull-through "sharpeners" grind a fixed angle into your blade and ruin the geometry. A 1000-grit whetstone is $30 and easy to learn. See [how to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife) and [Japanese whetstone buying guide](/magazine/japanese-whetstone-buying-guide).
 
 **Treat it gently.** No bones (use a deba for that), no frozen food, no twisting motions. The thin, hard edge that makes the knife cut so well is also more fragile than a Western knife edge.
 
-For a fuller treatment of beginner pitfalls, see [Japanese knife mistakes](/articles/japanese-knife-mistakes).
+For a fuller treatment of beginner pitfalls, see [Japanese knife mistakes](/magazine/japanese-knife-mistakes).
 
 ## Going Deeper: Steel and Construction
 
 Eventually, every Japanese knife buyer wants to understand what they are actually holding. The steel — what it is made of, how hard it is, whether it is carbon or stainless — is the foundation of how the knife performs. We cover this in two dedicated articles:
 
-- [Japanese knife steel guide](/articles/japanese-knife-steel-guide) — every common steel explained, from VG-10 to SG2 to Aogami Super
-- [Carbon vs stainless](/articles/carbon-vs-stainless) — the trade-offs, with honest assessment of which one suits which cook
+- [Japanese knife steel guide](/magazine/japanese-knife-steel-guide) — every common steel explained, from VG-10 to SG2 to Aogami Super
+- [Carbon vs stainless](/magazine/carbon-vs-stainless) — the trade-offs, with honest assessment of which one suits which cook
 
 You do not need to read these before buying your first knife. But once you have used one for a few months, they will help you understand why your knife behaves the way it does and what to look for in your second.
 
-For a complete framework of what to think about when shopping, the [Japanese knife buying guide](/articles/japanese-knife-buying-guide) covers everything in this article and more, including profile types, handle styles, and regional differences. And for a more in-depth walkthrough of choosing your first knife specifically, see [how to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife).
+For a complete framework of what to think about when shopping, the [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) covers everything in this article and more, including profile types, handle styles, and regional differences. And for a more in-depth walkthrough of choosing your first knife specifically, see [how to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife).
 
 ## FAQ
 

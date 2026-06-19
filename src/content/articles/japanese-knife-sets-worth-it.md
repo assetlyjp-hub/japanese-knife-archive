@@ -33,7 +33,7 @@ Spend a week tracking which knives you reach for, and a pattern emerges fast. Ev
 - **Petty (130–150mm)** — A small utility knife. Fruit, garlic, shallots, in-hand work, anything too delicate for the gyuto.
 - **Bread knife (240mm serrated)** — The one task no other knife can do. Crusty bread, tomatoes with tough skins, layer cakes.
 
-That's it. Add a dedicated nakiri if you do enormous volumes of vegetables, or a sujihiki if you regularly butcher whole proteins, but those are upgrades, not essentials. For a deeper breakdown of what each blade actually does, see our [Japanese knife buying guide](/articles/japanese-knife-buying-guide) and the [gyuto vs santoku comparison](/articles/gyuto-vs-santoku) for choosing your primary chef's knife.
+That's it. Add a dedicated nakiri if you do enormous volumes of vegetables, or a sujihiki if you regularly butcher whole proteins, but those are upgrades, not essentials. For a deeper breakdown of what each blade actually does, see our [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) and the [gyuto vs santoku comparison](/magazine/gyuto-vs-santoku) for choosing your primary chef's knife.
 
 Now look at a typical 8-piece "Japanese" set: chef's knife, santoku, bread knife, slicer, utility, paring, kitchen shears, and a sharpening steel. Of those eight items, you'll genuinely use three. The santoku duplicates the chef's knife. The slicer sits idle unless you carve roasts weekly. The honing steel actively damages many Japanese steels (more on that below). The shears are a $12 item dressed up in $80 packaging.
 
@@ -56,7 +56,7 @@ The **Shun Classic 7-Piece Block Set** typically retails around $750–$900. Sou
 
 The "discount" is essentially a wash — sometimes you save $50, sometimes the set actually costs *more* because the block and steel are marked up to disguise low knife savings. Now subtract the items you don't need: the utility (overlaps with the chef's), the honing steel (wrong tool for VG-MAX steel), and arguably the shears. You've paid roughly $250 for accessories you'll never use.
 
-Compare that to building a focused 3-knife setup at the same total budget — you can afford a significantly better gyuto, a quality petty, and a top-tier bread knife. We cover specific picks in [best Japanese knives under $200](/articles/best-japanese-knives-under-200) and [how to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife).
+Compare that to building a focused 3-knife setup at the same total budget — you can afford a significantly better gyuto, a quality petty, and a top-tier bread knife. We cover specific picks in [best Japanese knives under $200](/magazine/best-japanese-knives-under-200) and [how to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife).
 
 ## Set vs. Individual Knives: Side-by-Side
 
@@ -91,7 +91,7 @@ The flip side covers most readers of this site:
 
 - **You already own a decent chef's knife.** Sets force you to repurchase your strongest piece.
 - **You have any handle preference** (D-shape, octagonal, Western bolster). Sets lock you to one style.
-- **You sharpen, or plan to learn.** Mixed steels in a set complicate sharpening; matched steels in a curated trio simplify it. See our [Japanese knife steel guide](/articles/japanese-knife-steel-guide) for why this matters.
+- **You sharpen, or plan to learn.** Mixed steels in a set complicate sharpening; matched steels in a curated trio simplify it. See our [Japanese knife steel guide](/magazine/japanese-knife-steel-guide) for why this matters.
 - **You're upgrading from an entry-level set.** Buying a fancier *set* repeats the original mistake at higher cost.
 - **You cook seriously enough to have favorites.** Once you have favorites, you've outgrown the premise of a set.
 
@@ -106,10 +106,10 @@ The default "nice gift" Japanese set. VG-MAX core steel, Damascus cladding, pakk
 Premium tier. SG2 powdered steel holds an edge longer than almost anything in this price class, karelian birch handles are stunning. Pricey on a per-knife basis but the steel quality is real. Best for: gift to a serious home cook who already loves Japanese knives.
 
 ### Global G-83567 7-Piece Set (~$450)
-Polarizing handles (all-steel, dimpled, no separate scales) but lightweight and indestructible. CROMOVA 18 steel is softer than the premium options, easier to maintain, more forgiving for beginners. Best for: kitchens that prioritize hygiene and durability over edge-holding extremes. We compare this brand head-to-head in [Shun vs Global vs Miyabi](/articles/shun-vs-global-vs-miyabi).
+Polarizing handles (all-steel, dimpled, no separate scales) but lightweight and indestructible. CROMOVA 18 steel is softer than the premium options, easier to maintain, more forgiving for beginners. Best for: kitchens that prioritize hygiene and durability over edge-holding extremes. We compare this brand head-to-head in [Shun vs Global vs Miyabi](/magazine/shun-vs-global-vs-miyabi).
 
 ### Tojiro DP 3-Piece Starter Set (~$220)
-The honest recommendation. Three knives — gyuto, petty, paring — VG10 core steel, no-frills Western handles, no block, no shears, no honing steel. Just three working knives at a price that doesn't punish you for picking a set. Best for: budget-conscious starters who want to test if Japanese steel is for them. Featured prominently in our [best Japanese knives for beginners 2026](/articles/best-japanese-knives-for-beginners-2026) roundup.
+The honest recommendation. Three knives — gyuto, petty, paring — VG10 core steel, no-frills Western handles, no block, no shears, no honing steel. Just three working knives at a price that doesn't punish you for picking a set. Best for: budget-conscious starters who want to test if Japanese steel is for them. Featured prominently in our [best Japanese knives for beginners 2026](/magazine/best-japanese-knives-for-beginners-2026) roundup.
 
 ## The Alternative: Building Your Own 3-Knife Setup
 

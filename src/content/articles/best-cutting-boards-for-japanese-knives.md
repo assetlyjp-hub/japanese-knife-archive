@@ -23,7 +23,7 @@ But harder also means more brittle. A softer Western edge that hits a rigid surf
 
 Surface hardness is the variable that matters. The general rule: **the cutting surface should be softer than your blade's edge.** Glass (Mohs 5.5+), ceramic (Mohs 7), granite, and steel all violate this rule and will chip a Japanese edge with single contact. Wood, soft rubber, and quality composite boards stay below the blade hardness and absorb the impact instead of transmitting it.
 
-If you have not yet read about the broader category of mistakes that ruin Japanese blades, [the seven most common Japanese knife mistakes](/articles/japanese-knife-mistakes) covers cutting boards alongside dishwasher use, glass surfaces, and improper storage.
+If you have not yet read about the broader category of mistakes that ruin Japanese blades, [the seven most common Japanese knife mistakes](/magazine/japanese-knife-mistakes) covers cutting boards alongside dishwasher use, glass surfaces, and improper storage.
 
 ## End-Grain vs Edge-Grain Wood: The Difference Matters
 
@@ -87,7 +87,7 @@ This will be unpopular because bamboo boards are everywhere. They are cheap, loo
 
 I have replaced cheap bamboo boards in friends' kitchens more times than I can count. The story is always the same: the knife was sharp when they bought it a year ago, and now it will not slice a tomato. The cause is almost always the bamboo board they got as a wedding present.
 
-If you are weighing a knife purchase against the board you already own, our [Japanese knife buying guide](/articles/japanese-knife-buying-guide) and [first knife selection guide](/articles/best-japanese-knives-for-beginners-2026) both assume you have an edge-friendly board in place.
+If you are weighing a knife purchase against the board you already own, our [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) and [first knife selection guide](/magazine/best-japanese-knives-for-beginners-2026) both assume you have an edge-friendly board in place.
 
 ## Maintenance by Material
 
@@ -149,7 +149,7 @@ This is where most home cooks should land. The performance difference between $3
 - **Custom hinoki board from a Japanese craftsman.** The premium hinoki boards from makers like Tsubaya in Tokyo run $250-400 and are works of art.
 - **Walnut end-grain, 45x35 cm.** Brands like Brooklyn Butcher Block or Larch Wood. Slightly softer than maple end-grain, beautiful to look at.
 
-At this tier you are buying a board that outlasts most knives. Pair it with a quality whetstone setup ([whetstone buying guide](/articles/japanese-whetstone-buying-guide)) and your edge maintenance system is essentially complete.
+At this tier you are buying a board that outlasts most knives. Pair it with a quality whetstone setup ([whetstone buying guide](/magazine/japanese-whetstone-buying-guide)) and your edge maintenance system is essentially complete.
 
 ## How Board Choice Affects Sharpening Frequency
 
@@ -166,7 +166,7 @@ Real numbers from my own kitchen and from talking to professional sharpeners:
 | Maple end-grain | 5-6 months |
 | Rubber (Hi-Soft / Asahi) | 6-8 months |
 
-That is the entire argument. If you spend $80 on a hinoki or rubber board, you might sharpen four times a year instead of fifteen. Over a knife's lifetime, that translates to less steel removed, longer blade life, and dramatically less time spent at the stones. If you do sharpen yourself, [the sharpening guide](/articles/how-to-sharpen-japanese-knife) walks through technique.
+That is the entire argument. If you spend $80 on a hinoki or rubber board, you might sharpen four times a year instead of fifteen. Over a knife's lifetime, that translates to less steel removed, longer blade life, and dramatically less time spent at the stones. If you do sharpen yourself, [the sharpening guide](/magazine/how-to-sharpen-japanese-knife) walks through technique.
 
 ## Common Pitfalls
 
@@ -225,6 +225,6 @@ If I had to recommend one path:
 - Never put it in the dishwasher (unless it is a Hi-Soft, in which case top rack only).
 - Oil monthly if it is wood. Plane flat every few years if it cups or scores.
 
-Pair that with reasonable sharpening habits ([how to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife)) and an honest matching of knife steel to your maintenance willingness ([Japanese knife steel guide](/articles/japanese-knife-steel-guide)), and your knives will outlive you.
+Pair that with reasonable sharpening habits ([how to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife)) and an honest matching of knife steel to your maintenance willingness ([Japanese knife steel guide](/magazine/japanese-knife-steel-guide)), and your knives will outlive you.
 
 The board is not glamorous. But it is the difference between a knife that stays sharp for months and one that needs constant fixing. Get it right once, and stop thinking about it.

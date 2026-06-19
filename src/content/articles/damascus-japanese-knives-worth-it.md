@@ -27,7 +27,7 @@ The word "damascus" gets used three different ways, and they're not interchangea
 
 The third category is what we're talking about when we discuss buying decisions. The damascus pattern on a Shun Classic does nothing for the cutting edge — the VG-10 core is identical to what you'd find on a non-damascus VG-10 knife. The pattern is purely aesthetic. This is not a scam; it's just how modern damascus knives work, and the marketing rarely makes it clear.
 
-For a deeper dive on what actually drives cutting performance, see [the steel guide](/articles/japanese-knife-steel-guide).
+For a deeper dive on what actually drives cutting performance, see [the steel guide](/magazine/japanese-knife-steel-guide).
 
 ## The Performance Question: Does Damascus Cut Better?
 
@@ -55,13 +55,13 @@ I own three damascus knives and use them regularly, so I'm not anti-damascus. He
 
 ## When Damascus Is Not Worth It
 
-**For a workhorse beater knife.** If you cook five nights a week and bang through prep, you want a knife you don't worry about. Damascus knives feel precious; non-damascus knives feel like tools. I reach for a plain Tojiro DP for weeknight prep nine times out of ten. See [under-$200 picks](/articles/best-japanese-knives-under-200) for workhorse options.
+**For a workhorse beater knife.** If you cook five nights a week and bang through prep, you want a knife you don't worry about. Damascus knives feel precious; non-damascus knives feel like tools. I reach for a plain Tojiro DP for weeknight prep nine times out of ten. See [under-$200 picks](/magazine/best-japanese-knives-under-200) for workhorse options.
 
 **On a budget under $150.** Cheap damascus is almost always worse than non-damascus at the same price point. The manufacturer spent budget on the cladding instead of the core steel, and you end up with a pretty knife that doesn't cut well. Below $150, get a plain VG-10 or AUS-10 knife from a reputable maker. The cutting experience will be better.
 
-**If you don't notice or care about aesthetics.** Some people genuinely don't see the pattern after a week. If that's you — and it's a lot of people — you're paying for something you'll never enjoy. There's no shame in that; just buy a non-damascus knife and put the savings toward [a good cutting board](/articles/best-cutting-boards-for-japanese-knives) or a sharpening stone.
+**If you don't notice or care about aesthetics.** Some people genuinely don't see the pattern after a week. If that's you — and it's a lot of people — you're paying for something you'll never enjoy. There's no shame in that; just buy a non-damascus knife and put the savings toward [a good cutting board](/magazine/best-cutting-boards-for-japanese-knives) or a sharpening stone.
 
-**For carbon-only cooks.** Most damascus knives have stainless cladding for visual contrast. If you specifically want carbon steel for the patina and reactivity (see [carbon vs stainless](/articles/carbon-vs-stainless)), damascus options narrow significantly and the ones that exist are very expensive.
+**For carbon-only cooks.** Most damascus knives have stainless cladding for visual contrast. If you specifically want carbon steel for the patina and reactivity (see [carbon vs stainless](/magazine/carbon-vs-stainless)), damascus options narrow significantly and the ones that exist are very expensive.
 
 ## My Top Damascus Picks (If You're Buying)
 
@@ -69,7 +69,7 @@ After cycling through my own collection and a lot of friends', here are the four
 
 ### Shun Classic (VG-10 core, ~$165 for 8" gyuto)
 
-The accessible entry point. Shun's damascus is the most consistent in the industry — the pattern is even, the grind is acceptable for the price, and you can buy it at any Williams Sonoma if you want to handle one before purchasing. The core VG-10 takes a sharper edge than people give it credit for and holds it reasonably well. The downside is that Shun's grind is slightly thicker behind the edge than premium makers, so you'll feel more wedge in dense vegetables. As a first damascus, it's the right answer for most people. Compare with non-damascus options in [Shun vs Global vs Miyabi](/articles/shun-vs-global-vs-miyabi).
+The accessible entry point. Shun's damascus is the most consistent in the industry — the pattern is even, the grind is acceptable for the price, and you can buy it at any Williams Sonoma if you want to handle one before purchasing. The core VG-10 takes a sharper edge than people give it credit for and holds it reasonably well. The downside is that Shun's grind is slightly thicker behind the edge than premium makers, so you'll feel more wedge in dense vegetables. As a first damascus, it's the right answer for most people. Compare with non-damascus options in [Shun vs Global vs Miyabi](/magazine/shun-vs-global-vs-miyabi).
 
 ### Hattori HD (HG damascus, ~$400 for 8" gyuto)
 
@@ -81,7 +81,7 @@ The performance-per-dollar pick. Yoshimi Kato is a younger smith working out of 
 
 ### Kurosaki AS Damascus (Aogami Super core, ~$280 for 8" gyuto)
 
-The carbon-core option. Yu Kurosaki is one of the most photographed smiths on knife social media for a reason — his damascus aesthetics are striking, particularly the Senko ("flash") pattern. The Aogami Super core is reactive carbon steel, so this knife will patina over time and requires more care. But the cutting performance is exceptional, and if you want a damascus knife that's also a serious cutter, Kurosaki AS is the one. Just understand the carbon steel maintenance commitment first — see [the care guide](/articles/how-to-care-for-japanese-knives) and [first-knife considerations](/articles/how-to-choose-first-japanese-knife).
+The carbon-core option. Yu Kurosaki is one of the most photographed smiths on knife social media for a reason — his damascus aesthetics are striking, particularly the Senko ("flash") pattern. The Aogami Super core is reactive carbon steel, so this knife will patina over time and requires more care. But the cutting performance is exceptional, and if you want a damascus knife that's also a serious cutter, Kurosaki AS is the one. Just understand the carbon steel maintenance commitment first — see [the care guide](/magazine/japanese-knife-mistakes) and [first-knife considerations](/magazine/how-to-choose-first-japanese-knife).
 
 ## How to Spot Fake or Poor-Quality Damascus
 
@@ -105,7 +105,7 @@ Damascus knives are not more delicate than non-damascus knives in terms of edge 
 
 **Sanding scratches show more.** A scratch on a plain blade is one line. A scratch across damascus crosses dozens of layers and looks worse. Be more careful about what touches the side of the blade.
 
-Otherwise, treat a damascus knife like any other Japanese knife: hand wash, dry immediately, store on a [magnetic strip or saya](/articles/japanese-knife-storage-guide), avoid bones and frozen food, sharpen on whetstones.
+Otherwise, treat a damascus knife like any other Japanese knife: hand wash, dry immediately, store on a [magnetic strip or saya](/magazine/japanese-knife-storage-guide), avoid bones and frozen food, sharpen on whetstones.
 
 ## Honest Downsides of My Damascus Knives
 
@@ -128,7 +128,7 @@ A: Not necessarily. Many damascus knives are made with machine-rolled damascus b
 A: The pattern is etched into multi-layer steel, so it's permanent for the life of the blade — unlike a coating. The visual contrast (darker recessed layers) can fade with heavy polishing or aggressive cleaning, but the layered structure is real and stays.
 
 **Q: Is damascus harder to sharpen?**
-A: No. You're sharpening the core steel at the edge, not the cladding layers. The sharpening experience is identical to a non-damascus knife with the same core steel. See [how to sharpen a Japanese knife](/articles/how-to-sharpen-japanese-knife).
+A: No. You're sharpening the core steel at the edge, not the cladding layers. The sharpening experience is identical to a non-damascus knife with the same core steel. See [how to sharpen a Japanese knife](/magazine/how-to-sharpen-japanese-knife).
 
 **Q: Why do some damascus knives look so different from each other?**
 A: Different smiths use different layer counts, manipulation techniques (twist, raindrop, ladder, suminagashi), and base steels. A 33-layer raindrop pattern looks completely different from a 67-layer suminagashi. None is objectively better — it's aesthetic preference.
@@ -137,7 +137,7 @@ A: Different smiths use different layer counts, manipulation techniques (twist, 
 A: No. More layers means thinner individual layers, which can show a finer pattern but doesn't improve cutting. Some of the most beautiful damascus is in the 30-50 layer range, with bold contrast. Layer-count marketing past 100 is mostly numbers theater.
 
 **Q: Should my first Japanese knife be damascus?**
-A: Probably not. Spend your first $200-300 on a workhorse non-damascus knife from a reputable maker, learn how to use and maintain it, then decide whether you want damascus as a second knife. See [how to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife).
+A: Probably not. Spend your first $200-300 on a workhorse non-damascus knife from a reputable maker, learn how to use and maintain it, then decide whether you want damascus as a second knife. See [how to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife).
 
 **Q: Is damascus food-safe?**
 A: Yes. The cladding layers are food-grade stainless or carbon steel, same as non-damascus knives. Some people worry about the etching chemicals, but those are removed in finishing and the resulting steel surface is inert.
@@ -151,4 +151,4 @@ Damascus is beautiful. Damascus is, on a modern Japanese knife, mostly aesthetic
 
 If you want one damascus knife to keep forever, the Hattori HD is my top recommendation. If you want damascus on a tighter budget, the Shun Classic is the consistent default. If you want damascus performance approaching the high end at mid-tier pricing, look at Yoshimi Kato. And if you want carbon-core damascus that will patina with you over the years, Kurosaki AS is one of the most beautiful tools you can own.
 
-For more on what actually drives cutting performance, the [steel guide](/articles/japanese-knife-steel-guide) is the right next read. To zoom out to the broader buying decision, [the main buying guide](/articles/japanese-knife-buying-guide) covers the full landscape.
+For more on what actually drives cutting performance, the [steel guide](/magazine/japanese-knife-steel-guide) is the right next read. To zoom out to the broader buying decision, [the main buying guide](/magazine/japanese-knife-buying-guide) covers the full landscape.

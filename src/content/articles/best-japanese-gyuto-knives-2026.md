@@ -38,7 +38,7 @@ If in doubt, 210. You can always buy a 240 later as a second knife.
 
 ## Steel: the four families you need to know
 
-Japanese knife steel is a rabbit hole, and I've written a full [steel guide](/articles/japanese-knife-steel-guide) if you want the deep dive. For this article, here's the cheat sheet.
+Japanese knife steel is a rabbit hole, and I've written a full [steel guide](/magazine/japanese-knife-steel-guide) if you want the deep dive. For this article, here's the cheat sheet.
 
 ### VG-10
 
@@ -62,7 +62,7 @@ If you're new and don't want to think about it: get VG-10. If you want to learn 
 
 ### $50 tier: Tojiro DP Gyuto 210mm
 
-The Tojiro DP has been the universal "first Japanese knife" recommendation for fifteen years and there's a reason it hasn't been dethroned. Three-layer construction with a VG-10 core sandwiched between softer stainless cladding, a black pakkawood Western handle, and a ground edge that's already shaving sharp out of the box. You can read my full [Tojiro DP review](/articles/tojiro-dp-review) if you want the long version.
+The Tojiro DP has been the universal "first Japanese knife" recommendation for fifteen years and there's a reason it hasn't been dethroned. Three-layer construction with a VG-10 core sandwiched between softer stainless cladding, a black pakkawood Western handle, and a ground edge that's already shaving sharp out of the box. You can read my full [Tojiro DP review](/magazine/tojiro-dp-review) if you want the long version.
 
 What you give up at this price: the handle is functional but plain, the fit-and-finish on the spine and choil is rough (round it off with sandpaper in five minutes), and the blade profile has a slightly more pronounced belly than purists like. None of these matter. It cuts.
 
@@ -123,20 +123,20 @@ The downsides are real. White #2 will rust if you leave it wet for ten minutes. 
 
 The Takamura R2 deserves its own paragraph. If you specifically want maximum edge retention with a Western handle and you don't care about brand prestige, the Takamura R2 Migaki is arguably the best-cutting knife in this entire guide for under $250. The reason it's not my main $200 pick is availability — Takamura runs in small batches and stock is unpredictable. If you can find one, buy it.
 
-I also haven't included Shun, Global, or Miyabi anywhere. They're fine knives but at every price point above I think you can do better. If you want to know why, I cover it in [Shun vs. Global vs. Miyabi](/articles/best-japanese-knives-under-200).
+I also haven't included Shun, Global, or Miyabi anywhere. They're fine knives but at every price point above I think you can do better. If you want to know why, I cover it in [Shun vs. Global vs. Miyabi](/magazine/best-japanese-knives-under-200).
 
 ## How to actually choose
 
 If you're paralyzed:
 
-1. **Brand new to Japanese knives, never sharpened a knife in your life**: Tojiro DP 210mm. $55. Done. Read my [first knife guide](/articles/how-to-choose-first-japanese-knife) for sharpening basics.
+1. **Brand new to Japanese knives, never sharpened a knife in your life**: Tojiro DP 210mm. $55. Done. Read my [first knife guide](/magazine/how-to-choose-first-japanese-knife) for sharpening basics.
 2. **Some Japanese knife experience, ready to upgrade**: Sakai Takayuki 33-layer or Misono UX10 depending on whether you want traditional or Western feel.
 3. **You sharpen on stones already**: Masamoto KS. Skip the middle tiers.
 4. **You cook professionally**: Misono UX10 240mm for the line, Masamoto KS for prep.
 
-Whatever you buy, get a [petty](/articles/best-petty-knives-2026) within six months. A gyuto plus a 150mm petty handles 95% of home cooking.
+Whatever you buy, get a [petty](/magazine/best-petty-knives-2026) within six months. A gyuto plus a 150mm petty handles 95% of home cooking.
 
-For broader context across all knife types, see the [main buying guide](/articles/japanese-knife-buying-guide) and the [gyuto vs. santoku comparison](/articles/gyuto-vs-santoku).
+For broader context across all knife types, see the [main buying guide](/magazine/japanese-knife-buying-guide) and the [gyuto vs. santoku comparison](/magazine/gyuto-vs-santoku).
 
 ## FAQ
 

@@ -53,7 +53,7 @@ This bothers some purists ("it's German-owned"), but the knives themselves are g
 
 ## Steel: Where the Biggest Differences Hide
 
-Steel is the single most important factor in any Japanese knife, and this is where the three brands diverge sharply. If you want to go deeper on metallurgy before continuing, our [Japanese knife steel guide](/articles/japanese-knife-steel-guide) explains every term below.
+Steel is the single most important factor in any Japanese knife, and this is where the three brands diverge sharply. If you want to go deeper on metallurgy before continuing, our [Japanese knife steel guide](/magazine/japanese-knife-steel-guide) explains every term below.
 
 ### Shun's Steel Strategy
 
@@ -118,7 +118,7 @@ Miyabi handles vary by line but most use **Micarta** (linen and resin laminate) 
 - **Shun**: Medium. A 200mm Shun Classic weighs around 200g. Balance is slightly blade-forward.
 - **Miyabi**: The heaviest. Some Miyabi models hit 240g for a 200mm blade. Balance varies — the Artisan line is blade-forward, the Evolution is handle-heavy.
 
-Lighter is not inherently better. If you rock-chop herbs for 45 minutes, a heavier knife does more of the work for you. If you do a lot of tip work and delicate cuts, a lighter knife responds faster. This is covered in more depth in our [first Japanese knife buying guide](/articles/how-to-choose-first-japanese-knife).
+Lighter is not inherently better. If you rock-chop herbs for 45 minutes, a heavier knife does more of the work for you. If you do a lot of tip work and delicate cuts, a lighter knife responds faster. This is covered in more depth in our [first Japanese knife buying guide](/magazine/how-to-choose-first-japanese-knife).
 
 ## Aesthetics
 
@@ -148,7 +148,7 @@ Based on 2026 US street prices for 200-210mm chef's knives / gyutos:
 
 **Worst value**: Standard Shun Classic at full retail. VG-10 is no longer exotic, and brands like Tojiro or Masamoto offer similar steel for half the price. Wait for sales (Shun discounts heavily in May and November).
 
-If you want the full landscape of brands at every price, read our [Japanese knife buying guide](/articles/japanese-knife-buying-guide).
+If you want the full landscape of brands at every price, read our [Japanese knife buying guide](/magazine/japanese-knife-buying-guide).
 
 ## Honest Downsides
 
@@ -157,7 +157,7 @@ If you want the full landscape of brands at every price, read our [Japanese knif
 1. **Chippy**: VG-10 at 60-61 HRC is known for micro-chipping if you cut into bones, frozen food, or even dense squash carelessly. Shun's warranty covers this but the mail-in repair takes weeks.
 2. **Handle hygiene**: PakkaWood is stable but the fit between handle and tang can accumulate food. Watch for gaps.
 3. **Overpriced at retail**: Pay $175+ for a Shun Classic and you could have bought a better-performing knife from a specialist brand.
-4. **The "aspirational purchase" trap**: A lot of Shuns sit in drawers because owners are scared to use and sharpen them. Do not buy one if you won't learn to care for it — review common errors in [Japanese knife mistakes to avoid](/articles/japanese-knife-mistakes).
+4. **The "aspirational purchase" trap**: A lot of Shuns sit in drawers because owners are scared to use and sharpen them. Do not buy one if you won't learn to care for it — review common errors in [Japanese knife mistakes to avoid](/magazine/japanese-knife-mistakes).
 
 ### Global's Weak Points
 
@@ -175,11 +175,11 @@ If you want the full landscape of brands at every price, read our [Japanese knif
 
 ## Sharpening Considerations
 
-All three brands require whetstone sharpening to maintain peak performance. If you do not know how, our guide to [sharpening a Japanese knife](/articles/how-to-sharpen-japanese-knife) covers the basics.
+All three brands require whetstone sharpening to maintain peak performance. If you do not know how, our guide to [sharpening a Japanese knife](/magazine/how-to-sharpen-japanese-knife) covers the basics.
 
 - **Global**: The easiest to sharpen thanks to softer steel. A #1000/#6000 combo stone works perfectly. Forgiving if you are learning.
 - **Shun**: Standard difficulty. VG-10 responds well to good stones. Needs #1000 for sharpening, #3000+ for polishing. Avoid diamond plates on the damascus cladding.
-- **Miyabi SG2 / ZDP-189**: The hardest to sharpen. You need quality stones — cheap whetstones will glaze over or wear unevenly. Consider a Shapton Pro #2000 or higher for these steels. Budget appropriately by reading our [whetstone buying guide](/articles/japanese-whetstone-buying-guide).
+- **Miyabi SG2 / ZDP-189**: The hardest to sharpen. You need quality stones — cheap whetstones will glaze over or wear unevenly. Consider a Shapton Pro #2000 or higher for these steels. Budget appropriately by reading our [whetstone buying guide](/magazine/japanese-whetstone-buying-guide).
 
 ## Which Brand Suits Which User?
 
@@ -227,7 +227,7 @@ If I had to choose one and only one for a friend who is a capable home cook and 
 
 **Where Shun wins**: As a gift, as a gateway knife, as something you can walk into a store and return. Its marketing exists for real reasons. But on pure performance-per-dollar, it is rarely the sharpest choice.
 
-None of these three is the "best Japanese knife" in an absolute sense. They are the three best **distributed** Japanese knife brands in the West — which is different. The moment you are comfortable ordering from Japan-focused retailers or understand [gyuto vs santoku](/articles/gyuto-vs-santoku) and [carbon vs stainless](/articles/carbon-vs-stainless) trade-offs, the world beyond these three opens up, and the value proposition shifts.
+None of these three is the "best Japanese knife" in an absolute sense. They are the three best **distributed** Japanese knife brands in the West — which is different. The moment you are comfortable ordering from Japan-focused retailers or understand [gyuto vs santoku](/magazine/gyuto-vs-santoku) and [carbon vs stainless](/magazine/carbon-vs-stainless) trade-offs, the world beyond these three opens up, and the value proposition shifts.
 
 But if you are picking one of these three, you are not making a bad choice. Just make it the right one for how you actually cook.
 

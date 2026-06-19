@@ -23,7 +23,7 @@ This is the single fastest way to destroy any knife's edge, but Japanese knives 
 
 I have seen people use glass boards because they are "easy to clean" or look nice on the counter. The irony is that they spend more time sharpening — and eventually replace the knife years before they should need to.
 
-**The fix:** Use an end-grain wood board (hinoki, maple, or walnut are all excellent) or a quality rubber board like the Hasegawa or Asahi synthetic rubber boards that Japanese professional kitchens use. These materials are soft enough to give way under the edge rather than fighting it. Your edge will last three to five times longer. If you are unsure which knife to pair with your new board setup, our [Japanese knife buying guide](/articles/japanese-knife-buying-guide) covers the essentials.
+**The fix:** Use an end-grain wood board (hinoki, maple, or walnut are all excellent) or a quality rubber board like the Hasegawa or Asahi synthetic rubber boards that Japanese professional kitchens use. These materials are soft enough to give way under the edge rather than fighting it. Your edge will last three to five times longer. If you are unsure which knife to pair with your new board setup, our [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) covers the essentials.
 
 ## Mistake #2: Putting Your Japanese Knife in the Dishwasher
 
@@ -31,7 +31,7 @@ The dishwasher is a hostile environment for Japanese knives. It attacks on multi
 
 **The heat problem:** Dishwashers reach 140-160F during the wash cycle and higher during drying. Repeated thermal cycling can affect the temper of harder steels over time. More immediately, it destroys wooden and composite handles. Wa-handles (the traditional Japanese octagonal or D-shaped handles) are typically attached with friction fit and a small amount of adhesive or resin. Hot water and steam loosen that bond, and the handle starts wobbling within a few cycles.
 
-**The chemistry problem:** Dishwasher detergent is far more alkaline than dish soap. It is designed to strip baked-on food from ceramics — and it will strip the patina from carbon steel and etch the surface of stainless steel. If your knife is [carbon steel](/articles/carbon-vs-stainless), you will find rust spots after a single cycle.
+**The chemistry problem:** Dishwasher detergent is far more alkaline than dish soap. It is designed to strip baked-on food from ceramics — and it will strip the patina from carbon steel and etch the surface of stainless steel. If your knife is [carbon steel](/magazine/carbon-vs-stainless), you will find rust spots after a single cycle.
 
 **The physical damage problem:** Your knife bounces around in there. It contacts other utensils, the rack, the spray arm. The thin, hard edge chips against spoons and pots. The tip — often the thinnest, most delicate part of a Japanese knife — is especially vulnerable.
 
@@ -45,7 +45,7 @@ Most Western knives come with a factory edge between 18 and 22 degrees per side.
 
 The opposite mistake — going too acute, say 8 degrees — is equally problematic. The edge becomes so thin that it folds or chips during normal use. This is especially dangerous with softer stainless steels that cannot support such an acute angle.
 
-**The fix:** Check the manufacturer's recommended angle. Most Japanese double-bevel knives perform best at 12 to 15 degrees per side. If you are new to freehand sharpening, use an angle guide on your whetstone until you develop muscle memory. Our [complete sharpening guide](/articles/how-to-sharpen-japanese-knife) walks you through the process step by step, including how to find and hold the correct angle consistently.
+**The fix:** Check the manufacturer's recommended angle. Most Japanese double-bevel knives perform best at 12 to 15 degrees per side. If you are new to freehand sharpening, use an angle guide on your whetstone until you develop muscle memory. Our [complete sharpening guide](/magazine/how-to-sharpen-japanese-knife) walks you through the process step by step, including how to find and hold the correct angle consistently.
 
 One honest caveat: maintaining a precise angle freehand takes practice. If you find it frustrating, there is no shame in using a guided sharpening system — just make sure it accommodates angles below 15 degrees, because many budget systems do not.
 
@@ -66,7 +66,7 @@ Common scenarios where people apply lateral force without realizing it:
 
 **The fix:** Use the right tool. A deba or heavy cleaver for bones. A bench scraper for moving food. Let hard squash soften in the microwave for a minute before cutting. And never, ever cut frozen food with a Japanese knife — let it thaw first.
 
-If you need a knife that handles rougher work, consider adding a [sturdy budget option](/articles/best-japanese-knives-under-100) to your collection specifically for those tasks.
+If you need a knife that handles rougher work, consider adding a [sturdy budget option](/magazine/best-japanese-knives-under-100) to your collection specifically for those tasks.
 
 ## Mistake #5: Storing Your Knife Loose in a Drawer
 
@@ -88,7 +88,7 @@ The key principle is the same regardless of method: the edge should never contac
 
 ## Mistake #6: Neglecting Patina and Rust on Carbon Steel
 
-If you chose a carbon steel knife — [and there are excellent reasons to](/articles/carbon-vs-stainless) — you signed up for a relationship that requires some attention. Carbon steel is reactive. It will change color, develop patina, and if neglected, rust.
+If you chose a carbon steel knife — [and there are excellent reasons to](/magazine/carbon-vs-stainless) — you signed up for a relationship that requires some attention. Carbon steel is reactive. It will change color, develop patina, and if neglected, rust.
 
 **The difference between patina and rust:** Patina is a stable oxide layer (blue, gray, or dark brown) that actually protects the steel underneath. It is desirable. Rust is an unstable, destructive oxide (orange or red) that pits the steel surface and eventually compromises the blade. Patina prevents rust. Rust destroys the knife.
 
@@ -102,7 +102,7 @@ If you chose a carbon steel knife — [and there are excellent reasons to](/arti
 
 **Establish a maintenance routine:** After each use, rinse, dry immediately, and apply a thin coat of camellia oil or food-grade mineral oil before storing. Once the habit forms, it takes about twenty seconds and becomes automatic.
 
-The maintenance demands are real — this is a genuine downside of carbon steel, and anyone who tells you otherwise is not being honest. But for many cooks, the sharpness and cutting feel make the trade-off worthwhile. If you want to understand the [full steel picture](/articles/japanese-knife-steel-guide) before committing, it is worth reading up on the specific steel types and what each demands.
+The maintenance demands are real — this is a genuine downside of carbon steel, and anyone who tells you otherwise is not being honest. But for many cooks, the sharpness and cutting feel make the trade-off worthwhile. If you want to understand the [full steel picture](/magazine/japanese-knife-steel-guide) before committing, it is worth reading up on the specific steel types and what each demands.
 
 ## Mistake #7: Using the Wrong Knife for the Task
 
@@ -120,7 +120,7 @@ Western kitchen culture, by contrast, often revolves around the "one good chef's
 
 **The fix:** You do not need a dozen specialized knives. A good gyuto (or santoku) handles 80% of kitchen tasks. Add a petty knife for detail work and a bread knife, and you have a genuinely complete setup. If you do rough work regularly — breaking down poultry, cutting through cartilage — add a Western-style chef's knife or a Chinese cleaver to your rotation rather than subjecting your Japanese blade to that abuse.
 
-If you are still building your collection and wondering where to start, our [guide to choosing your first Japanese knife](/articles/how-to-choose-first-japanese-knife) helps you pick the right blade for how you actually cook, not how you think you should cook.
+If you are still building your collection and wondering where to start, our [guide to choosing your first Japanese knife](/magazine/how-to-choose-first-japanese-knife) helps you pick the right blade for how you actually cook, not how you think you should cook.
 
 ## The Bottom Line
 

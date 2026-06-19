@@ -13,7 +13,7 @@ articleType: "listicle"
 
 There's a well-known gap between what professional chefs *recommend* and what they *actually use* at home. Walk into any professional kitchen, and you'll find beaten-up workhorses that cost a fraction of the flashy knives promoted on social media. The truth? Most chefs reach for Japanese knives in the $100–$200 range — blades that deliver exceptional performance without the heartbreak of chipping a $500 knife on a butternut squash.
 
-If you're new to Japanese knives, start with our [complete buying guide](/articles/japanese-knife-buying-guide) for the fundamentals. Already know what you want? Read on.
+If you're new to Japanese knives, start with our [complete buying guide](/magazine/japanese-knife-buying-guide) for the fundamentals. Already know what you want? Read on.
 
 ## The $200 Sweet Spot: Why It Matters
 
@@ -32,7 +32,7 @@ Above $200, you're paying for aesthetics — Damascus cladding, exotic handle wo
 
 ### The Gyuto: Your Desert-Island Knife
 
-If you could own only one Japanese knife, every chef on earth would tell you the same thing: **get a gyuto**. It's the Japanese equivalent of a Western chef's knife, but thinner, lighter, and sharper. (For more on gyutos specifically, see our [best gyuto knives roundup](/articles/best-gyuto-knives).)
+If you could own only one Japanese knife, every chef on earth would tell you the same thing: **get a gyuto**. It's the Japanese equivalent of a Western chef's knife, but thinner, lighter, and sharper. (For more on gyutos specifically, see our [best gyuto knives roundup](/magazine/best-gyuto-knives).)
 
 **Top picks under $200:**
 
@@ -67,7 +67,7 @@ Affordable enough to be an impulse buy, good enough to become your favorite knif
 
 ## Steel Types: What Actually Matters
 
-Forget the marketing. Here's what you need to know about steel at this price point. (For a deep dive, read our [complete steel guide](/articles/japanese-knife-steel-guide).)
+Forget the marketing. Here's what you need to know about steel at this price point. (For a deep dive, read our [complete steel guide](/magazine/japanese-knife-steel-guide).)
 
 **VG-10** — The gold standard for stainless Japanese knives. Hard enough (60-61 HRC) to hold a screaming edge, but tough enough to resist chipping with proper technique. Most knives in the $80-$180 range use this steel.
 
@@ -95,7 +95,7 @@ A well-ground $80 knife will outcut a poorly ground $300 knife every time. This 
 Japanese knives demand exactly two things:
 
 1. **Hand wash and dry immediately** — Never dishwasher. Ever. The heat warps handles and the detergent corrodes steel.
-2. **Sharpen on a whetstone** — A 1000/3000 grit combination stone costs $30 and will last years. Honing steels are for German knives; they can chip Japanese blades. (Need help? See our [sharpening guide](/articles/how-to-sharpen-japanese-knife).)
+2. **Sharpen on a whetstone** — A 1000/3000 grit combination stone costs $30 and will last years. Honing steels are for German knives; they can chip Japanese blades. (Need help? See our [sharpening guide](/magazine/how-to-sharpen-japanese-knife).)
 
 That's it. No special oils, no complicated maintenance. Just wash, dry, and sharpen every few weeks.
 

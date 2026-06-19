@@ -112,7 +112,7 @@ If you mess up the back side and grind it down too much, you'll lose the urasuki
 
 Sujihiki sharpening is the same as any double-bevel knife — work both sides at a consistent angle, raise a burr, deburr. If you've sharpened a gyuto, you've sharpened a sujihiki. There's nothing weird about it.
 
-I cover the basics in my [whetstone sharpening guide](/articles/how-to-sharpen-japanese-knife) and there's a separate piece on [choosing whetstones](/articles/japanese-whetstone-buying-guide) if you're starting from scratch.
+I cover the basics in my [whetstone sharpening guide](/magazine/how-to-sharpen-japanese-knife) and there's a separate piece on [choosing whetstones](/magazine/japanese-whetstone-buying-guide) if you're starting from scratch.
 
 ## Length recommendations
 
@@ -212,15 +212,15 @@ For whole-fish breakdown, yes — you need something to handle bones and the spi
 Takobiki is the Kanto-region version of the yanagiba. Square tip instead of pointed, slightly different profile. Functionally near-identical for sashimi work. Yanagiba is more common outside Japan.
 
 **Can I sharpen a yanagiba on the same stones as my gyuto?**
-Yes. You'll want a finishing stone (#5000–#8000) for the edge, but the basic stones in any [whetstone kit](/articles/japanese-whetstone-buying-guide) work. The technique differs more than the stones.
+Yes. You'll want a finishing stone (#5000–#8000) for the edge, but the basic stones in any [whetstone kit](/magazine/japanese-whetstone-buying-guide) work. The technique differs more than the stones.
 
 **What about a sashimi knife from Misono or Tojiro that's labeled "double-bevel yanagiba"?**
 Those are basically sujihiki marketed as "western yanagiba." If it's double-beveled, it's a sujihiki regardless of the label. Treat it as such.
 
 ## Where this fits in your kit
 
-If you're newer to Japanese knives and not sure where slicers fit at all, start with my [Japanese knife buying guide](/articles/japanese-knife-buying-guide) for the broader picture. The [steel guide](/articles/japanese-knife-steel-guide) helps you understand carbon vs stainless tradeoffs that matter a lot for yanagiba. And if you're still picking your everyday knife, [gyuto vs santoku](/articles/gyuto-vs-santoku) is probably more relevant before you spend money on a slicer.
+If you're newer to Japanese knives and not sure where slicers fit at all, start with my [Japanese knife buying guide](/magazine/japanese-knife-buying-guide) for the broader picture. The [steel guide](/magazine/japanese-knife-steel-guide) helps you understand carbon vs stainless tradeoffs that matter a lot for yanagiba. And if you're still picking your everyday knife, [gyuto vs santoku](/magazine/gyuto-vs-santoku) is probably more relevant before you spend money on a slicer.
 
-For sushi specifically, my [sushi knife guide](/articles/sushi-knife-guide) covers the full traditional kit (yanagiba, deba, usuba) and how they work together.
+For sushi specifically, my [sushi knife guide](/magazine/sushi-knife-guide) covers the full traditional kit (yanagiba, deba, usuba) and how they work together.
 
 The right answer between yanagiba and sujihiki isn't really an either/or. It's: which one earns its place in your kitchen first. For 80% of home cooks, that's the sujihiki. For the 20% who are obsessed with raw fish, the yanagiba is worth the climb.

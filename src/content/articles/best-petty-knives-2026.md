@@ -13,7 +13,7 @@ I have a confession. For the first three years I owned Japanese knives, I never 
 
 I haven't put it down since.
 
-The petty is the knife I now reach for more than any other in my kitchen. Not the gyuto, not the santoku — the small, sleek, almost forgotten blade that Japanese makers refined over decades for the work that actually fills most of a cook's day. If you own one good Japanese knife and you're wondering what to add next, this is the answer. If you don't own any Japanese knives yet and you're staring at a new [japanese knife buying guide](/articles/japanese-knife-buying-guide) trying to pick a first blade, the petty deserves a much closer look than most beginners give it.
+The petty is the knife I now reach for more than any other in my kitchen. Not the gyuto, not the santoku — the small, sleek, almost forgotten blade that Japanese makers refined over decades for the work that actually fills most of a cook's day. If you own one good Japanese knife and you're wondering what to add next, this is the answer. If you don't own any Japanese knives yet and you're staring at a new [japanese knife buying guide](/magazine/japanese-knife-buying-guide) trying to pick a first blade, the petty deserves a much closer look than most beginners give it.
 
 Here's what I've learned about petty knives, what to buy at every budget, and the honest downsides nobody talks about.
 
@@ -43,7 +43,7 @@ A petty handles:
 - Hulling strawberries, segmenting citrus
 - Slicing cherry tomatoes, fingerling potatoes, baby carrots
 - Trimming silver skin off a tenderloin
-- Deboning chicken thighs (if you don't have a [honesuki](/articles/japanese-knife-buying-guide))
+- Deboning chicken thighs (if you don't have a [honesuki](/magazine/japanese-knife-buying-guide))
 - Cutting cheese, butter, charcuterie
 - Slicing baguettes for crostini
 - In-hand work: peeling apples or potatoes when you don't want to dirty a board
@@ -74,9 +74,9 @@ Brutal honesty: I haven't found a Japanese-made petty under $50 that's worth own
 
 The Tojiro DP F-803 is the petty I recommend more than any other knife. VG-10 core steel, stainless cladding, a Western-style pakkawood handle, and edge geometry that genuinely punches several tiers above its price. It's not romantic. It won't make Instagram. But it will outperform a Wüsthof or Henckels utility knife by a wide margin and cost about the same.
 
-I gave one to my brother for Christmas three years ago. He uses it daily. Still scary sharp with basic [stropping and minimal honing](/articles/japanese-knife-mistakes).
+I gave one to my brother for Christmas three years ago. He uses it daily. Still scary sharp with basic [stropping and minimal honing](/magazine/japanese-knife-mistakes).
 
-If you're shopping in this range, also consider it alongside the picks in [best Japanese knives under $100](/articles/best-japanese-knives-under-100).
+If you're shopping in this range, also consider it alongside the picks in [best Japanese knives under $100](/magazine/best-japanese-knives-under-100).
 
 ### Around $150-$200: Takamura R2 Migaki 130mm Petty
 
@@ -92,7 +92,7 @@ If you want a petty with traditional Japanese aesthetics — blonde ho-wood hand
 
 The handle change alone is worth the price jump. A wa-handle (Japanese-style) petty feels balanced differently than a Western yo-handle: lighter in the hand, blade-forward, encouraging tip-led work. It's the kind of knife that rewards the cook who has already developed some technique.
 
-If you're choosing between styles, my gyuto comparison piece in [gyuto vs santoku](/articles/gyuto-vs-santoku) covers handle preferences in more depth — the same principles apply.
+If you're choosing between styles, my gyuto comparison piece in [gyuto vs santoku](/magazine/gyuto-vs-santoku) covers handle preferences in more depth — the same principles apply.
 
 ### $300+: Misono UX10 150mm Petty
 
@@ -109,7 +109,7 @@ It's not the sharpest petty in this list out of the box (the Takamura wins that)
 | Sakai Takayuki Ginsan | 150mm | Ginsan (Silver 3) | Wa-handle ho-wood | Traditional feel, edge retention | $200-$300 |
 | Misono UX10 | 150mm | Swedish stainless | Western | Pro durability, daily abuse | $250-$320 |
 
-For a deeper look at the steels themselves, my [Japanese knife steel guide](/articles/japanese-knife-steel-guide) breaks down VG-10, R2, Ginsan, and the trade-offs between each.
+For a deeper look at the steels themselves, my [Japanese knife steel guide](/magazine/japanese-knife-steel-guide) breaks down VG-10, R2, Ginsan, and the trade-offs between each.
 
 ## Tasks the Petty Does Best
 
@@ -129,7 +129,7 @@ This is where most beginner guides go quiet. The petty is not a do-everything kn
 
 - **Hard winter squash**: Butternut, kabocha, acorn. The blade is too short and too thin. You will chip the edge or drive yourself insane. Use a heavier gyuto or a cleaver.
 - **Large produce**: A whole watermelon, a head of cabbage, a pumpkin. You need length and weight, neither of which a petty has.
-- **Bone-in poultry**: A petty can debone a chicken thigh, but breaking down a whole chicken with the spine intact is a job for a cleaver or a [honesuki](/articles/japanese-knife-buying-guide).
+- **Bone-in poultry**: A petty can debone a chicken thigh, but breaking down a whole chicken with the spine intact is a job for a cleaver or a [honesuki](/magazine/japanese-knife-buying-guide).
 - **Frozen food**: Don't. You'll chip the edge instantly. This applies to any Japanese knife.
 - **Crusty bread**: A petty isn't serrated. It will tear the crust and squash the crumb.
 
@@ -140,7 +140,7 @@ If you understand these limits, the petty becomes a precision tool that compleme
 Japanese pettys are thinner than their Western counterparts, and many use harder steel. That's the source of their cutting performance and the source of their fragility. Treat yours like this:
 
 1. **Hand wash, dry immediately.** Never the dishwasher. Carbon steels will rust within hours; even stainless won't survive detergent and heat cycles long-term.
-2. **Use a wood or hi-soft cutting board.** Glass, ceramic, or steel will destroy any Japanese edge. My piece on [best cutting boards for Japanese knives](/articles/best-japanese-knives-for-beginners-2026) covers this in detail elsewhere on the site.
+2. **Use a wood or hi-soft cutting board.** Glass, ceramic, or steel will destroy any Japanese edge. My piece on [best cutting boards for Japanese knives](/magazine/best-japanese-knives-for-beginners-2026) covers this in detail elsewhere on the site.
 3. **Hone with a ceramic rod weekly, sharpen on a whetstone every few months.** Don't use a pull-through sharpener. Don't use a steel honing rod from a Western knife set.
 4. **Store properly.** A magnetic strip, knife block with vertical slots, or a saya (wooden sheath) all work. A drawer full of metal utensils will trash the edge.
 5. **Don't pry, twist, or hit bones.** The petty is not a tool for force.
@@ -156,7 +156,7 @@ No. A paring knife is shorter (75mm-100mm) and designed primarily for in-hand pe
 Yes, if you regularly prep small ingredients (shallots, herbs, garlic, citrus) or work on a small cutting board. The petty fills a real gap between paring and chef-knife duties. If you only cook in big batches with large produce, you can skip it.
 
 **What's the best petty knife for beginners?**
-The Tojiro DP 150mm. Forgiving steel, durable geometry, easy to sharpen, hard to damage. It's also the knife I recommend in [best Japanese knives for beginners 2026](/articles/best-japanese-knives-for-beginners-2026) for cooks who want one mid-range Japanese knife without the maintenance burden of carbon steel.
+The Tojiro DP 150mm. Forgiving steel, durable geometry, easy to sharpen, hard to damage. It's also the knife I recommend in [best Japanese knives for beginners 2026](/magazine/best-japanese-knives-for-beginners-2026) for cooks who want one mid-range Japanese knife without the maintenance burden of carbon steel.
 
 **Petty in carbon steel or stainless?**
 Stainless for almost everyone. The petty is the knife you'll grab fastest, often with wet hands or after handling acidic ingredients (citrus, tomatoes, onions). Carbon steel pettys exist and they're beautiful, but the maintenance is unforgiving on a knife you'll touch fifty times a meal.
@@ -165,7 +165,7 @@ Stainless for almost everyone. The petty is the knife you'll grab fastest, often
 For boneless chicken thighs and breasts, yes. For whole-chicken breakdown with the spine intact, no — use a cleaver or honesuki. A petty can technically do it, but you'll abuse the edge.
 
 **Is 150mm too small to be a primary knife?**
-For most people, yes. A 150mm petty is excellent as a second or third knife but not as your only blade. If you want one knife to do everything, choose a 180mm-210mm gyuto or santoku. My piece on [how to choose your first Japanese knife](/articles/how-to-choose-first-japanese-knife) walks through this decision.
+For most people, yes. A 150mm petty is excellent as a second or third knife but not as your only blade. If you want one knife to do everything, choose a 180mm-210mm gyuto or santoku. My piece on [how to choose your first Japanese knife](/magazine/how-to-choose-first-japanese-knife) walks through this decision.
 
 **Are expensive pettys actually better?**
 Up to about $200, yes — meaningful differences in steel, geometry, and finish. Above $300, you're paying for craftsmanship, aesthetics, and small marginal performance gains. A $400 petty cuts maybe 5% better than a $200 petty if you have the technique to feel the difference.
