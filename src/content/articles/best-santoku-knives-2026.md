@@ -2,7 +2,7 @@
 title: "Best Santoku Knives 2026: The All-Purpose Japanese Knife Compared"
 description: "The best santoku knives across every budget — what the 'three virtues' blade does best, santoku vs gyuto, and honest picks from $50 to $250."
 category: "guide"
-tags: [santoku, all-purpose, buying-guide, japanese-knife, 2026]
+tags: [santoku, all-purpose, buying-guide, japanese-knife, "2026"]
 publishedAt: "2026-05-10"
 updatedAt: "2026-05-10"
 relatedKnives: ["tojiro-dp-santoku-170", "global-g46-santoku", "shun-premier-santoku-180"]

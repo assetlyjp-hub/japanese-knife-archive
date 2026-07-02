@@ -2,7 +2,7 @@
 title: "Best Japanese Gyuto Knives 2026: Complete Buying Guide by Budget"
 description: "The best Japanese gyuto chef's knives across every budget — from $50 Tojiro DP to $400 Masamoto KS. Steel, edge geometry, and honest picks."
 category: "guide"
-tags: [gyuto, chef-knife, buying-guide, japanese-knife, 2026]
+tags: [gyuto, chef-knife, buying-guide, japanese-knife, "2026"]
 publishedAt: "2026-05-10"
 updatedAt: "2026-05-10"
 relatedKnives: ["tojiro-dp-gyuto-210", "takamura-r2-gyuto-210", "sakai-takayuki-vg10-gyuto", "masamoto-ks-gyuto-210", "mac-professional-gyuto-210", "misono-ux10-gyuto-210"]
